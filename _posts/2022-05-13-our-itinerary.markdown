@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Our Itinerary!"
-date: 2022-05-13 00:00:00 -0400
 ---
 
-![uhal](/assets/uhal.jpg)
+![uhal](/assets/images/uhal.jpg)
 
 Today is the last day that either of us wil be in the work force for awhile. The pandemic
 has robbed us of our adventures. Tim is turning 30. Katherine has wanderlust. We
