@@ -22,6 +22,8 @@ title: The Great Migration
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+header_pages:
+  - posts.md
 # Build settings
 # theme: minima
 plugins:
