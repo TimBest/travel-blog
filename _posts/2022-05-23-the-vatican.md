@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Vatican"
+author: Katherine Nammacher
 ---
 
 _Note: Photos are below!_

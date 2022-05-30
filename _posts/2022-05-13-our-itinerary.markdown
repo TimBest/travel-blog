@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Our Itinerary!"
+author: Tim Best
 ---
 
 ![uhal](/assets/images/uhal.jpg)

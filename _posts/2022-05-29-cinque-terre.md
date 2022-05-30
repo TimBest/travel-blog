@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Italian Riviera & Cinque Terre"
+author: Katherine Nammacher
 ---
 
 Bonassola, Italy - If you’ve ever seen the Disney movie Luca, that’s where we are. Sea side hills dropping into the Mediterranean Sea. Europeans on a 4-day weekend for Ascension Day, a major holiday.
