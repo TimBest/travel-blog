@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
+  - our-trip.md
   - posts.md
 # Build settings
 # theme: minima
