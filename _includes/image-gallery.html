@@ -2,7 +2,6 @@
 <div class="gallery">
   {% for file in site.static_files %}
     {% if file.path contains include.folder %}
-      {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
       {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
       <div class="gallery-item">
@@ -10,7 +9,6 @@
         <img src="{{ file.path | relative_url }}" alt="{{ filename }}" class="thumbnail"/>
       </a>
     </div>
-    {% endif %}
     {% endif %}
   {% endfor %}
   </div>
