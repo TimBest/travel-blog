@@ -7,7 +7,7 @@
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
       <div class="gallery-item">
         <a href="{{ file.path | relative_url }}" data-lightbox="gallery" data-image-alt="{{ filename }}">
-        <img src="{{ file.path | relative_url }}" alt="{{ filename }}" class="tumbnail"/>
+        <img src="{{ file.path | relative_url }}" alt="{{ filename }}" class="thumbnail"/>
       </a>
     </div>
     {% endif %}

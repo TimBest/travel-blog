@@ -5,15 +5,15 @@
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.tumbnail {
+.thumbnail {
   min-width: 100%;
   height: 100%;
   object-fit: cover;
   transition: transform 0.3s;
-}
 
-.tumbnail:hover {
-  transform: scale(1.05);
+  &:hover {
+    transform: scale(1.05);
+  }
 }
 
 .gallery {
