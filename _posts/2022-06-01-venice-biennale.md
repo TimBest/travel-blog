@@ -7,6 +7,8 @@ author: Timothy Best
 
 After train hoping from Bonassola to Pisa, Pisa to Florence, Florence to Venice. We had one more leg to go to get to our next stay: a vaporetto from the train station in Venice to Giudecca, a neighborhood island in Venice. Vaporettos are water taxis, transporting locals and tourists alike across the water.
 
+![route](/assets/images/2022-06-01-venice-biennale/route.png)
+
 ## The City
 
 As my first time in Venice, it was magical. The city is beautiful and centered around people - and people walking! It satisfies my desire for a city free of cars and with first-class pedestrian transit. Not having to deal with the noise of car and the constant fear of being hit by a car really allowed us to meander and enjoy the wanderlust of the city. Additionally, we enjoyed watching the food delivery and trash pickups by boat in the early morning. When transporting goods, the final legs of the journey - no matter the value of it - is by boat and then small carts easily able to do stairs, adding the city's magic. 
