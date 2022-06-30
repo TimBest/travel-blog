@@ -76,3 +76,51 @@
   text-align: center;
   margin-bottom: 15px;
 }
+
+// tooltip
+.tooltip {
+  $tooltip-bg: #111;
+  $tooltip-width: 120px;
+
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted $tooltip-bg;
+
+  &:hover, &:focus {
+    .tooltiptext {
+      visibility: visible;
+    }
+  }
+
+
+  .tooltiptext {
+    visibility: hidden;
+    width: $tooltip-width;
+    background-color: $tooltip-bg;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    position: absolute;
+    z-index: 1;
+    &:after {
+      content: " ";
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      margin-left: -5px;
+      border-width: 5px;
+      border-style: solid;
+      border-color: transparent transparent $tooltip-bg transparent;
+    }
+  }
+  .bottom {
+    top:100%;
+    left: 50%;
+    margin-left: -($tooltip-width/2);
+  }
+
+
+}
+
