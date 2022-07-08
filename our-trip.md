@@ -3,7 +3,7 @@ layout: default
 title: Our Trip
 ---
 
-![Map of the countries/states/provinces that we plan to visit](/assets/images/The_Great_Migration_v02.png)
+![Map of the countries/states/provinces that we plan to visit](/assets/images/The_Great_Migration_v03.png)
 
 **The Great Migration** is an opportunity for us to explore the world, take a break from working to reflect on our lives, and understand one another in a deeper way by traveling together. We are traveling for 10 months, attempting to visit one country per continent (plus Antarctica). This where we plan to be, which might change. Here's to adventure!
 
