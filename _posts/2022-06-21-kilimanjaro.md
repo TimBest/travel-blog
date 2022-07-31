@@ -8,9 +8,12 @@ author:
 
 {% include tooltip.html text="Jumbo," tip="Hello" %}
 
-Kilimanjaro was hard. We took a direct flight on a Boeing 777 from amsterdam and landed at 8pm local time. With customs and the drive to our hotel. We didn't get into our room until just after midnight. Then we still needed to pack our bags. One to store at the hotel and two to go up Kilimanjaro with our things and the gear we were renting. We quickly learned that our definition of a 'winter coat' differed from the rental companies. Thankfully we were able to get them agree to bring all their 'winter coats' the next morning so we could layer a few to stay warm. All in all we didn't get much sleep that night.
+Kilimanjaro was hard, for many reasons. That said, we are glad we hiked it.
 
-The next morning we awoke around 7 to eat breakfast and sort through our layers. When we walked out of the hotel we were greeted with a bus full of people. 14 in total! The driver, our coordinator, 2 guides, a waiter, a cook and 8 porters. We were quite taken a back with how many people there were to carry our things. As we are use to backpacking by ourselves or with a small group of friends. Where everyone is responsible for carrying their own things and the weight of the communal items is shared. 
+## Day 0 (Getting to Tanzania)
+We took a direct flight on a Boeing 777 from Amsterdam and landed at 8pm local time. With customs and the drive to our hotel, we didn't get into our room until just after midnight. At that point, we still needed to pack our bags and make sure that the rental equipment would work with our needs. With the bags, we also needed to create three: each of us with one bag to go up Kilimanjaro with our things, and a third to store at the hotel afterwards. When going through the gear we were renting, we quickly learned that our definition of a 'winter coat' differed from the rental company's (as they lived in a tropical climate). However, the top of Kilimanjaro is below freezing, so we chatted with them and and thankfully we were able to get them agree to bring all their 'winter coats' the next morning so we could layer a few coats ontop of one another to stay warm. All in all, we didn't get much sleep that night.
+
+The next morning we awoke around 7 to eat breakfast and sort through our layers. When we walked out of the hotel we were greeted with a bus full of people - which completely surprised us. 16 in total! The driver, our coordinator, 2 guides, a waiter, a cook and 8 porters. We were quite taken a back with how many people there were to carry our things, as we are used to backpacking by ourselves or with a small group of friends (without porters or support staff). Where everyone is responsible for carrying their own things and the weight of the communal items (and our bags) was shared amongst the porters. With that we drove to the base of the mountain to start the hike! 
 
 ## Day 1
 
@@ -20,22 +23,22 @@ The next morning we awoke around 7 to eat breakfast and sort through our layers.
 | Distance   | 11 km                |
 | Zone       | #2 Rain Forest       |
 
-On the drive from our hotel to the gate our guides introduced themselves and started telling us about the mountain. Including the five ecological zones:
+On the drive from our hotel to the gate our guides introduced themselves and started telling us about the mountain. Kilimanjaro consists of five ecological zones, from base to summit:
 
-1. Cultivate
+1. Cultivate (tropical areas that residents farm)
 2. Rain forest
 3. Heather moorland
 4. Alpine dessert
 5. Ice glacier
 
-We drove through cultivated zone which was largely covered with banana farms. Arriving at the gate we entered the Rain forest zone and set out on the first day of the Machame Route up the mountain. It was beautiful and reminded us both of Hawaii. We saw baboons eating food that other humans have dropped, many beautiful wild flowers, and a waterfall.
+We drove through cultivated zone which was largely covered with banana farms. Arriving at the gate we entered the rain forest zone and set out on the first day of the Machame Route up the mountain. It was beautiful and reminded us both of Hawaii. We saw baboons eating food that other humans have dropped, many beautiful wild flowers, and a waterfall.
 
 ![elephants trunk flower](/assets/images/2022-06-21-kilimanjaro/elepants_trunk.jpg)
 {% include caption.html text="The Elephants Trunk Flower - our favorite from the rain forest zone" %}
 
-This first section of the hike was where we had the most autonomy. Our guides let us hike freely in order to get a sense of how fit we were to submit. Unbeknownst to us at the time. They were watching our hiking to gauge our strength and help inform the pace they would set for us for the remaining days. 
+This first section of the hike was where we had the most autonomy. Our guides let us hike freely in order to get a sense of how fit we were to summit and how well we could pace ourselves. Of course, this was unbeknownst to us at the time. They were watching our hiking to gauge our strength and help inform the pace they would set for us for the remaining days. We also chatted with them and were truly bonded by the time we made it to camp. We also would regularly pass the cook and one of the porters, which was an indicator to us that we were going fast up the mountain on this day.
 
-We reached camp about an hour before night fall. It was located right on the border between the rain forest and the heather moorland zones. The temperature was dropping quickly and katherine's bag with all her layers had not yet arrived. Without her layers she was unable to stay warm. This worried our guides and turned out to be a learning lesson for all. For the rest of the trip it was made sure that our bags arrived at camp before us.
+We reached camp about an hour before night fall. It was located right on the border between the rain forest and the heather moorland zones. The temperature was dropping quickly and Katherine's bag with all her layers had not yet arrived, as it was with a porter we had passed along the way. Without her layers, it was really hard for her to stay warm. This worried our guides and turned out to be a learning lesson for all. For the rest of the trip, it was made sure that our bags arrived at camp before us.
 
 {% include image-gallery.html folder="/assets/images/2022-06-21-kilimanjaro/day1" %}
 
@@ -48,15 +51,17 @@ We reached camp about an hour before night fall. It was located right on the bor
 | Distance   | 5 km                   |
 | Zone       | Heather Moorland (#3)  |
 
-The night and morning were colder than we were expecting this early on in the hike. We ate break fest inside a tent that was borough just for our meals. Equipped with a lamp, table, two chairs, dinner ware and serving dishes. Even with all these luxury items breakfast was hard. One of the strategies we use when camping in cold weather is to bring food I absolutely love. This is really beneficial since it can be difficult to keep an apatite when cold and delicious food always goes down easy. However, we were now half way across the world with our food already planed and packed by someone else. Someone who was tasked with cooking western meals without access to western ingredients or pallet.
+The night and morning were colder than we were expecting this early on in the hike. We ate breakfast inside the large "dining tent", a large canvas tent brought specific for the "client" (us) to eat in. It was equipped with a lamp, table, two chairs, dinnerware and serving dishes. Even with all these luxury items, breakfast was hard. One of the strategies we use when camping in cold weather is to bring food we absolutely love. This is really beneficial since it can be difficult to keep an apetite when cold, and delicious food is always goes down easy. However, we were now halfway across the world and up a mountain with our food already planed and packed by someone else from an entirely different culture who was literally guessing about what we liked. Someone who was tasked with cooking western meals without access to western ingredients or pallette, and "western" ranging from Eastern European to US. It was humbling to watch this happen, given the effort they were putting in. That said, it was also challenging to find food we enjoyed.
 
-After breakfast we finally got to meet the whole crew and everyone introduced themselves. We tried to make a point of learning everyone's names. Which we did accomplish in the end although difficult at first. Especially for the porters we didn't interact with.
+After breakfast we finally got to meet the whole crew and everyone introduced themselves. We tried to make a point of learning everyone's names. While we did accomplish in the end, it difficult at first. Especially for the porters we did not interact with because they were more shy or did not speak any English.
 
-The hike up to Shira cave was beautiful. The heather moorland was less dense then the forest. However, still offered a wide variety of unique and interesting plants. Our guides were super knowledgeable about all the different plants and were able to answer all our questions. One of our favorite flowers we were introduced to was the everlasting flower. They came in a few different colors and shapes. Including the pink and yellow ones bellow. When touched the petals felt almost like plastic.
+The hike up to Shira Cave was beautiful. The heather moorland was less dense than the forest. However, still offered a wide variety of unique and interesting plants. Our guides were super knowledgeable about all the different plants and were able to answer all our questions. One of our favorite flowers we were introduced to was the Everlasting Flower. They came in a few different colors and shapes and were one of the few flowers blooming on the mountain. Including are the pink and yellow ones bellow. When touched, the petals felt almost like plastic.
 
-We arrived at camp early in the afternoon. Giving us some time to relax. Shira Cave campsite was a beautiful camp site. Katherine got some time to draw one of the trees from the moorland while I had a look around camp. One thing I noticed was how many bones there were in dried up water ways. In asking our guides I found out that it was common to cook beef with the bone in and many cooks will tos the bones on the ground afterwards.
+We arrived at camp early in the afternoon, giving us some time to relax. The day had been hard for both of us, trying to catch our breathe while walking a solid ascent. When we got into the tent, Katherine was feeling defeated. We sat together and tears came to her, a release of emotion from the intensity of the day (she gave me permission to share this here). It was really hard, and we were glad we were together, to have the experience and to support one another.
 
-This campsite was also above the clouds and lead to some beautiful views of the night sky. We were able to see the southern cross, the Milky Way, many satellites and even a shooting sar!
+Shira Cave campsite was a beautiful camp site. After decompressing, Katherine got some time to draw one of the trees from the moorland while I had a look around camp. One thing I noticed was how many bones there were in dried up water ways. In asking our guides I found out that it was common to cook beef with the bone in, and many cooks will toss the bones on the ground afterwards.
+
+This campsite was also above the clouds and lead to some beautiful views of the night sky. We were able to see the Southern Cross, the Milky Way, many satellites and even a shooting star! This was the start of a collection of starry nights!
 
 {% include image-gallery.html folder="/assets/images/2022-06-21-kilimanjaro/day2" %}
 
@@ -79,18 +84,18 @@ This campsite was also above the clouds and lead to some beautiful views of the 
 ![ice formation withing the dirt](/assets/images/2022-06-21-kilimanjaro/cool_ice.jpg)
 {% include caption.html text="A cool ice formation we found in the first hour of our morning hike" %}
 
-Day 3 was a day designed to acclimate us to the higher elevations. Our route brought us up almost 1000 meters exposing us to the altitude. Then it lead us back down almost to the point where we started. So that we could sleep with more air and stay strong. It was a long and difficult day.
+Day 3 was a day designed to acclimate us to the higher elevations. Our route brought us up almost 1000 meters (3,200 feet), exposing us to the altitude. Then it lead us back down almost to the elevation where we started, yet also bringing us closer to the summit on the route. This allowed us to sleep with more air and stay strong, yet introduce our bodies to less oxygen. It was a long and difficult day.
  
-We left the heather zone into the alpine dessert which had far fewer plants. Although it was still scattered with everlasting flowers. This day was a struggle for both of us and we felt the altitude with every step. This is when we learned {% include tooltip.html text="pole pole" tip="slow slow" %}, the slogan of the mountain. We walked in a single file line one guide in the front and one in the back. The guide in the front set a slow pace for us and took us up the mountain one short step after another.
+We left the heather zone and moved into the alpine dessert, which had far fewer plants. Despite this, it was still scattered with everlasting flowers. This day was a struggle for both of us and we felt the altitude with every step. This is when we learned {% include tooltip.html text="pole pole" tip="slow slow" %}, the slogan of the mountain meaning "slow slow." We walked in a single file line with one guide in the front and one in the back. The guide in the front set a slow pace for us and took us up the mountain one short step after another. Neither one of us had hiked at such a slow pace, a new experiment for us.
 
-After reaching the first ridge line on our way to Lava tower we found a spot out of the wind for lunch. Where we were swarmed with many birds. They were bold. While they didn't take any food out of our hands or lunch boxes they did fly over and perch just a few inches from us. Forcing us to play an endless game of shooing them away as we ate.
+After reaching the first ridgeline on our way to Lava Tower, we found a spot out of the wind for lunch. There we were swarmed with many birds. They were bold. While they did not take any food out of our hands or lunch boxes, they did fly over and perch just a few inches from us. Forcing us to play an endless game of shooing them away as we ate with our hiking poles. It was actually a pretty funny interation. Later in lunch, Katherine started mimicking a hunting animal where she would let the bird get very close than make a loud noise and thrust her hand like she wanted to grab it. The few birds she did this with did leave, but there were many more to keep shoo-ing. 
 
-We stopped again at lava tower for a quick break, some snacks and photos. The camp site was an interesting mix of folks planning to stay the night and larger groups whose team was making them a hot lunch. On our descent our guides we a bit shocked at how slow we both are going down. I think that given our age and fitness they were expecting us to go much faster when not having to work as hard. We shared about our bad knees and practiced pole pole on the way down as well.
+We stopped again at Lava Tower for a quick break, some snacks and photos. The camp site was an interesting mix of folks planning to stay the night and larger groups whose team was making them a hot lunch to keep going toward the summit. We were glad we would be able to rest a bit. On our descent our guides we a bit shocked at how slow we both are going down. I think that given our age and fitness they were expecting us to go much faster when not having to work as hard going down. We shared that we both have knee injuries that prevent us from going down quickly, which brought surprise from our guides as we had been keeping a good pace to that point and seemed strong. Nonetheless, we practiced "pole pole" on the way down as well.
 
 ![Dendrosenecio kilimanjari](/assets/images/2022-06-21-kilimanjaro/25_trees.jpg)
 {% include caption.html text="Dendrosenecio kilimanjari" %}
 
-On the way down we also learned about [Dendrosenecio kilimanjari](https://en.wikipedia.org/wiki/Dendrosenecio_kilimanjari) a giant groundsel found on Mount Kilimanjaro. Our guides told us two method of telling their age. The first it to count the rings of dead leaves. Similar to tree rings each one of these rings is about a year. The other way is to count the number of times a trunk splits. As every 25 years the plant will produce a flower and then create 2-4 new branches from that location.
+On the way down we also learned about [Dendrosenecio kilimanjari](https://en.wikipedia.org/wiki/Dendrosenecio_kilimanjari) a giant groundsel found on Mount Kilimanjaro. Our guides told us two methods of telling their age. The first it to count the rings of dead leaves. Similar to tree rings each one of these rings is about a year. The other way is to count the number of times a trunk splits. At every 25 years, the plant will produce a flower and then create 2-4 new branches from that location. We started counting the age of all we saw from then on, like a fun game that we looked forward to. 
 
 {% include image-gallery.html folder="/assets/images/2022-06-21-kilimanjaro/day3" %}
 
@@ -103,27 +108,31 @@ On the way down we also learned about [Dendrosenecio kilimanjari](https://en.wik
 | Distance   | 5 km                   |
 | Zone       | Alpine Desert (#4)     |
 
-We started out with the most technical part of all of kilimanjaro. It included a little bit of scrambling. Easy for us however incredibly impressive for all the porters. Who were carrying 20 kilos and many were balancing half of that on their heads while ascending. At the ridge line we still had a bit of a hike to go and it was in good view of the snow caped peak. Many of the people we passed on this day were doing the same route we were but in 6 days instead. Where we stopped for camp was where they had lunch and continuing on to base camp.
+We started out with the most technical part of all of Kilimanjaro. It included a little bit of scrambling up a rock wall with periodic drops directly next to the path. You were aware of the edge at all time and sometimes stepping over small gaps between rocks. I felt at home with all of my rock climbing adventures. Katherine has a slight fear of heights, so the guides worked with her to feel comfortable as we moved up the rock wall on the narrow path. While this was straight-forward for us, with daypacks and two guides, it was incredibly impressive for all the porters going on the same trail. Each were carrying 20 kilos (44 pounds) on either their head or back (based on their preferent. Many continued to balance their bags on theri heads while ascending. At the top of the wall, we got an amazing view of the snow-capped peak of Kilimanjaro. We took some photos here and just admired it. Additionally, we also had cell phone service - with Katherine's phone dinging with a text message (much to her surprise!) Many of the people we passed on this day were doing the same route we were but in 6 days instead. Where we stopped for camp was where they had lunch and continuing on to base camp getting there at 6 or 7 pm. They then slept for 3-4 hours, and would summit starting at midnight. Again, we were glad we were taking longer for this hike.
 
 ![Katherine licking salt off the rocks](/assets/images/2022-06-21-kilimanjaro/buffalo.jpg)
 {% include caption.html text="Katherine practicing her buffalo impression" %}
 
-Our guides told us about buffalo on the other side of the mountain that one climb up to lick the salt that formed on the rocks. One even went into a small cave to lick the salt only to get stuck and die there. 
+As we were hiking, we noticed buffalo skulls and pockets of salt. Our guides told us that buffalo on the other side of the mountain would climb up to lick the salt that formed on the rocks. One even went into a small cave to lick the salt only to get stuck and die there. It was humbling to think of these animals doing the same ascent we were. 
+
+We got to camp early, feeling pretty good. That night, with a clear night. Katherine and I watched the stars again, with her pointing out different constellations. We admired the Milky Way and looked for satellites and shooting stars. It was magical. 
 
 {% include image-gallery.html folder="/assets/images/2022-06-21-kilimanjaro/day4" %}
 
 
 ## Day 5
 
-| Karanga to Barafu                   |
+| Karanga to Barafu (Base Camp)       |
 |------------|------------------------|
 | Elevation  | 3990 to 4673 m         |
 | Distance   | 4 km                   |
 | Zone       | Alpine Desert (#4)     |
 
-We had a very short hike up to base camp. When we got there we were able to enjoy a hot lunch, do a final check of the gear we would submit in. Along our route we had rotated around mount kilimanjaro. The view of the ice cap from base cap was breath taking. From her we could also see [?????]. With much admiration or porters and guides told us stories of how KG had formed the first route up the mountain, that it is some of the only technical climbing in Tanzania and that still to this day KG is the only person permitted to go up. 
+We had a very short hike up to Base Camp - where all the trails merge and everyone sleeps for a handful of hours before summitting. When we got there, we were able to enjoy a hot lunch and do a final check of the gear we would summit in. Along our route we had rotated around Mount Kilimanjaro's front and side. The view of the ice cap from Base Camp was breath taking. Base Camp is nestled in a low valley between Uhuru Peak and another hill to get to the [????] Peak seen nearby. While this nearby peak is not as tall, it is much more technical for climbing. With much admiration or porters and guides told us stories of how KG had formed the first route up the mountain, that it is some of the only technical climbing in Tanzania and that still to this day KG is the only person permitted to go up. 
 
-That night we went to bed as early as we could fall asleep wearing  everything we would submit the mountain in . As we had rented our sleeping bags as to not carry our own all around Europe. As with the jackets we ran into another differing definition. For us a 'winter' sleeping bag keeps you warm and is often most insulative when you are not wearing layers. For the ones we rented the expectation is that you sleep in all of your layers to make up for the lack of insulative properties of the sleeping bag.
+We were also on a ledge, isolated part of the camp. We could see other routes' trails to base camp, along with the amazing terrain of the area. Given that we were tired, it was hard to breathe, and the temperature was downright cold, we huddled in the tent for almost the entire time we were there, napping and thinking of the trek that night. 
+
+That night we went to bed as early as we could fall asleep wearing everything we would submit the mountain in: 5 layers of clothes on both top and bottom. We had rented our sleeping bags as to not carry our own all around Europe. Similar to the jackets, we ran into another differing definition. For us a 'winter' sleeping bag keeps you warm and is often most insulative when you are not wearing layers. For the ones we rented, the expectation is that you sleep in all of your layers to make up for the lack of insulative properties of the sleeping bag. It felt very different from what we are used to, and did us keep us a bit cold. Nonetheless, we did get a handful of hours of sleep. 
 
 {% include image-gallery.html folder="/assets/images/2022-06-21-kilimanjaro/day5" %}
 
