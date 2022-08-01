@@ -3,6 +3,7 @@ layout: post
 title: "Kilimanjaro"
 author:
   - Timothy Best
+  - Katherine Nammacher
 ---
 
 
@@ -57,7 +58,7 @@ After breakfast we finally got to meet the whole crew and everyone introduced th
 
 The hike up to Shira Cave was beautiful. The heather moorland was less dense than the forest. However, still offered a wide variety of unique and interesting plants. Our guides were super knowledgeable about all the different plants and were able to answer all our questions. One of our favorite flowers we were introduced to was the Everlasting Flower. They came in a few different colors and shapes and were one of the few flowers blooming on the mountain. Including are the pink and yellow ones bellow. When touched, the petals felt almost like plastic.
 
-We arrived at camp early in the afternoon, giving us some time to relax. The day had been hard for both of us, trying to catch our breathe while walking a solid ascent. When we got into the tent, Katherine was feeling defeated. We sat together and tears came to her, a release of emotion from the intensity of the day (she gave me permission to share this here). It was really hard, and we were glad we were together, to have the experience and to support one another.
+We arrived at camp early in the afternoon, giving us some time to relax. The day had been hard for both of us, trying to catch our breathe while walking a solid ascent. When we got into the tent, Katherine was feeling defeated. We sat together and tears came to her, a release of emotion from the intensity of the day (this is co-authored, so we feel comfortable sharing this aspect of our experience). It was really hard, and we were glad we were together, to have the experience and to support one another.
 
 Shira Cave campsite was a beautiful camp site. After decompressing, Katherine got some time to draw one of the trees from the moorland while I had a look around camp. One thing I noticed was how many bones there were in dried up water ways. In asking our guides I found out that it was common to cook beef with the bone in, and many cooks will toss the bones on the ground afterwards.
 
@@ -152,23 +153,55 @@ That night we went to bed as early as we could fall asleep wearing everything we
 | Zone       | Heather Mooreland (#3) |
 
 
-We were awoken at 11pm. We had a quick drink of tea/hot water and started our march up the mountain. When we left the moon still hadn't risen. It was dark and cold. We continued on in the same fashion we had the other days, {% include tooltip.html text="pole pole" tip="slow slow" %}. As we ascended we left the alpine dessert and entered the 5th and final zone: the ice cap. The march up the mountain was cold, difficult, monotonous. We eat got into the rhythm of only focusing on the next step and then the next one after that. To stay warm we continuously moved up the mountain only taking quick breaks for water and tea. To help boost our spirts one of our guides, Hussein, and the porter submitting with us, John, sang to us as we walked. Katherine would get incredibly light-headed and nausceous, and she would periodically ask for a quick break. Even with the break to catch our breath, as the oxygen was at 50% of normal air, it was hard. 
+We were awoken at 11pm. We had a quick drink of tea/hot water and started our march up the mountain. When we left at 12 am (midnight), the moon still hadn't risen. It was dark and cold, below freezing. We continued on in the same fashion we had the other days, {% include tooltip.html text="pole pole" tip="slow slow" %}, taking exceptionally small steps in front of the other. However, this time, we did not talk. Our guides had warned that the oxygen level was so low that any extra effort, such as talking, would be quite hard for your body and hasten the time it would take for the journey to become uncomfortable. 
 
-About two thirds of the way up the sun finally broke the horizon line and started warming us up. It was one of my favorite sunrises. We got to the first ridge line and both were struggling incredibly with the altitude. With another hour to the summit, it still seemed like forever with tiny, tiny steps. We were confused with everyone coming down the mountain so quickly - many of them even running. How was it so hard for us to go up and so easy for them to go down?
+As we ascended we left the alpine dessert and entered the 5th and final zone: the Ice Cap. The march up the mountain was cold, difficult, and monotonous. We eat got into the rhythm of only focusing on the next step and then the next one after that. We were in a long line of headlamps, groups of humans trudging up the hill slowly. As we passed people, Katherine would say "Great job! Happy Summit Day!" with enthusiasm to every single group, being the cheerleader for the whole moutain. She did this from start to finish of the hike, even when she was feeling extremely sick herself. 
 
-Summitting was a blur and still feels something like a dream. After stopping for a few quick pictures and look around we headed down. Quickly learning that going down was much easier then going up. However not long after we started our descent. Katherine got altitude sickness and started vomiting. [tim don't know what katie wants to share about katherine's experience here]
+We both were tired, cold, feeling our fingers starting to get numb, and had headaches that just increased in their sharp intensity with the elevation. Every single person was in their own mental game of putting that one foot in front of the other, with just the light from our headlamp circles feeling real. 
+
+It takes at least 6-7 hours to summit, meaning you are walking that whole time, slowly up the mountain, mostly in the dark. The guides also advised us against stopping for breaks, as they add up and you need to keep your body warm by moving. We took our first break at 2:30 am, and the guides were thrilled with our progress and focus on walking. As we ascended, we need more breaks because the oxygen level was dropping and it was impacting our bodies ability to keep walking. The top has about half of the oxygen you are used to. [For example, sea level air has 20.9% effective oxygen in the air for your body, whereas the summit of Kilimanjaro only has 10.1%, and Everast has 6.9%.](https://www.higherpeak.com/altitudechart.html#:~:text=Even%20at%20sea%20level%3F,acclimatize%20before%20you%20leave%20home.) This means you feel this sharp difference. Katherine was especially impacted by this, feeling nausceous and sometimes stumbling in her steps from the dizziness she had. When we did stop, breaks varied from 2-3 minutes to just allow us to catch a breathe, or up to 5-10 minutes to sit for a quick tea break.
+
+To help boost our spirts, Hussein, one of our guides, and John, the porter summitting with us, sang to us at a break. One or two breaks later, it was clear that Katherine was really struggling with her nausea, headache, and dizziness. We had been hiking for about 5 hours at this point, so it was 5 am. She just sat there and cried, a release of the stress and intensity of the experience. I held her and rubbed her back, comforting her, until she calmed. After she cried, she just said "okay, let's keep going. I'm okay and feel better", trying to relieve the guides of their nervousness from watching her cry. She said she actually felt better from crying, as it allowed her body to reset. The guides also wanted to take her dayback, which was basically just her water, to reduce the weight. She insisted in both carrying her own pack and not having help in walking up (leaning on the arm of a guide.). She said "I want to do this myself with this backpack, otherwise summitting won't feel like I actually did it." Nonehtless, we kept going and Katherine carried her own backpack (and herself) the entire way up. 
+
+To keep us distracted from our bodies being so physically uncomfortable, we asked the guides to sing to us in the last steep part of the hike after the break where Katherine cried. They were happy to do it, as they were used to the climate acclimation and walking well. We had about an hour and a half to get to a high plateau, Stella Point. 
+
+About two thirds of the way up, before Stella Point, the sun finally broke the horizon line and started warming us up. It was one of my favorite sunrises. We got to the first ridge line and both were still struggling incredibly with the altitude. With another hour to the summit, it still seemed like forever with tiny, tiny steps. At this point, we started seeing people walking down the mountain. We were confused with everyone coming down the mountain so quickly - many of them even running. How was it so hard for us to go up and so easy for them to go down?
+
+We sat at Stella Point and took in the view. It was a good 20-minute break and our guides were thrilled with the time we were making. It was 7 am, which meant that we were making good progress. 
+
+We were an easy 45-minute walk from the summit, and the walk was a slight incline. However, at that moment, it felt like more steep upwards from how tired our bodies were. Stella Point is on the other side of the crater from the Uhuru Peak. Kilimanjaro is a volcano. Over its life, there have been three peaks created, with Uhuru being the newest and highest one. However, the volcano used to come to a point, and then the top bit collapsed in - creating a crater. This means that you get to Stella Point and then need to walk the rim of the crater to the peak, the highest point on the crater rim. 
+
+We basically dragged ourselves up and trudged to the top at the slow slow pace. People coming down were saying "you are so close, great job!" At this point, we were just focused on getting there. Katherine felt like a robot, not even thinking or processing everything beyond moving her feet. Everything else was so uncomfortable and numb it just faded. 
+
+Summitting was a blur and still feels something like a dream. We took a handful of photos, looked around, and ate some food. Then we started the process of walking down the way we came. Katherine immediately gave her backpack to the guides. With the adrenaline drained, she also realized she had a hard time walking. She walked up the the lead guide, Julius, and took his arm. 
+
+The day before, Julius has explained that if we can't make it up on our own, he and Hussein would take our arms and help us walk up with us leaning on them. Katherine did this with first Julius, then Hussein, on the walk down. She leaned completely on Julius, relying on him for balance and pacing. Our group's goal became descending as fast as possible to get to a higher oxygen level in the air - which was naturally solve the altitude sickness Katherine was facing. 
+
+While doing the hike down, we stopped and took breaks. Twice, Katherine vomitted from the altitude sickness. After the first time she was sick, she again cried. I would sit next to her, rubbing her back and holding her hair back, generally supporting her. We would sit hugging quietly for a couple of minutes as she calmed down. Then, of course, we got up and kept hiking down. We quickly learned that going down was much easier then going up, but it was still challenging given how sick Katherine was. 
+
+On the hike down, we passed a collection of snow. Katherine has a tradition of eating the snow on high mountains she hiked. So, despite being sick and feeling terrible, she also stopped and ate the snow there! 
 
 ![Katherine eating snow](/assets/images/2022-06-21-kilimanjaro/eat_snow.jpg)
-{% include caption.html text="Although katie was sick she still managed to stop and eat some snow on the way down" %}
+{% include caption.html text="Although Katie was sick she still managed to stop and eat some snow on the way down" %}
 
-When we got to camp and our porters sang to us. Which was such a nice and special moment.[EXPAND ?ON THIS? video here?]
+When we got to Base Camp, and sat at the sign, Katherine cried again with relief and just continuing to process the experience. We had made it back to base camp, and still had more hiking to go. 
 
-At camp we rested, recovered and had a hot lunch. This took a long time due to the sickness.  The guides wanted to get katherine as low as possible to deal with the altitude. However, by the time we were ready to leave we would not have gotten to the lower camp until after dark. We talked and agreed to due a shorter hike down to a higher camp and rest. This was so much the right call.
+"I summitted once, vomitted twice, and cried three times" is now how Katherine describes her experience, with joy and lightness. 
+
+At camp, we headed to our campsite. When we arrived, the team surprised us with a song! After a long walk and getting sick and being overwhelmed, it was an amazing celebration of this journey we had made. It was such a nice and special moment. It reminded us to stop and reflect on what we had accomplished when we had been just persevering to get to the site. 
+
+[EXPAND ?ON THIS? video here?]
+
+At camp we rested, recovered and had a hot lunch. This took a long time due to the altitude sickness and upset stomack, with Tim eating a normal lunch and Katherine eating toast with peanut butter.  
+
+At camp, we also had to make a decision of how much to hike down. We were scheduled to hike another 4 hours to a campsite closer to the base. However, there was a campsite an hour away, High Camp, that was at a higher elevation than the originally-planned camp. I advocated for the closer camp to give ourselves more time to rest, which ended up being the right decision for everyone. We all rested for 2.5 hours, then we packed up camp and headed to the next camp. 
+
+The normal 1-hour hike took us about 2 hours with stops. Then everyone ate and slept, giving us a much-needed night of rest. 
 
 {% include image-gallery.html folder="/assets/images/2022-06-21-kilimanjaro/day6" %}
 
 
-## Day 7 - High camp to Mweka Gate
+## Day 7 - High Camp to Mweka Gate
 
 | High Camp to Mweka Gate             |
 |------------|------------------------|
@@ -176,22 +209,21 @@ At camp we rested, recovered and had a hot lunch. This took a long time due to t
 | Distance   | 10 km                   |
 | Zone       | Forest (#3) |
 
-[ADD something about the experience tipping?]
+We left High Camp at the top of the heather zone in the morning with everyone feeling a bit better. It was lovely to pass through all the familiar plants that we had seen on the first two days. On the way down, we continued to learn more about the mountain and the life of porters from our guides. We were walking down the most popular re-supply route for porters working with larger groups, where they brought rubbish down and food up. 
 
-We left high camp at the top of the heater zone. Passed through all the familiar plants that we had seen on the first two days. Our bodies were happy to have the increasing oxygen and moisture. From our time on the mountain our lips were chapped and noses unhappy. Our bodies didn't know what to do with all the moisture but we were happy. 
+Honestly, it felt surreal to know that the experience was about to come to an end. We kept reflecting at how fast the whole thing was, and how unique it was. 
 
-When we finally made it back to the parking lot we gave some information to our guide and got certificates printed with our names, ages, and when we submitted. 
+Our bodies were happy to have the increasing oxygen and moisture. Not only was the oxygen helping our heads, our skin had become incredibly dry from the lack of moisture in the air. From our time on the mountain our lips were chapped and noses unhappy. Our bodies did not know what to do with moisture, and our noses started running, but we were happy. 
 
-We drove to town and ate lunch with the guides. We shared food for the first times with our guides and got to try [Ugali](https://en.wikipedia.org/wiki/Ugali) with chicken sauce and a liver sauce. It was by far the best food we had so far in Tanzania. Our only regret was not insisting that the rest of the team eat with us as well. 
+When we finally made it back to the parking lot, the coordinator greeted us and congragulated us. We also gave our guides our legal names and ages to our guide. If you summit, the park gives certificates printed with your names, ages, and when we submitted (date and time). We are definitely getting these framed! 
+
+We drove to Moshi, a nearby town, and ate lunch with the guides, Julius and Hussein. It was the first time we were sharing a breakfast or dinner with anyone. We did eat with them at lunch, often when we were taking a break from hiking and tired. For this meal, we were energized and chatty. We had been told about[Ugali](https://en.wikipedia.org/wiki/Ugali), a local polenta/corn, and finally got to try it. The guides ordered Ugali with chicken sauce and a liver sauce, and we ordered fried chicken and fish. Almost immediately, we were all sharing the four dishes interchangably, like family. It was a truly special moment for us to celebrate with them and solidify the bond we had made. Beyond that, it was by far the best food we had so far in Tanzania. Our only regret was not insisting that the rest of the team eat with us as well!
 
 {% include image-gallery.html folder="/assets/images/2022-06-21-kilimanjaro/day7" %}
 
 
 ## Reflections
 
-Our trip made a number of inequalities in the world very transparent to us. The team we were working with was happy to have work as many have had non since the beginning of the pandemic. And from that perspective we were happy to be spending our money on the experience. We were also happy with how the park was regulated. They ensured no porter is carrying more than 20kg with weighing station at the base and some of the campsites. The park also ensured that the porters had a tent to sleep in. Apparently in the past they would sleep out side or in caves.'
+Overall, we are both happy we climbed Kilimanjaro. I don't have a desire to do it a second time, but it was a very unique experience. I can't beleive how accessible the sumbit is. The guides and porters make it so that there is no mountaineering experiance need to climb one of the largest mountains in the world.
 
-How ever it did feel strange to know skilled these people are and how little they are making dividing our trip cost across a week and 12 people does not amount to much. In addition this was not evenly slipt. There was a clear hierarchy among the team.
-
-Overall, I happy we climbed kilimanjaro. I don't have a desire to do it a second time but it was a very unique experience. It is truly special to climb one of the tallest mountain in the world with little to no mountaineering experience our selves. For the inequities, I don't think they are any more or less then what we experience in the State but they are definitely more transparent
-
+For Katherine, she felt empowered by knowing that she summitted through a deeply physically uncomfortable experience. Even when her body was so frustrated, she was able to keep going and do this hard thing. Plus she kept her spirits up and tried to be a supporter and cheerleader for others. Even at the camp, when she cried, immediately after she spoke to folks who had seen her cry and heading up the mountain and encouraged them. It was a good reminder of how powerful your focus and atitude is when facing a challenge.
