@@ -12,12 +12,14 @@ author:
 Kilimanjaro was hard, for many reasons. That said, we are glad we hiked it.
 
 ## Day 0 (Getting to Tanzania)
-We took a direct flight on a Boeing 777 from Amsterdam and landed at 8pm local time. With customs and the drive to our hotel, we didn't get into our room until just after midnight. At that point, we still needed to pack our bags and make sure that the rental equipment would work with our needs. With the bags, we also needed to create three: each of us with one bag to go up Kilimanjaro with our things, and a third to store at the hotel afterwards. When going through the gear we were renting, we quickly learned that our definition of a 'winter coat' differed from the rental company's (as they lived in a tropical climate). However, the top of Kilimanjaro is below freezing, so we chatted with them and and thankfully we were able to get them agree to bring all their 'winter coats' the next morning so we could layer a few coats on top of one another to stay warm. All in all, we didn't get much sleep that night.
+We took a direct flight on a Boeing 777 from Amsterdam and landed at 8 PM local time. With customs and the drive to our hotel, we didn't get into our room until just after midnight. At that point, we still needed to pack our bags. We sorted our stuff into three bags: each of us with one bag to go up Kilimanjaro, and a third to store at the hotel. 
+
+When going through the rental gear, we quickly learned that our definition of a 'winter coat' differed from the rental company's (as they lived in a tropical climate). However, the top of Kilimanjaro is below freezing, so we chatted with them and and thankfully we were able to get them agree to bring all their 'winter coats' the next morning so we could layer a few coats on top of one another to stay warm. All in all, we didn't get much sleep that night.
 
 ![Bus of the Kilimanjaro team](/assets/images/2022-06-21-kilimanjaro/bus.jpg)
 {% include caption.html text="Bus of the Kilimanjaro team" %}
 
-The next morning we awoke around 7 to eat breakfast and sort through our layers. When we walked out of the hotel we were greeted with a bus full of people - which completely surprised us. 14 in total! The driver, our coordinator, 2 guides, a waiter, a cook and 8 porters. We were quite taken a back with how many people there were to carry our things, as we are used to backpacking by ourselves or with a small group of friends (without porters or support staff). Where everyone is responsible for carrying their own things and the weight of the communal items (and our bags) was shared amongst the porters. With that we drove to the base of the mountain to start the hike! 
+The next morning we awoke around 7 AM to eat breakfast and sort through our layers. When we walked out of the hotel we were greeted with a bus full of people - which completely surprised us. 14 in total! The driver, our coordinator, 2 guides, a waiter, a cook and 8 porters. We were quite taken a back with how many people there were to carry our things, as we are used to backpacking by ourselves or with a small group of friends (without porters or support staff). Where everyone is responsible for carrying their own things and the weight of the communal items (and our bags) was shared amongst the porters. With that we drove to the base of the mountain to start the hike! 
 
 {% include image-gallery.html folder="/assets/images/2022-06-21-kilimanjaro/day0" %}
 
@@ -195,7 +197,7 @@ When we got to Base Camp, and sat at the sign, Katherine cried again with relief
 
 At camp, we headed to our campsite. When we arrived, the team surprised us with a song! After a long walk and getting sick and being overwhelmed, it was an amazing celebration of this journey we had made. It was such a nice and special moment. It reminded us to stop and reflect on what we had accomplished when we had been just persevering to get to the site. 
 
-[EXPAND ?ON THIS? video here?]
+{% include youtube.html link="https://www.youtube.com/embed/3BaJDCd2Pb4" %}
 
 At camp we rested, recovered and had a hot lunch. This took a long time due to the altitude sickness and upset stomack, with Tim eating a normal lunch and Katherine eating toast with peanut butter.  
 
