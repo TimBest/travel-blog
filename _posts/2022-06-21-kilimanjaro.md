@@ -229,6 +229,6 @@ We drove to Moshi, a nearby town, and ate lunch with the guides, Julius and Huss
 
 ## Reflections
 
-Overall, we are both happy we climbed Kilimanjaro. I don't have a desire to do it a second time, but it was a very unique experience. I can't beleive how accessible the sumbit is. The guides and porters make it so that there is no mountaineering experiance need to climb one of the largest mountains in the world.
+Overall, we are both happy we climbed Kilimanjaro. I don't have a desire to do it a second time, but it was a very unique experience. I can't believe how accessible the summit is. The guides and porters make it so that there is no mountaineering experience needed to climb one of the largest mountains in the world.
 
 For Katherine, she felt empowered by knowing that she summitted through a deeply physically uncomfortable experience. Even when her body was so frustrated, she was able to keep going and do this hard thing. Plus she kept her spirits up and tried to be a supporter and cheerleader for others. Even at the camp, when she cried, immediately after she spoke to folks who had seen her cry and heading up the mountain and encouraged them. It was a good reminder of how powerful your focus and atitude is when facing a challenge.
