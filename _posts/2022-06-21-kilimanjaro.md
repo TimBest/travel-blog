@@ -12,21 +12,26 @@ author:
 Kilimanjaro was hard, for many reasons. That said, we are glad we hiked it.
 
 ## Day 0 (Getting to Tanzania)
-We took a direct flight on a Boeing 777 from Amsterdam and landed at 8pm local time. With customs and the drive to our hotel, we didn't get into our room until just after midnight. At that point, we still needed to pack our bags and make sure that the rental equipment would work with our needs. With the bags, we also needed to create three: each of us with one bag to go up Kilimanjaro with our things, and a third to store at the hotel afterwards. When going through the gear we were renting, we quickly learned that our definition of a 'winter coat' differed from the rental company's (as they lived in a tropical climate). However, the top of Kilimanjaro is below freezing, so we chatted with them and and thankfully we were able to get them agree to bring all their 'winter coats' the next morning so we could layer a few coats ontop of one another to stay warm. All in all, we didn't get much sleep that night.
+We took a direct flight on a Boeing 777 from Amsterdam and landed at 8pm local time. With customs and the drive to our hotel, we didn't get into our room until just after midnight. At that point, we still needed to pack our bags and make sure that the rental equipment would work with our needs. With the bags, we also needed to create three: each of us with one bag to go up Kilimanjaro with our things, and a third to store at the hotel afterwards. When going through the gear we were renting, we quickly learned that our definition of a 'winter coat' differed from the rental company's (as they lived in a tropical climate). However, the top of Kilimanjaro is below freezing, so we chatted with them and and thankfully we were able to get them agree to bring all their 'winter coats' the next morning so we could layer a few coats on top of one another to stay warm. All in all, we didn't get much sleep that night.
 
-The next morning we awoke around 7 to eat breakfast and sort through our layers. When we walked out of the hotel we were greeted with a bus full of people - which completely surprised us. 16 in total! The driver, our coordinator, 2 guides, a waiter, a cook and 8 porters. We were quite taken a back with how many people there were to carry our things, as we are used to backpacking by ourselves or with a small group of friends (without porters or support staff). Where everyone is responsible for carrying their own things and the weight of the communal items (and our bags) was shared amongst the porters. With that we drove to the base of the mountain to start the hike! 
+![Bus of the Kilimanjaro team](/assets/images/2022-06-21-kilimanjaro/bus.jpg)
+{% include caption.html text="Bus of the Kilimanjaro team" %}
+
+The next morning we awoke around 7 to eat breakfast and sort through our layers. When we walked out of the hotel we were greeted with a bus full of people - which completely surprised us. 14 in total! The driver, our coordinator, 2 guides, a waiter, a cook and 8 porters. We were quite taken a back with how many people there were to carry our things, as we are used to backpacking by ourselves or with a small group of friends (without porters or support staff). Where everyone is responsible for carrying their own things and the weight of the communal items (and our bags) was shared amongst the porters. With that we drove to the base of the mountain to start the hike! 
+
+{% include image-gallery.html folder="/assets/images/2022-06-21-kilimanjaro/day0" %}
 
 ## Day 1
 
-| Machame Gate to Machame Camp      |
-|------------|----------------------|
-| Elevation  | 1800 to 2835 m       |
-| Distance   | 11 km                |
-| Zone       | #2 Rain Forest       |
+| Machame Gate to Machame Camp                                                                                                    |
+|------------|--------------------------------------------------------------------------------------------------------------------|
+| Elevation  | {% include tooltip.html text="1,800" tip="5,900 ft" %} to {% include tooltip.html text="2,835" tip="9,300 ft" %} m |
+| Distance   | {% include tooltip.html text="11 km" tip="6.8 mi" %}                                                               |
+| Zone       | Rain Forest (#2)                                                                                                   |
 
 On the drive from our hotel to the gate our guides introduced themselves and started telling us about the mountain. Kilimanjaro consists of five ecological zones, from base to summit:
 
-1. Cultivate (tropical areas that residents farm)
+1. Cultivate (a tropical area that residents farm)
 2. Rain forest
 3. Heather moorland
 4. Alpine dessert
@@ -46,17 +51,18 @@ We reached camp about an hour before night fall. It was located right on the bor
 
 ## Day 2
 
-| Machame Camp to Shira Cave          |
-|------------|------------------------|
-| Elevation  | 2835 to 3750 m         |
-| Distance   | 5 km                   |
-| Zone       | Heather Moorland (#3)  |
+| Machame Camp to Shira Cave                                                                                                          |
+|------------|------------------------------------------------------------------------------------------------------------------------|
+| Elevation  | {% include tooltip.html text="2,835" tip="9,300 ft" %} to {% include tooltip.html text="3,750" tip="12,300 ft" %} m    |
+| Distance   | {% include tooltip.html text="5 km" tip="3.1 mi" %}                                                                    |
+| Zone       | Heather Moorland (#3)                                                                                                  |
 
-The night and morning were colder than we were expecting this early on in the hike. We ate breakfast inside the large "dining tent", a large canvas tent brought specific for the "client" (us) to eat in. It was equipped with a lamp, table, two chairs, dinnerware and serving dishes. Even with all these luxury items, breakfast was hard. One of the strategies we use when camping in cold weather is to bring food we absolutely love. This is really beneficial since it can be difficult to keep an apetite when cold, and delicious food is always goes down easy. However, we were now halfway across the world and up a mountain with our food already planed and packed by someone else from an entirely different culture who was literally guessing about what we liked. Someone who was tasked with cooking western meals without access to western ingredients or pallette, and "western" ranging from Eastern European to US. It was humbling to watch this happen, given the effort they were putting in. That said, it was also challenging to find food we enjoyed.
 
-After breakfast we finally got to meet the whole crew and everyone introduced themselves. We tried to make a point of learning everyone's names. While we did accomplish in the end, it difficult at first. Especially for the porters we did not interact with because they were more shy or did not speak any English.
+The night and morning were colder than we were expecting this early on in the hike. We ate breakfast inside the large "dining tent", a large canvas tent brought specific for the "client" (us) to eat in. It was equipped with a lamp, table, two chairs, dinnerware and serving dishes. Even with all these luxury items, breakfast was hard. One of the strategies we use when camping in cold weather is to bring food we absolutely love. This is really beneficial since it can be difficult to keep an appetite when cold, and delicious food is always goes down easy. However, we were now halfway across the world and up a mountain with our food already planed and packed by someone else from an entirely different culture who was literally guessing about what we liked. Someone who was tasked with cooking western meals without access to western ingredients or pallette, and "western" ranging from Eastern European to US. It was humbling to watch this happen, given the effort they were putting in. That said, it was also challenging to find food we enjoyed.
 
-The hike up to Shira Cave was beautiful. The heather moorland was less dense than the forest. However, still offered a wide variety of unique and interesting plants. Our guides were super knowledgeable about all the different plants and were able to answer all our questions. One of our favorite flowers we were introduced to was the Everlasting Flower. They came in a few different colors and shapes and were one of the few flowers blooming on the mountain. Including are the pink and yellow ones bellow. When touched, the petals felt almost like plastic.
+After breakfast we finally got to meet the whole crew and everyone introduced themselves. We made the point of learning everyone's names. While we did accomplish in the end, it difficult at first. Especially for the porters we did not interact with because they were more shy or did not speak any English.
+
+The hike up to Shira Cave was beautiful. The heather moorland was less dense than the forest. However, still offered a wide variety of unique and interesting plants. Many of which are only found on Kilimanjaro. Our guides were super knowledgeable about all the different plants and were able to answer all our questions. One of our favorite flowers we were introduced to was the Everlasting Flower. They came in a few different colors and shapes and were one of the few flowers blooming on the mountain. Including are the pink and yellow ones bellow. When touched, the petals felt almost like plastic.
 
 We arrived at camp early in the afternoon, giving us some time to relax. The day had been hard for both of us, trying to catch our breathe while walking a solid ascent. When we got into the tent, Katherine was feeling defeated. We sat together and tears came to her, a release of emotion from the intensity of the day (this is co-authored, so we feel comfortable sharing this aspect of our experience). It was really hard, and we were glad we were together, to have the experience and to support one another.
 
@@ -69,27 +75,27 @@ This campsite was also above the clouds and lead to some beautiful views of the 
 
 ## Day 3
 
-| Shira Cave to Lava Tower            |
-|------------|------------------------|
-| Elevation  | 3750 to 4600 m         |
-| Distance   | 7 km                   |
-| Zone       | Alpine Desert (#4)     |
+| Shira Cave to Lava Tower                                                                                                          |
+|------------|----------------------------------------------------------------------------------------------------------------------|
+| Elevation  | {% include tooltip.html text="3,750" tip="12,300 ft" %} to {% include tooltip.html text="4,600" tip="15,090 ft" %} m |
+| Distance   | {% include tooltip.html text="7 km" tip="4.3 mi" %}                                                                  |
+| Zone       | Alpine Desert (#4)                                                                                                   |
 
-| Lava Tower to Barranco              |
-|------------|------------------------|
-| Elevation  | 4600 to 3900 m         |
-| Distance   | 3 km                   |
-| Zone       | Heather Moorland (#3) |
+| Lava Tower to Barranco                                                                                                          |
+|------------|----------------------------------------------------------------------------------------------------------------------|
+| Elevation  | {% include tooltip.html text="4,600" tip="15,090 ft" %} to {% include tooltip.html text="3,900" tip="12,795 ft" %} m |
+| Distance   | {% include tooltip.html text="3 km" tip="1.9 mi" %}                                                                  |
+| Zone       | Heather Moorland (#3)                                                                                                   |
 
 
 ![ice formation withing the dirt](/assets/images/2022-06-21-kilimanjaro/cool_ice.jpg)
 {% include caption.html text="A cool ice formation we found in the first hour of our morning hike" %}
 
-Day 3 was a day designed to acclimate us to the higher elevations. Our route brought us up almost 1000 meters (3,200 feet), exposing us to the altitude. Then it lead us back down almost to the elevation where we started, yet also bringing us closer to the summit on the route. This allowed us to sleep with more air and stay strong, yet introduce our bodies to less oxygen. It was a long and difficult day.
+Day 3 was a day designed to acclimate us to the higher elevations. Our route brought us up almost {% include tooltip.html text="1,000 meters" tip="3,200 feet" %}, exposing us to the altitude. Then it lead us back down almost to the elevation where we started, yet also bringing us closer to the summit on the route. This introduce our bodies to less oxygen while also allowing us to sleep with more air and stay strong. It was a long and difficult day.
  
-We left the heather zone and moved into the alpine dessert, which had far fewer plants. Despite this, it was still scattered with everlasting flowers. This day was a struggle for both of us and we felt the altitude with every step. This is when we learned {% include tooltip.html text="pole pole" tip="slow slow" %}, the slogan of the mountain meaning "slow slow." We walked in a single file line with one guide in the front and one in the back. The guide in the front set a slow pace for us and took us up the mountain one short step after another. Neither one of us had hiked at such a slow pace, a new experiment for us.
+We left the heather zone and moved into the alpine dessert, which had far fewer plants. Despite this, it was still scattered with everlasting flowers. This day was a struggle for both of us and we felt the altitude with every step. This is when we learned {% include tooltip.html text="pole pole" tip="slow slow" %}, the slogan of the mountain. We walked in a single file line with one guide in the front and one in the back. The guide in the front set a slow pace for us and took us up the mountain one short step after another. Neither one of us had hiked at such a slow pace, a new experiment for us.
 
-After reaching the first ridgeline on our way to Lava Tower, we found a spot out of the wind for lunch. There we were swarmed with many birds. They were bold. While they did not take any food out of our hands or lunch boxes, they did fly over and perch just a few inches from us. Forcing us to play an endless game of shooing them away as we ate with our hiking poles. It was actually a pretty funny interation. Later in lunch, Katherine started mimicking a hunting animal where she would let the bird get very close than make a loud noise and thrust her hand like she wanted to grab it. The few birds she did this with did leave, but there were many more to keep shoo-ing. 
+After reaching the first ridgeline on our way to Lava Tower, we found a spot out of the wind for lunch. There we were swarmed with many birds. They were bold. While they did not take any food out of our hands or lunch boxes, they did fly over and perch just a few inches from us. Forcing us to play an endless game of shooing them away as we ate with our hiking poles. It was actually a pretty funny interaction. Later in lunch, Katherine started mimicking a hunting animal where she would let the bird get very close than make a loud noise and thrust her hand like she wanted to grab it. The few birds she did this with did leave, but there were many more to keep shoo-ing. 
 
 We stopped again at Lava Tower for a quick break, some snacks and photos. The camp site was an interesting mix of folks planning to stay the night and larger groups whose team was making them a hot lunch to keep going toward the summit. We were glad we would be able to rest a bit. On our descent our guides we a bit shocked at how slow we both are going down. I think that given our age and fitness they were expecting us to go much faster when not having to work as hard going down. We shared that we both have knee injuries that prevent us from going down quickly, which brought surprise from our guides as we had been keeping a good pace to that point and seemed strong. Nonetheless, we practiced "pole pole" on the way down as well.
 
@@ -103,13 +109,13 @@ On the way down we also learned about [Dendrosenecio kilimanjari](https://en.wik
 
 ## Day 4
 
-| Barranco to Karanga                 |
-|------------|------------------------|
-| Elevation  | 3990 to 3995 m         |
-| Distance   | 5 km                   |
-| Zone       | Alpine Desert (#4)     |
+| Barranco to Karanga                                                                                                               |
+|------------|----------------------------------------------------------------------------------------------------------------------|
+| Elevation  | {% include tooltip.html text="3,900" tip="12,795 ft" %} to {% include tooltip.html text="3,995" tip="13,110 ft" %} m |
+| Distance   | {% include tooltip.html text="5 km" tip="3.1 mi" %}                                                                  |
+| Zone       | Alpine Desert (#4)                                                                                                   |
 
-We started out with the most technical part of all of Kilimanjaro. It included a little bit of scrambling up a rock wall with periodic drops directly next to the path. You were aware of the edge at all time and sometimes stepping over small gaps between rocks. I felt at home with all of my rock climbing adventures. Katherine has a slight fear of heights, so the guides worked with her to feel comfortable as we moved up the rock wall on the narrow path. While this was straight-forward for us, with daypacks and two guides, it was incredibly impressive for all the porters going on the same trail. Each were carrying 20 kilos (44 pounds) on either their head or back (based on their preferent. Many continued to balance their bags on theri heads while ascending. At the top of the wall, we got an amazing view of the snow-capped peak of Kilimanjaro. We took some photos here and just admired it. Additionally, we also had cell phone service - with Katherine's phone dinging with a text message (much to her surprise!) Many of the people we passed on this day were doing the same route we were but in 6 days instead. Where we stopped for camp was where they had lunch and continuing on to base camp getting there at 6 or 7 pm. They then slept for 3-4 hours, and would summit starting at midnight. Again, we were glad we were taking longer for this hike.
+We started out with the most technical part of all of Kilimanjaro. It included a little bit of scrambling up a rock wall with periodic drops directly next to the path. You were aware of the edge at all time and sometimes stepping over small gaps between rocks. I felt at home with all of my rock climbing adventures. Katherine has a slight fear of heights, so the guides worked with her to feel comfortable as we moved up the rock wall on the narrow path. While this was straight-forward for us, with daypacks and two guides, it was incredibly impressive for all the porters going on the same trail. Each were carrying {% include tooltip.html text="20 kilos" tip="44 pounds" %} on either their head or back (based on their preference. Many continued to balance their bags on their heads while ascending. At the top of the wall, we got an amazing view of the snow-capped peak of Kilimanjaro. We took some photos here and just admired it. Additionally, we also had cell phone service - with Katherine's phone dinging with a text message (much to her surprise!) Many of the people we passed on this day were doing the same route we were but in 6 days instead. Where we stopped for camp was where they had lunch and continuing on to base camp getting there at 6 or 7 pm. They then slept for 3-4 hours, and would summit starting at midnight. Again, we were glad we were taking longer for this hike.
 
 ![Katherine licking salt off the rocks](/assets/images/2022-06-21-kilimanjaro/buffalo.jpg)
 {% include caption.html text="Katherine practicing her buffalo impression" %}
@@ -123,13 +129,13 @@ We got to camp early, feeling pretty good. That night, with a clear night. Kathe
 
 ## Day 5
 
-| Karanga to Barafu (Base Camp)       |
-|------------|------------------------|
-| Elevation  | 3990 to 4673 m         |
-| Distance   | 4 km                   |
-| Zone       | Alpine Desert (#4)     |
+| Karanga to Barafu (Base Camp)                                                                                                     |
+|------------|----------------------------------------------------------------------------------------------------------------------|
+| Elevation  | {% include tooltip.html text="3,995" tip="13,110 ft" %} to {% include tooltip.html text="4,673" tip="15,330 ft" %} m |
+| Distance   | {% include tooltip.html text="4 km" tip="2.5 mi" %}                                                                  |
+| Zone       | Alpine Desert (#4)                                                                                                   |
 
-We had a very short hike up to Base Camp - where all the trails merge and everyone sleeps for a handful of hours before summitting. When we got there, we were able to enjoy a hot lunch and do a final check of the gear we would summit in. Along our route we had rotated around Mount Kilimanjaro's front and side. The view of the ice cap from Base Camp was breath taking. Base Camp is nestled in a low valley between Uhuru Peak and another hill to get to the [????] Peak seen nearby. While this nearby peak is not as tall, it is much more technical for climbing. With much admiration or porters and guides told us stories of how KG had formed the first route up the mountain, that it is some of the only technical climbing in Tanzania and that still to this day KG is the only person permitted to go up. 
+We had a very short hike up to Base Camp - where all the trails merge and everyone sleeps for a handful of hours before summiting. When we got there, we were able to enjoy a hot lunch and do a final check of the gear we would summit in. Along our route we had rotated around Mount Kilimanjaro's front and side. One one side of Base Camp we could see a breath taking view of the top of Kilimanjaro and from the other we could see [Mawenzi Peak](https://www.summitpost.org/mawenzi/151954) in the distance.  While this nearby peak is not as tall, it is much more technical for climbing. With much admiration our porters and guides told us stories of how KG had formed the first route up the mountain, that it is some of the only technical climbing in Tanzania and that still to this day KG is the only person permitted to go up. 
 
 We were also on a ledge, isolated part of the camp. We could see other routes' trails to base camp, along with the amazing terrain of the area. Given that we were tired, it was hard to breathe, and the temperature was downright cold, we huddled in the tent for almost the entire time we were there, napping and thinking of the trek that night. 
 
@@ -140,18 +146,17 @@ That night we went to bed as early as we could fall asleep wearing everything we
 
 ## Day 6
 
-| Barafu to Uhuru Peak                |
-|------------|------------------------|
-| Elevation  | 4673 to 5895 m         |
-| Distance   | 5 km                   |
-| Zone       | Ice cap (#5)           |
+| Barafu to Uhuru Peak                                                                                                              |
+|------------|----------------------------------------------------------------------------------------------------------------------|
+| Elevation  | {% include tooltip.html text="4,673" tip="15,330 ft" %} to {% include tooltip.html text="5,895" tip="19,341 ft" %} m |
+| Distance   | {% include tooltip.html text="5 km" tip="3.1 mi" %}                                                                  |
+| Zone       | Ice cap (#5)                                                                                                         |
 
-| Uhuru Peak to High Camp             |
-|------------|------------------------|
-| Elevation  | 5895 to 3950 m         |
-| Distance   | 10.5 km                |
-| Zone       | Heather Mooreland (#3) |
-
+| Uhuru Peak to High Camp                                                                                                           |
+|------------|----------------------------------------------------------------------------------------------------------------------|
+| Elevation  | {% include tooltip.html text="5,895" tip="19,341 ft" %} to {% include tooltip.html text="3,950" tip="12,960 ft" %} m |
+| Distance   | {% include tooltip.html text="10.5 km" tip="6.5 mi" %}                                                               |
+| Zone       | Heather Mooreland (#3)                                                                                               |
 
 We were awoken at 11pm. We had a quick drink of tea/hot water and started our march up the mountain. When we left at 12 am (midnight), the moon still hadn't risen. It was dark and cold, below freezing. We continued on in the same fashion we had the other days, {% include tooltip.html text="pole pole" tip="slow slow" %}, taking exceptionally small steps in front of the other. However, this time, we did not talk. Our guides had warned that the oxygen level was so low that any extra effort, such as talking, would be quite hard for your body and hasten the time it would take for the journey to become uncomfortable. 
 
@@ -203,11 +208,11 @@ The normal 1-hour hike took us about 2 hours with stops. Then everyone ate and s
 
 ## Day 7 - High Camp to Mweka Gate
 
-| High Camp to Mweka Gate             |
-|------------|------------------------|
-| Elevation  | 3950 to 1640 m         |
-| Distance   | 10 km                   |
-| Zone       | Forest (#3) |
+| High Camp to Mweka Gate                                                                                                           |
+|------------|----------------------------------------------------------------------------------------------------------------------|
+| Elevation  | {% include tooltip.html text="3,950" tip="12,960 ft" %} to {% include tooltip.html text="1,640" tip="5,380 ft" %} m |
+| Distance   | {% include tooltip.html text="10 km" tip="6.2 mi" %}                                                               |
+| Zone       | Rain forest (#3)                                                                                               |
 
 We left High Camp at the top of the heather zone in the morning with everyone feeling a bit better. It was lovely to pass through all the familiar plants that we had seen on the first two days. On the way down, we continued to learn more about the mountain and the life of porters from our guides. We were walking down the most popular re-supply route for porters working with larger groups, where they brought rubbish down and food up. 
 
