@@ -9,6 +9,8 @@ Between Kilimanjaro and the Serengeti, we knew we wanted some “sitting down”
 
 Rivertrees was an absolutely beautiful place to stay. It sits on a 10-acre former coffee plantation, turned into a combination hotel, vegetable garden, active farm, and shared office area. There is a creek going through the property, huge 4-story trees, and walking paths, along with a variety of animals. The hotel’s secluded gardens made for the perfect environment to recover from Kilimanjaro and recuperate before embarking on our safari. The low altitude, moderate temperatures, and high humidity level were much-needed reprieve. Our bodies and lips thanked us.
 
+{% include image-gallery.html folder="/assets/images/2022-06-24-rivertrees/gardens" %}
+
 Our room had a front porch where we looked out at plants and a walking path. I would wake up before Katherine, sitting out there watching the monkeys run around on a quiet morning (more info further down). The room was spacious with a king-sized bed, the bathroom had a huge bathtub basin, separate shower, and lovely natural light. The whole space just felt calm and tranquil.
 
 ![Tim eating a salad at a table outside doing his best to try and smile with chapped lips](/assets/images/2022-06-24-rivertrees/smile.jpg)
