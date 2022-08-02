@@ -5,6 +5,14 @@
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+  p {
+    img {
+      margin: auto;
+      display: block;
+   }
+  }
+  
+
 .thumbnail {
   min-width: 100%;
   height: 100%;
