@@ -27,7 +27,7 @@ After the exam, the doctor escorted me to the emergency room. I was put on a sal
 
 By now, I was feeling much better. I was prescribed: Secnidazole, Cipofloxcin, Zinc, and Imodium. Which we were able to pick up at the pharmacy next to reception. Overall, this was one of the best hospitals I have visited and by far the fastest lab turnaround times. In addition to all of that, they only charged us $150 USD. Which was the tourist price. Turns out they charge less for locals. Given that I have had more expensive co-pays in the state we were happy to pay. And happy to know that it will be spent doing a lot of good.
 
-![Tim wearing a winter coat in a hospital bed pointing to an IV drip in his right hand](/assets/images/2022-06-26-FAME/PXL_20220626_112459550.jpg)
+![Tim wearing a winter coat in a hospital bed pointing to an IV drip in his right hand](/assets/images/2022-06-26-FAME/iv.jpg)
 {% include caption.html text= "Tim on his second bag a saline solution and feeling much better" %}
 
 We then ate our packed lunch in the parking lot and headed to our newly booked hotel in {% include tooltip.html text= "Mto Wa Mbu" tip="mosquito river" %}. Where Benedict cooked us the meal we would have eaten at our campsite after the hike. This meal was amazing! I tried my hardest to eat as much as I could with my limited appetite.
