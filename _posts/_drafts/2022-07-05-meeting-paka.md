@@ -5,9 +5,6 @@ author:
   - Timothy Best
 ---
 
-Tim, I wrote this post in MS word. Feel free to add to it!
-
-
 Paka: Our Kitten Story
 
 We had planned this as our “pre-pets and pre-kids” trip – which we’ve been planning for the last two years.
