@@ -66,7 +66,7 @@ Learn more at [www.awf.org/wildlife-conservation/topi](https://www.awf.org/wildl
 
 The waterbuck ended up being my favorite animal of the safari. I knew nothing of the animal, not even its name until the first time we saw two does near a watering hole. Our guide pointed them out and my jaw hit the floor. I couldn't believe how beautiful they were. Their fur is so busy. Their ear coloring is so intriguing. Their black legs are so elegant. And then, to top it all off they have a heart on their nose. 
 
-I felt robbed that I was only learning about this animal now. How did I not learn about waterbucks in my early elementary classes. They seem a work of fiction. Watching them felt like being transported into my favorite Studio Ghibli film (which is [Howl's Moving Castle](https://www.imdb.com/title/tt0347149/
+I felt robbed that I was only learning about this animal now. How did I not learn about waterbucks in my early elementary classes? They seem a work of fiction. Watching them felt like being transported into my favorite Studio Ghibli film (which is [Howl's Moving Castle](https://www.imdb.com/title/tt0347149/
 )) 2wor fantasy novel. Unreal. 10/10 
 
 Learn more at [www.awf.org/wildlife-conservation/waterbuck](https://www.awf.org/wildlife-conservation/waterbuck)
@@ -75,6 +75,6 @@ Learn more at [www.awf.org/wildlife-conservation/waterbuck](https://www.awf.org/
 ## 8. Guinea fowl
 ![A guinea fowl](/assets/images/2022-06-30-unexpected/guinea-fowl.jpg)
 
-Allegedly, their meat and their eggs taste even better than chicken. Often kept as live stock in Tanzania
+Allegedly, their meat and their eggs taste even better than chicken. Often kept as livestock in Tanzania
 https://en.wikipedia.org/wiki/Guineafowl
 
