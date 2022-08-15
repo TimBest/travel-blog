@@ -22,7 +22,7 @@ Learn more at [www.awf.org/wildlife-conservation/dik-dik](https://www.awf.org/wi
 
 ![A heard of eland](/assets/images/2022-06-30-unexpected/eland.jpg)
 
-The Eland is the world's largest antelope. We saw a few heard's of them over our 10 days in the Serengetii but always at a distance. Surprisingly we had better views of them from outside the park than within
+The Eland is the world's largest antelope. We saw a few heard's of them over our 10 days in the Serengeti but always at a distance. Surprisingly we had better views of them from outside the park than within
 
 Learn more at [www.awf.org/wildlife-conservation/eland](https://www.awf.org/wildlife-conservation/eland)
 
