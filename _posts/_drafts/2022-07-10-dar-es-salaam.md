@@ -34,3 +34,8 @@ author:
   - got a warm fleese pillow cover
   - basket drawer organizers
   - the sales folks were following us around giving us baskets for our stuff. trying to be useful and very confused as we just wanted some space and were trying to see if the drawer organizers would fit in the carrier
+
+
+## Fabric shopping
+
+## Airbnb
