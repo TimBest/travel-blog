@@ -5,9 +5,6 @@ author:
   - Katherine Nammacher
 ---
 
-
-The Serengeti: The Safari Experience (post #2)
-
 ## Elements of the Serengeti
 When I think about the Serengeti, several components come to mind:
 - The amazing animals, discussed in [the animals and place post](/2022/06/28/serengeti-animals-place.html)

@@ -12,12 +12,16 @@ Beforehand, knowing we were going to “the Serengeti” felt like a dream: we w
 
 The Serengeti is a special, sacred place for this planet – in my view. It has three habitats: the plains, the woodlands, and the savannah. Animals move through these areas freely, some preferring one habitat over another, but having slightly different behaviors in each. It is also an exceptionally large area, which thousands and thousands of animals living there. Different species live in harmony and support one another in a delicate ecosystem. 
 
+{% include image-gallery.html folder="/assets/images/2022-06-28-serengeti-animals-experience-photos/Landscape" %}
+
 And the animals. We saw everything so many times over. Elephants, giraffes, lions, leopards, gazelle, impalas, zebras, wildebeests, hyenas, and hippos were essentially daily sightings. The whole thing felt like we were watching a National Geographic episode, it was surreal. 
 
 We were there for 7 days/6 nights, staying in 3 different areas. This meant that we saw a true diversity of animal behavior – not just “saw the animal, check” but really understanding what is normal and how these animals operate. Elephants are extremely destructive to trees, hesitant around humans, and incredibly polite (and empathetic) to one another. Lions sleep all the time, know they are at the top of the food chain and still weary of humans due to both past and current hunting, and are terrible parents. Hippos, however, are fantastic parents. More giraffes are gay than straight, and they just stare when humans are nearby. Zebras and wildebeests travel together because zebras have great eyesight and wildebeest have a great sense of smell – together being stronger to find predators. Different antelope species often graze together. Once a potential predator is spotted by its potential prey, the predator stops hunting to not expel the energy and fail. You look for leopards in trees by finding their dangling tail, and they are very solitary. And so many more facts that we now understand about the natural world of this special place. 
 
 ## Safari Life
 First, let me tell you a little about “safari” life. If you go to the Serengeti, you go with a guide who is the driver in your specially-designed safari jeep. The top pops up for you to stand above the car and watch animals through binoculars, giving everyone a clear view while keeping you safe from wild animals. The car is closed with windows and doors – which helps to also give the animals peace of mind, as they get scared when humans come out of vehicles (knowing we are dangerous). The windows open sideways, allowing you to also sit in the vehicle and look out at the amazing landscape while you are driving. 
+
+{% include image-gallery.html folder="/assets/images/2022-06-28-serengeti-animals-experience-photos/Safari Car" %}
 
 You essentially drive around the beautiful landscape until your guide spots an animal or hears another guide share their animal finding on the radio. Then you go and watch the animal do whatever it is doing. You watch for a while, at some point you get bored watching or the animal moves out of view. You leave that viewing and immediately start searching for another animal from the car. You do this for 8 hours a day – either in one trip or split into two trips (early morning and later afternoon). It is exhilarating and exhausting. You are focused and curious, then you are bumping along the dirt roads looking for more, then you are focused. It’s hot and dry (for our season), there’s some wind and dust, and periodically tsetse flies. 
 
@@ -33,6 +37,8 @@ On our last day, we had an 11 am flight and had been in the Serengeti for 6 full
 ## The Great Migration
 The impetuous was to see the Great Migration, where 1.4 million wildebeests and zebras move 1,000+ kilometers from the bottom of the Serengeti to Kenya following highly nutritious grass (and the rains). The Great Migration moves from the middle of Tanzania (at the bottom of the Serengeti) up to southern Kenya, then back again - all within a year. This was made famous in the 1950s and then with a documentary about it. 
 
+{% include image-gallery.html folder="/assets/images/2022-06-28-serengeti-animals-experience-photos/Great Migration" %}
+
 The wildebeests and zebras march together in single file columns of animals, with these lines being miles long. They walk in this line until their find a grazing area with yummy grass, breaking formation to eat in a huge blob, eating, then disseminating back into single-file columns. This happens in the middle of the “resident” animals living – elephants, giraffes, hippos, and everyone else. Being in the Serengeti while this was going through the central areas was incredible. 
 
 Great Migration Facts:
@@ -46,6 +52,10 @@ Great Migration Facts:
 
 
 ## Highlights
+We saw so many animals - listed out in order on a different post. It was incredible. Below are some photos and highlights!
+
+{% include image-gallery.html folder="/assets/images/2022-06-28-serengeti-animals-experience-photos/Animal Highlights" %}
+
 Here are some of our highlights:
 - Watching a mother leopard and her cub in a tree, with the cub playing with the food from a recent hunt
 - An elephant family with particularly young babies (less than 2 weeks) who were exploring the bushes while adults ate calmly. The babies were goofing around, running at each other, and less confident in walking. The adults had this dynamic of "let you play a little, but intervene when you get too hyper"
