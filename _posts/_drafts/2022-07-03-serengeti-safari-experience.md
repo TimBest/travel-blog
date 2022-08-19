@@ -10,15 +10,15 @@ The Serengeti: The Safari Experience (post #2)
 
 ## Elements of the Serengeti
 When I think about the Serengeti, several components come to mind:
-	• The amazing animals - covered in [link to post]
-	• Brilliant sunrises and sunsets along the flat plains
-	• The clear night sky filled with millions of stars
-	• Our unique stays between hotels and tented lodges
-		○ Lobo Lodge
-		○ Osupoko Tented Lodge
-		○ Seronera Lodge
-	• Multicourse meals and packed lunches prepared by our hotels
-	• The colonial and hunting history of the park
+  • The amazing animals - covered in [link to post]
+  • Brilliant sunrises and sunsets along the flat plains
+  • The clear night sky filled with millions of stars
+  • Our unique stays between hotels and tented lodges
+    ○ Lobo Lodge
+    ○ Osupoko Tented Lodge
+    ○ Seronera Lodge
+  • Multi-course meals and packed lunches prepared by our hotels
+  • The colonial and hunting history of the park
 
 
 ## The Land of Sunrises and Sunsets
@@ -51,9 +51,9 @@ At the tented camp, Eli specifically had the job of escorting us to and from our
 
 ## The Lodges
 While in the Serengeti, we stayed in three different resorts: Lobo Lodge in the northeast part of the park, Osupoku Tented Lodge in the central western part, and Seronera Lodge in the center near the airport. These were very different lodges, and amazing in each of their own regards. I wrote about Osupoko first, as it was such a unique and special experience. Here's the order of these lodges
-	• Serengeti Night 1: Lobo Lodge 
-	• Serengeti Night 2 - 5: Osupoko Tented Lodge
-	• Serengeti Night 6: Seronera Lodge
+  • Serengeti Night 1: Lobo Lodge 
+  • Serengeti Night 2 - 5: Osupoko Tented Lodge
+  • Serengeti Night 6: Seronera Lodge
 
 
 ### Osupoko Tented Lodge - Our Home Away From Home
@@ -97,7 +97,7 @@ Lobo Lodge is in the northwest of the Serengeti, near the Kleins Gate and Lobo a
 
 The lodge is decorated as an old hunting lodge: dark wood panels with heavy wooden furniture, animal motifs, and stones embedded into the furniture. The designs also had an Islamic patterning, with beautiful geometric motifs carved and created in the wood. 
 
-The lodge is huge - a swimming pool, an overlook for the sunset and another for the sunrise. A huge dining hall, separate bar, and large reception area. The rooms all have floor-to-ceiling windows looking out on the landscape. Unfortunately, we were there in the winter and the slats from the windows did not fully close - creating an intense breeze. 
+The lodge is huge - a swimming pool, an overlook for the sunset, and another for the sunrise. A huge dining hall, separate bar, and large reception area. The rooms all have floor-to-ceiling windows looking out on the landscape. Unfortunately, we were there in the winter and the slats from the windows did not fully close - creating an intense breeze. 
 
 Like all hotels in Tanzania, they told us the hours for hot water, electricity, and internet. Generally between 6 pm and midnight. The water takes 10-15 minutes of running tap to get warm, then you should be conservative to save the hot water. Finally, the internet is available with electricity but is intermittent at best. 
 

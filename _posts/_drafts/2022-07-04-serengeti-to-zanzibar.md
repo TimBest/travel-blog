@@ -37,7 +37,7 @@ Before a long, a second ballon came overhead and again spooked the lions. This t
 
 At this point, all of our stomachs were grumbling. We drove up the road a few minutes and ran into a herd of buffalo. We watched them grave as they watched us eat our lunch. This is where we got to see our first buffalo cafe. It was adorable.
 
-A few minutes into lunch Katherine started not feeling well. Since we were relatively close to the visitors center our guide booked it. For our entire trip, our guide was respectful of all the animals, the land and the rules of the park. This was the first time we had seen him drive a little faster and pass cars. Adventure! We ended up passing an elephant no more than 20 feet from the road and gave him a good spook. In turn, he gave us a good spook with a tremendous roar.
+A few minutes into lunch Katherine started not feeling well. Since we were relatively close to the visitors center our guide booked it. For our entire trip, our guide was respectful of all the animals, the land, and the rules of the park. This was the first time we had seen him drive a little faster and pass cars. Adventure! We ended up passing an elephant no more than 20 feet from the road and gave him a good spook. In turn, he gave us a good spook with a tremendous roar.
 
 {% include image-gallery.html folder="/assets/images/2022-07-04-serengeti-to-zanzibar/breakfast" %}
 
@@ -58,7 +58,7 @@ We said our final goodbyes to Honest and head through security. On the other sid
 
 Flying out of the Seronera Airport was a unique airport experience for us. We walked to the plain across the runways alongside a cart with our checked bags. Our plane was one of the largest flying out of the airport. Seating a whopping 30 people. Being one of the first on the plain we were able to snag a window seat on the side of the plane that would give us a view of mnt Kilimanjaro.
 
-The takeoff was surprisingly smooth. Once in the air, we got a spectacular view of the park. From here we were able to see all of the roads and the migration trails the animals take. We have fun looking for groups of cars, following the trails and trying to find the lodges we stayed at
+The takeoff was surprisingly smooth. Once in the air, we got a spectacular view of the park. From here we were able to see all of the roads and the migration trails the animals take. We have fun looking for groups of cars, following the trails, and trying to find the lodges we stayed at
 
 Once we got to Kilimanjaro Katherine had fun trying to capture it with the telephoto lens and ended up taking close to 100 photos. We enjoyed looking at the mountain from this perspective after having summited.
 
@@ -68,7 +68,7 @@ Once we got to Kilimanjaro Katherine had fun trying to capture it with the telep
 
 Arriving at Zanzibar we were greeted with a giant billboard on the clothing etiquette in town vs at the beech. As my first time in a prominently Muslim region, I was taken aback. As we drove across the island to our hotel Katherine gave context for some of our observations. On one hand, the area was more liberal as the woman were outside participating in commerce, both selling and buying goods, and while they were fully covered much of the fabric was beautiful vibrant colors. On the other hand, there were also girls as young as 5 completely covered.
 
-After settling into our hotel we walked the few blocks to the beech. The beech was a strip of beautiful white sands but was far more energetic than we were expecting. Every building abutting the beech was a walled resort. As we walked we were approached by a salesperson every 10 steps trying to sell us baskets, clothes, wooden giraffes and more goods. At one point folks on boats in the water would yell to us asking if we wanted boat tours, snorkeling, or jet ski rentals. 
+After settling into our hotel we walked the few blocks to the beech. The beech was a strip of beautiful white sands but was far more energetic than we were expecting. Every building abutting the beech was a walled resort. As we walked we were approached by a salesperson every 10 steps trying to sell us baskets, clothes, wooden giraffes, and more goods. At one point folks on boats in the water would yell to us asking if we wanted boat tours, snorkeling, or jet ski rentals. 
 
 After our walk up and down the beach, we got dinner at one of the resorts. Feet in the sand we ate and watched the sunset. The table cloth on our table was a print reminiscent of [the blanket](/2022/06/27/lake-natron.html#the-stay) we purchased at lake natron.
 
