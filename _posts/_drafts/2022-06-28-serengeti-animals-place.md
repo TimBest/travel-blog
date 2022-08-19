@@ -52,11 +52,13 @@ Here are some of our highlights:
 - Zebras calling out near a stream out their families. There were over a thousand in this river area. Zebras call out to find their immediate family when migrating (if they get separated), and it was incredible to hear the sound. 
 - Sitting in a campground, empty of tents and filled with thousands of wildebeests and zebras. The wildebeests were calling out for mating and periodically the males jumped on some females. It was quite funny to watch and crazy to be surrounded by this group of animals. 
 - Watching secretary birds search burned areas for snakes, organized with their perfectly-placed feathers
-- Giraffes generally, which would just stare at us and periodically eat. They are just such interesting animals. We saw a group of gay giraffes, which is very common, including one following another around with interest. 
+- Giraffes generally, would just stare at us and periodically eat. They are just such interesting animals. We saw a group of gay giraffes, which is very common, including one following another around with interest. 
 - At our campsite one night, I was walking back with the guide and we spotted a hyena near camp watching us. With the light shined on it and its bright eyes, it just turned around and walked down the road away from camp. 
-- One day a female ostrich was trying to get a male to mate, clearly circling around him with her wings out and getting into his view. He was not interested, as it was too early in the mating season. (We were rooting for her to see some action in the wild, but it did not happen!)
+- One day a female ostrich was trying to get a male to mate, clearly circling him with her wings out and getting into his view. He was not interested, as it was too early in the mating season. (We were rooting for her to see some action in the wild, but it did not happen!)
 - Finding kilometers-long lines of zebra and wildebeests migrating, watching them navigate crossing the road when the vehicle was there. 
 - Picnic areas have brightly-colored birds, all going after your crumb. They are brilliant blue and will come very close to you - it is incredible. 
+- We went on a search for a rhino, which was the last of the big five we had not yet seen. For context, there are only 33 rhinos in all of the Serengeti, so they are very rare to see. We think we saw three in a far-off field, in an area where other cars had seen them closer. We were all out searching a far-off horizon for three grey dots - which I spotted! Then we spent the next 15 minutes trying to get a closer look and debating whether the dot was indeed the rhinos or something else. We concluded they were the rhinos in question. 
+  - On the same day, when we decided to "go find the rhino", we also visited the Rhino Project headquarters in the southern central Serengeti. This is a research institute for rhinos, also tasked with protecting them. There is a museum about the history of the Black Rhino, along with bones and teeth from the rhino. It was incredible to learn more about the rhinos and understand all the park was doing to build back this endangered species. 
   
 
 Resident Animals - Fun Facts:
@@ -66,8 +68,9 @@ Resident Animals - Fun Facts:
 - Many animals, especially giraffes, are gay. Giraffes are more often gay than straight. Plenty of animal species do not really make a serious distinction. 
 - Impalas keep harems of 20-50 females, for one male mating with them. The males fight over the harem, frequently losing the right to the harem. They rotate through a new male every several months. 
 - Leopards are almost exclusively solitary creatures. Male leopards have darker and larger spots. Females are also smaller. 
-- You find a leopard by their tale hanging down from a tree branch at midday. Almost all big cats are nocturnal - so they sleep during the day. 
+- You find a leopard by their tale hanging down from a tree branch at midday. Almost all big cats are nocturnal - so they sleep during the day. Leopards were Honest's favorite animal, so he was particularly good at finding them! We saw at least one every single day! 
 - Hippos take the same trail every night to their favorite grass-eating spot - sometimes traveling 3-5 kilometers. These trails look like hiking trails!
 - Elderly elephants and problematic males are essentially kicked out of the family and end up wandering around solo.
 - The Serengeti was down to two female Black Rhinos. A male from Ngorongoro Crater smelled one of them in heat from 20+ kilometers away and migrated to mate with them. This was in the mid-1990s and now there are 30+ rhinos in Serengeti (also due to other breeding interventions curated by humans).
 - The Nile Crocodile is in the Serengeti, as the rivers there are connected to the Nile through Lake Victoria. When the crocodile gets hot, it leaves its mouth open to cool down - as the water evaporates from it. We saw one sitting perfectly still with a big open jaw!
+- Lions hunt at night mainly. During the day they tend to sleep, just like house cats. We saw them everywhere - almost exclusively sleeping or chilling. It was a bit zany to see these large predators just hanging out, sleeping or playing or cleaning themselves, just like a house cat!

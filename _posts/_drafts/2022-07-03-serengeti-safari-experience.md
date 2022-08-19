@@ -10,15 +10,16 @@ The Serengeti: The Safari Experience (post #2)
 
 ## Elements of the Serengeti
 When I think about the Serengeti, several components come to mind:
-  • The amazing animals - covered in [link to post]
-  • Brilliant sunrises and sunsets along the flat plains
-  • The clear night sky filled with millions of stars
-  • Our unique stays between hotels and tented lodges
-    ○ Lobo Lodge
-    ○ Osupoko Tented Lodge
-    ○ Seronera Lodge
-  • Multi-course meals and packed lunches prepared by our hotels
-  • The colonial and hunting history of the park
+- The amazing animals, discussed in [the animals and place post](/2022/06/28/serengeti-animals-place.html)
+- Brilliant sunrises and sunsets along the flat plains
+- The clear night sky filled with millions of stars
+- Our unique stays between hotels and tented lodges
+  - Lobo Lodge
+  - Osupoko Tented Lodge
+  - Seronera Lodge
+- Multi-course meals and packed lunches that were prepared by our hotels
+- Managing our downtime to recharge
+- The colonial and hunting history of the park
 
 
 ## The Land of Sunrises and Sunsets
@@ -51,9 +52,9 @@ At the tented camp, Eli specifically had the job of escorting us to and from our
 
 ## The Lodges
 While in the Serengeti, we stayed in three different resorts: Lobo Lodge in the northeast part of the park, Osupoku Tented Lodge in the central western part, and Seronera Lodge in the center near the airport. These were very different lodges, and amazing in each of their own regards. I wrote about Osupoko first, as it was such a unique and special experience. Here's the order of these lodges
-  • Serengeti Night 1: Lobo Lodge 
-  • Serengeti Night 2 - 5: Osupoko Tented Lodge
-  • Serengeti Night 6: Seronera Lodge
+- Serengeti Night 1: Lobo Lodge 
+- Serengeti Night 2 - 5: Osupoko Tented Lodge
+- Serengeti Night 6: Seronera Lodge
 
 
 ### Osupoko Tented Lodge - Our Home Away From Home
@@ -87,6 +88,23 @@ On the last night of our stay there another couple arrived, a German couple on t
 It was buffet style and we had already been chatting, so I immediately in and said "this is the local food from Tanzania, and frankly the best food you will have had on your trip. If not, just blame me. If you've had Ethiopian food before, it's like that where you mix these and eat with your hands." This immediately gave them both confidence to get a big plate, and reduced some nervousness. At the end of the meal, the husband came up to me sharing that it was indeed amazing food. The chef and I also high-fived after the dinner and I congratulated him also: "you make incredible food, and everyone loved it! I had full confidence that everyone would taste that! Congrats and great job!"
 
 If you visit Tanzania, or any country in Africa on a safari or other tourist circuit, specifically ask for local food. Many restaurants make and serve this food off the menu, and they'd be thrilled to share their own culture with you!
+
+#### Honest & The Muscle Massage Ball
+We had a truly special relationship with our guide, Honest, who was with us for the whole 10 days. We felt that we created a genuine friendship with him - chatting about our homes, families, culture, and more. 
+
+It was clear from the beginning that Honest was a positive and easy-going person, who is flexible and also cognizant of those around him. He is deeply empathetic while also being extremely knowledgeable and respectful to everyone, and he has an extremely strong work ethic. We valued him for this on numerous occasions. 
+
+One truly defining moment was when he happened to mention that he had some muscle pain in his foot. Of course, he is driving 8-10 hours a day with us in the car, driving a safari jeep with a manual transmission on dirt roads. This was some active driving, where he was frequently shifting and using both feet. 
+
+Because I have a long-term back injury, we travel with both a foam roller and a small lightweight ball. Each helps with keeping my body nimble and stretching out any stitches that occur. 
+
+I brought the ball and foam roller to dinner after he mentioned he was having pain. He, and frankly the entire camp staff, at first looked at me like I was crazy. Honest humored me and watched my instructions on how to use the ball to help relax the muscles in the bottom of his foot. He tried it for several minutes and admitted that it was helping. I loaned the ball to him for two days, as he used it to relax his muscles. He called it "playing soccer in his tent", joking that he would be up and jumping around in no time! 
+
+In thinking about it now, it struck me how open he was to something truly random and unknown. A small ball helping to relieve muscle pain and increase blood flow is a pretty big jump, but he was flexible to try it. And open enough to it to say that it was helping. 
+
+This was one of several moments we had with Honest where we felt truly connected in a deep and lovely way. We will always cherish the time we had with him on the safari, and how he made us feel at home there. 
+
+
 
 #### A Campfire aka "Bush TV"
 Osupoko has an amazing campfire area in front of the dining tent. They joked that it was "bush TV", despite having amazing internet! After returning from the day, we would sit there chatting and watching the sky get darker after sunset. It was a fun calm way to end the day. We did that for several days when we were not resting in the tent. It was a lovely gathering spot for folks to hang out, and we frequently chatted with the staff there when they would join us. 
@@ -124,6 +142,11 @@ As big hikers, we are also big snackers. We asked for nuts and additional fresh 
 
 All that said, the best food was when we were eating Tanzanian food. It was incredible and multifaceted in taste, and helped us understand and love the culture further! 
 
+
+## Taking Time to Rest
+Tim and I are both highly ambitious people with our time and aspirations for what to accomplish. This extends to how we approach traveling and vacations. However, when you are traveling for 8.5 months, you need to pace yourself. With the safari, we had drastically underestimated how engaged we would be. Frankly, we had thought about this as sitting in a car all day for 8 hours per day. While this is true, this is not a passive travel time. You spend the time staring out of the car at the landscape, looking for animals or actively watching an animal. That level of concentration is more similar to a workday, where you need to "be on" while at work. 
+
+We opted to try to have quiet time at night to soak it in. I also would watch the sunrise and sunset quietly to recharge, inviting a very tired Tim who sometimes joined. One day mid-safari, we opted to do a morning drive (which turned into a 7-hour drive) and took the rest of the day off. Just hanging around camp was still a truly unique experience. If you are going to do a safari, or any intense vacation, taking that downtime allows you to recharge and continue soaking up the experience you are in. One thing we needed to remind ourselves is that this is building towards a more sustainable pace and that this was good - trying to reduce our own "fear of missing out" (FOMO) while in the moment.
 
 ## History of Hunting and Colonialism
 
