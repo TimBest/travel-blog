@@ -92,6 +92,4 @@ Within no time she was back to herself. Exploring the apartment. playing with he
 
 We were both exhausted. Katie managed to muster the energy to get us to take out from an American cafe across the street as I kept Paka company. We both got a burger. It was heavenly. Paka was settling into our temporary home and found a cozy spot to sunbathe.
 
-
-{% include image-gallery.html folder="/assets/images/2022-07-09-zanzibar-to-dar-es-salaam/05-cafe" %}
-
+![interior of a cafe](/assets/images/2022-07-09-zanzibar-to-dar-es-salaam/05-cafe/05-WoodberryCafe.jpg)

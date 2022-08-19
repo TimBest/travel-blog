@@ -59,7 +59,7 @@ Getting off the plane we first needed to make a long walk to the security queue 
 
 At the bottom of the escalator, we struck up a conversation with her and her friend. They were going to Istanbul to visit family and were a little unsure of how to navigate the airport. So we walked with them to the exit. Getting to encourage her first time on a moving walkway as well.
 
-## 12:30 AM
+## 12:30 PM
 
 Going through this security was night and day from Dar Es Sallam. The guards were so happy to see the kitten. And while they still had us take the cat litter out for a visual inspection they immediately recognized it and sent us on our way.
 
@@ -67,7 +67,21 @@ We walked quickly through the airport and bumped into a family from Connecticut.
 
 On our way to our gate, we passed by a duty-free shop and noticed a souvenir much like one of Katie's favorite items from a previous trip to Istanbul. After a quick pit stop there we headed over to the security at the gate. Again they were super nice to us. Seeing the cat they let us cut the line. 
 
-At this point our flight was boarding and I took all of our bags and sent Katie to the bathroom to let Paka out for a few minutes and freshen up the carrier. As the agent was going through our bags he found Peggy and was very amused. He picked her up put her on his finger and started joking in Turkish with a fellow coworker. We had a good laugh about the cute baby penguin and went on to board our flight
+At this point our flight was boarding and I took all of our bags and sent Katie to the bathroom to let Paka out for a few minutes and freshen up the carrier. As the agent was going through our bags he found Peggy and was very amused. He picked her up put her on his finger and started joking in Turkish with a fellow coworker. We had a good laugh about the cute baby penguin and went on to board our flight. When boarding one of the Trukish airline staff called out to us saying, "Hi Timothy"! I was taken aback. Seeing the surprise on my face. He explained that he was the one answering my email requests about traveling with Paka
 
-## 1:19 PM
+## 1:20 PM
+
+Once in the air, the staff was so friendly with us stopping by to say hi to us and the cat. Making sure she was comfortable. Even turning a blind eye to us taking her to the lavatory every hour to let her out so we could play with her. clean the litter box, and feed her. Paka was bored for most of the flight but was very well behaved. 
+
+## 5:15 PM
+
+We touch down at JFK. The moment of truth. We have been fretting about US customs for over 2 weeks now.
+
+We disembark the plane and join the massive queue of folks returning to the U S of A. As we move through the line a customs agent flags us mentioning that the digital checking line is open. She helps us download the app on our phone. scan our passport and get into the shorter queue. We are so grateful for this lady helping us.
+
+We get to the customs agent. Scan our digital entry code and wait as he is typing away at his terminal. The wait seems like forever. He finally looks up and says, "It says here you are carrying animal products". We reply, "ahhh, you mean our cat?!?" Lifting the carrier to his eye level. He looks and replies "Your good to go.". What!?!?!?! My mind breaks. I question "You don't need any documentation for the cat". He quickly replies "Nope. We don't care about cats"
+
+## 6:00 PM
+
+We pick up our bags. Walk through the final customs check point and they again don't care about cats. We couldn't be more relieved to be back in the states with Paka in hand. It has been a really difficult experience getting her back into the states. We are looking forward to giving her the best life possible. For now, she will stay with my parents until our travels are over. 
 
