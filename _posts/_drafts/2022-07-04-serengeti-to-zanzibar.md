@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Form the Serengeti to Zanzibar"
+title: "From the Serengeti to Zanzibar"
 author:
   - Timothy Best
 ---

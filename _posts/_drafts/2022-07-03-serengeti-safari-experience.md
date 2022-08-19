@@ -33,6 +33,7 @@ One morning, we even got up and left 40 minutes before the sunrise, watching the
 
 At Osupoku Camp, I would walk down to the last tent (which was empty) and sit on the rocking chairs watching the sunsets and sunrises alone in quiet. Soaking in the surroundings, just listening to the noise and environment. It was incredibly calming and grounding. It was me trying to remember every moment and aspect of this incredibly special place I'd found myself in. And it gave me some brilliant videos and pictures for which to remember this place. 
 
+{% include image-gallery.html folder="/assets/images/2022-07-03-serengeti-safari-experience/sun" %}
 
 ## Watching a Brilliant Night Sky
 The Serengeti is a national park in Tanzania. The lands around it are protected conservation lands. Urban areas beyond that are mostly villages, with some towns. The major cities are a several-hours drive away. We were there during the dry season, meaning there was no rain at all. And no clouds. 
@@ -56,7 +57,6 @@ While in the Serengeti, we stayed in three different resorts: Lobo Lodge in the 
 - Serengeti Night 2 - 5: Osupoko Tented Lodge
 - Serengeti Night 6: Seronera Lodge
 
-
 ### Osupoko Tented Lodge - Our Home Away From Home
 We stayed at Osupoko Tented Lodge for four nights, in the middle of our Serengeti time. It truly became our home away from home, a space we felt excited to come back to with humans we truly enjoyed being around. There was a staff of about 5 people: the head manager and cook, a waiter, a rooms/lodging manager, a security guard at night, and the lodge's driver. Each was deeply welcoming and open with us, and we all became friends. It turned out that the head manager and waiter were father and son - which we found out on the last day! Beyond the amazing staff, there were a couple of things I'd love to call out specifically. 
 
@@ -69,10 +69,16 @@ We stayed in the first tent, which was closest to the dining tent. Since we were
 
 For internet access, they had a satellite connection that was connected to wireless routers in the camp. It was the most reliable internet we had in Tanzania - in the backcountry of the Serengeti! We also had the best shower experience, with the most reliable hot water. Quite incredible!
 
+{% include image-gallery.html folder="/assets/images/2022-07-03-serengeti-safari-experience/tented-lodge" %}
+
+
 #### A Talking Shower
 The showers we took were "talking showers". This meant that you let the staff know you were going to take a shower. They got hot water and mixed it with the cold water in a tank directly behind your tent. A staff member stands outside the tent, literally telling you when the water was mixed. Then you tell the staff when you are ready to test the water temperature. You try putting your hand in the water from the shower, letting them know to add more or less hot water to get it to your preferred temperature. Then, when you are ready, you take a shower.
 
 Now, this is not a "Hollywood" shower, you can't let the water run for your entire shower. There are only about 15 liters of water in the tank, so they'd need to refill it. You turn the water on for getting yourself wet, turn it off for soaping, back on for rinsing, and repeat for the number of soaps/rinses you need. During this whole time, the staff member is standing behind you monitoring the water level, so you end up narrating the water on and off the whole time. Tim, of course, needs to do one hair soap and rinse whereas I need to do 2-3, so it was quite funny to see the difference up close. The experience also makes you acutely aware of conserving water - and how much water you use in a single shower. 
+
+{% include image-gallery.html folder="/assets/images/2022-07-03-serengeti-safari-experience/talking-shower" %}
+
 
 #### Tanzanian Food (Finally!)
 Throughout our time in Tanzania, we were exclusively served Western food. Since we were the only people staying at the tented lodge, we specifically requested Tanzanian food. It was literally the best food we had in the country, and it felt so right to be eating Tanzanian food while in the Serengeti with a Tanzanian staff.
@@ -89,6 +95,8 @@ It was buffet style and we had already been chatting, so I immediately in and sa
 
 If you visit Tanzania, or any country in Africa on a safari or other tourist circuit, specifically ask for local food. Many restaurants make and serve this food off the menu, and they'd be thrilled to share their own culture with you!
 
+{% include image-gallery.html folder="/assets/images/2022-07-03-serengeti-safari-experience/tanzanian-food" %}
+
 #### Honest & The Muscle Massage Ball
 We had a truly special relationship with our guide, Honest, who was with us for the whole 10 days. We felt that we created a genuine friendship with him - chatting about our homes, families, culture, and more. 
 
@@ -104,11 +112,10 @@ In thinking about it now, it struck me how open he was to something truly random
 
 This was one of several moments we had with Honest where we felt truly connected in a deep and lovely way. We will always cherish the time we had with him on the safari, and how he made us feel at home there. 
 
-
-
 #### A Campfire aka "Bush TV"
 Osupoko has an amazing campfire area in front of the dining tent. They joked that it was "bush TV", despite having amazing internet! After returning from the day, we would sit there chatting and watching the sky get darker after sunset. It was a fun calm way to end the day. We did that for several days when we were not resting in the tent. It was a lovely gathering spot for folks to hang out, and we frequently chatted with the staff there when they would join us. 
 
+{% include image-gallery.html folder="/assets/images/2022-07-03-serengeti-safari-experience/bush-tv" %}
 
 ### Lobo Lodge
 Lobo Lodge is in the northwest of the Serengeti, near the Kleins Gate and Lobo airstrip. It is an old-style lodge, built with wood nestled in a rock outcropping. It is one of the oldest lodges in the Serengeti. It is a hotel built for 300+ guests, and we were the only people there that night. Given how COVID basically stopped all tourism, there is still a recovering economy for safaris and you can tell that by the dips in tour groups to areas built for many visitors. 
@@ -121,12 +128,17 @@ Like all hotels in Tanzania, they told us the hours for hot water, electricity, 
 
 Nonetheless, it was truly a grand entrance to our six nights in the Serengeti and set a majestic setting for the rest of our time there. 
 
+{% include image-gallery.html folder="/assets/images/2022-07-03-serengeti-safari-experience/lobo" %}
+
+
 ### Seronera Lodge
 This is literally the oldest lodge in the Serengeti, also decorated as a hunting lodge with dark wooden furniture. It had a rooftop viewing area for the landscape and sunrises/sunsets, where we were so close to watering holes that we could watch animals walking to the water, listening to their sounds as the sun set on the horizon. 
 
 This lodge is owned by the same group as Lobo Lodge, with many of the same elements. However, this time we certainly were not there alone. It was incredible to see the hotel filled with people and groups, it felt like a hint of the pre-COVID humming of activities between the families, friends, and couples present. 
 
 By this point, we felt like good friends with our guide Honest. We spoke about our families, the animals, the different cultures that visit, the politics of the country, the landscape, and so many other things. We openly laughed with ease and joked with one another. It was strange to know that this was the last dinner we'd have with him, after eating with him the whole time. He'd seen Tim sick and helped take care of us. He had shown us his world and what he enjoyed in the Serengeti. We truly enjoyed his company and knew that we would miss him. 
+
+{% include image-gallery.html folder="/assets/images/2022-07-03-serengeti-safari-experience/seronera" %}
 
 
 ## Multi-Course Meals & Packed Lunches
@@ -142,8 +154,10 @@ As big hikers, we are also big snackers. We asked for nuts and additional fresh 
 
 All that said, the best food was when we were eating Tanzanian food. It was incredible and multifaceted in taste, and helped us understand and love the culture further! 
 
+{% include image-gallery.html folder="/assets/images/2022-07-03-serengeti-safari-experience/lunch" %}
 
 ## Taking Time to Rest
+
 Tim and I are both highly ambitious people with our time and aspirations for what to accomplish. This extends to how we approach traveling and vacations. However, when you are traveling for 8.5 months, you need to pace yourself. With the safari, we had drastically underestimated how engaged we would be. Frankly, we had thought about this as sitting in a car all day for 8 hours per day. While this is true, this is not a passive travel time. You spend the time staring out of the car at the landscape, looking for animals or actively watching an animal. That level of concentration is more similar to a workday, where you need to "be on" while at work. 
 
 We opted to try to have quiet time at night to soak it in. I also would watch the sunrise and sunset quietly to recharge, inviting a very tired Tim who sometimes joined. One day mid-safari, we opted to do a morning drive (which turned into a 7-hour drive) and took the rest of the day off. Just hanging around camp was still a truly unique experience. If you are going to do a safari, or any intense vacation, taking that downtime allows you to recharge and continue soaking up the experience you are in. One thing we needed to remind ourselves is that this is building towards a more sustainable pace and that this was good - trying to reduce our own "fear of missing out" (FOMO) while in the moment.

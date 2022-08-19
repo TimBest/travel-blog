@@ -76,5 +76,5 @@ Learn more at [www.awf.org/wildlife-conservation/waterbuck](https://www.awf.org/
 ![A guinea fowl](/assets/images/2022-06-30-unexpected/guinea-fowl.jpg)
 
 Allegedly, their meat and their eggs taste even better than chicken. Often kept as livestock in Tanzania
-https://en.wikipedia.org/wiki/Guineafowl
+[https://en.wikipedia.org/wiki/Guineafowl](https://en.wikipedia.org/wiki/Guineafowl)
 

@@ -40,7 +40,7 @@ Once in our seats, we paid the porter and showed him the cat. At first, he did n
 The ferry departed Zanzibar. It was clear now that we were a bit of a curiosity for all the travelers. We were the only white people on the boat. And the only ones with a pet. A security guard in the row behind us, taking the ferry home behind us, struck up a conversation. We showed him Paka and he was very amused with the cat. We talked mainly about the cat but also learned a little bit about him and his life. Contrary to many people that we met he was concerned about bringing her home as is and was relieved to hear we were headed to the vet and planned to make sure she was healthy before flying.
 
 ## 7:30 AM
-As our adrenalin started to wain and our lack of sleep took hold. We got to work creating a checklist of all the things we needed from the vet. Overall health, hind leg issues, flea meds, microchip, etc. 
+As our adrenaline started to wain and our lack of sleep took hold. We got to work creating a checklist of all the things we needed from the vet. Overall health, hind leg issues, flea meds, microchip, etc. 
 
 Katie ate her eggs and took a nap. I on the other hand still didn't have an appetite and was too overstimulated to go to sleep.
 
@@ -48,7 +48,7 @@ So far in our journey Paka was incredibly trusting of us. For the first ten minu
 
 ## 9:30 AM
 
-Goodbye Zanzibar! Hello Dat Es Salaam! 
+Goodbye Zanzibar! Hello Dar Es Salaam! 
 
 We arrived at the station. Not wanting to fight our way through the crowds we sat and waited until most of the passengers had left. We disembarked last with the families with small children.
 
