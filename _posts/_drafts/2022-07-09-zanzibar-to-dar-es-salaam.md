@@ -7,9 +7,11 @@ author:
 
 ## 4:30 AM
 
-We awake to darkness and our alarm. As we got ourselves out of bed and ready for the day we heard a knock on the door. Dadi and Diali were there and dropped off breakfast they had made us hard-boiled eggs, toast with jam, and coffee in a mocha pot (A treat from the instant coffee we had other mornings). We ate as quickly as we could. Got Paka into her carrier and loaded everything into the car
+We awake to darkness and our alarm. As we got ourselves out of bed and ready for the day we heard a knock on the door. Dadi and Diali were there and dropped off breakfast they had made us hard-boiled eggs, toast with jam, and coffee in a mocha pot (A treat from the instant coffee we had other mornings). We ate as quickly as we could, got Paka into her carrier and loaded everything into the car. 
 
-As we drove the ~2 hours to the ferry we watched the island come to life. First, we noticed the occasional car or person walking along the road. Then we started to notice men praying at the temple. After that, we started seeing parents walking their children to school
+{% include image-gallery.html folder="/assets/images/2022-07-09-zanzibar-to-dar-es-salaam/01-breakfast" %}
+
+As we drove the ~2 hours to the ferry we watched the island come to life. First, we noticed the occasional car or person walking along the road. Then we started to notice men praying at the temple. After that, we started seeing parents walking their children to school.
 
 ## 6:30 AM
 
@@ -37,7 +39,7 @@ Once in our seats, we paid the porter and showed him the cat. At first, he did n
 
 ## 7:10 AM
 
-The ferry departed Zanzibar. It was clear now that we were a bit of a curiosity for all the travelers. We were the only white people on the boat. And the only ones with a pet. A security guard in the row behind us, taking the ferry home behind us, struck up a conversation. We showed him Paka and he was very amused with the cat. We talked mainly about the cat but also learned a little bit about him and his life. Contrary to many people that we met he was concerned about bringing her home as is and was relieved to hear we were headed to the vet and planned to make sure she was healthy before flying.
+The ferry departed Zanzibar. It was clear now that we were a bit of a curiosity for all the travelers. We were the only white people on the boat. And the only ones with a pet. A security guard in the row behind us, taking the ferry home behind us, struck up a conversation. We showed him Paka and he was very amused with the cat. We talked mainly about the cat but also learned a little bit about him and his life. Contrary to many people that we met, he was concerned about bringing her home as is and was relieved to hear we were headed to the vet and planned to make sure she was healthy before flying.
 
 ## 7:30 AM
 As our adrenaline started to wain and our lack of sleep took hold. We got to work creating a checklist of all the things we needed from the vet. Overall health, hind leg issues, flea meds, microchip, etc. 
@@ -45,6 +47,8 @@ As our adrenaline started to wain and our lack of sleep took hold. We got to wor
 Katie ate her eggs and took a nap. I on the other hand still didn't have an appetite and was too overstimulated to go to sleep.
 
 So far in our journey Paka was incredibly trusting of us. For the first ten minutes in the car, she cried and tried to claw/bite her way out of the cage. Then quickly became content and slept the rest of the car ride, through the port and even on the boat.
+
+{% include image-gallery.html folder="/assets/images/2022-07-09-zanzibar-to-dar-es-salaam/02-ferry" %}
 
 ## 9:30 AM
 
@@ -60,7 +64,9 @@ I was glued to the window taking in all the new sights. We drove on Barak Obama 
 
 At the clinic, the vet assured us that Paka was weak and had worms. But given her circumstances, was in good health and we would be able to take her home. The doctor told us we wouldn't be able to vaccinate until after the deworming was complete. We told him we were happy to wait however long it takes to get her ready to fly and were waiting to order the flight until everything was in order. 
 
-He patiently answered our million and one questions and then showed us how to administer the deworming medication. We then scheduled a follow-up appointment to take care of the fleas, travel docs, vaccines, and microchipping
+He patiently answered our million and one questions and then showed us how to administer the deworming medication. We then scheduled a follow-up appointment to take care of the fleas, travel docs, vaccines, and microchipping.
+
+{% include image-gallery.html folder="/assets/images/2022-07-09-zanzibar-to-dar-es-salaam/03-vet" %}
 
 ## 10:40 AM
 
@@ -80,10 +86,12 @@ We arrived at the Airbnb the cleaning lady was still working. We had been upgrad
 
 Within no time she was back to herself. Exploring the apartment. playing with her new toy and cuddling up against us. 
 
+{% include image-gallery.html folder="/assets/images/2022-07-09-zanzibar-to-dar-es-salaam/04-airbnb" %}
+
 ## 4:00 PM
 
 We were both exhausted. Katie managed to muster the energy to get us to take out from an American cafe across the street as I kept Paka company. We both got a burger. It was heavenly. Paka was settling into our temporary home and found a cozy spot to sunbathe.
 
 
-{% include image-gallery.html folder="/assets/images/2022-07-09-zanzibar-to-dar-es-salaam" %}
+{% include image-gallery.html folder="/assets/images/2022-07-09-zanzibar-to-dar-es-salaam/05-cafe" %}
 
