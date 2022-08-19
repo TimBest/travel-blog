@@ -13,6 +13,9 @@ With an hour left until our driver picks us up for the airport, I am sitting her
 
 I have been up since 8:30 in the morning and won't be going to sleep anytime soon. I am looking forward to getting home. To eating food that doesn't turn my stomach into a knot. I am also incredibly anxious and nervous. I am generally anxious before a flight but the unknowns with Paka are making my anxiety even worse. What if we don't have the right documents? Will we be able to get get out of Tanzania? Will we be able to get her on Turkish airlines? Will she make it through customs in NY? So much is up in the air and we are gambling her life on our preparedness without her consent. In addition to the legal obstacles. How will she handle the nearly 30 hours stuck in her crate? How will we feed her? How will we play with her? How will we keep her calm? 
 
+{% include image-gallery.html folder="/assets/images/2022-07-21-flight-home/play" %}
+
+
 ### 11:45 PM
 
 We bring our bags down. Thankfully our driver had arrived early and awaiting us outside the gate. We loaded up our bags and headed to the airport. On the way, we got to see Dar Es Salaam for the first time at night. I enjoyed seeing the lights on the tanzanite bridge, peering into bars to see the patrons there for a thirsty Tuesday, restaurant employees cleaning up after a long day, and street food vendors still actively serving folks. The city had fewer people out but was still very much alive. Leaving I am sad that we didn't get to experience the nightlife and street food. But I am sure my stomach thanks me. 
@@ -29,9 +32,15 @@ The security folks ended up pulling Paka's travel bag out of the x-ray machine a
 
 In line for Turkish Airlines check-in, every other customer was very interested in our cat. Including some curious children. The attendant had to make copies of our documents. Something their website, office, and phone attendant failed to inform us of. Easy enough but scary having our only physical copy taken into some back room without us.
 
+{% include image-gallery.html folder="/assets/images/2022-07-21-flight-home/dar-airport" %}
+
+
 ## 12:55 AM
 
 Then we had to go through passport control. We asked the agent about the exporting of the cat and he just shrugged. So we continued on the second security screening. The agents were equally entertained with Paka and equally alarmed by the kitty litter. Once through security, we ended up locking ourselves in a handicapped toilet with Paka so she could sleep on Katherine's lap. 
+
+{% include image-gallery.html folder="/assets/images/2022-07-21-flight-home/dar-customs" %}
+
 
 ## 2:00 AM
 
@@ -39,7 +48,7 @@ Two maintenance workers tried to unlock the door of the bathroom we are in. We c
 
 ## 4:30 AM
 
-We board our flight after a few delays. Immediatly, we notice a tone shift from those we are interacting with. In Tanzania, many folks were confused or disgusted with the cat. But on the plane, every flight attendant was super excited to see her. Each attendant said Hi to Paka each with their own special kitten voice. 
+We board our flight after a few delays. Immediately, we notice a tone shift from those we are interacting with. In Tanzania, many folks were confused or disgusted with the cat. But on the plane, every flight attendant was super excited to see her. Each attendant said Hi to Paka each with their own special kitten voice. 
 
 We stay awake for take-off feeding Paka 3-4 bits of dry food every 1000 meters. Hoping the movement from chewing helps her ears adjust. She is excited to get more kibble and is scratching and biting at our fingers every time we place some in her carrier.
 
@@ -48,6 +57,9 @@ Once at altitude, Paka cried a little wanting more food. But once she realized w
 ## 05:25 AM
 
 We are awoken for breakfast. The water came in the same plastic container as apple sauce comes in. Mind blown. Who knew you could package water like that  
+
+{% include image-gallery.html folder="/assets/images/2022-07-21-flight-home/flight" %}
+
 
 ## 11:30 AM
 
@@ -59,6 +71,9 @@ Getting off the plane we first needed to make a long walk to the security queue 
 
 At the bottom of the escalator, we struck up a conversation with her and her friend. They were going to Istanbul to visit family and were a little unsure of how to navigate the airport. So we walked with them to the exit. Getting to encourage her first time on a moving walkway as well.
 
+{% include image-gallery.html folder="/assets/images/2022-07-21-flight-home/touch-down" %}
+
+
 ## 12:30 PM
 
 Going through this security was night and day from Dar Es Sallam. The guards were so happy to see the kitten. And while they still had us take the cat litter out for a visual inspection they immediately recognized it and sent us on our way.
@@ -69,9 +84,14 @@ On our way to our gate, we passed by a duty-free shop and noticed a souvenir muc
 
 At this point our flight was boarding and I took all of our bags and sent Katie to the bathroom to let Paka out for a few minutes and freshen up the carrier. As the agent was going through our bags he found Peggy and was very amused. He picked her up put her on his finger and started joking in Turkish with a fellow coworker. We had a good laugh about the cute baby penguin and went on to board our flight. When boarding one of the Trukish airline staff called out to us saying, "Hi Timothy"! I was taken aback. Seeing the surprise on my face. He explained that he was the one answering my email requests about traveling with Paka
 
+
+
 ## 1:20 PM
 
 Once in the air, the staff was so friendly with us stopping by to say hi to us and the cat. Making sure she was comfortable. Even turning a blind eye to us taking her to the lavatory every hour to let her out so we could play with her. clean the litter box, and feed her. Paka was bored for most of the flight but was very well behaved. 
+
+{% include image-gallery.html folder="/assets/images/2022-07-21-flight-home/to-jfk" %}
+
 
 ## 5:15 PM
 
