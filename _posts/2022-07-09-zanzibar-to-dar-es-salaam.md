@@ -9,7 +9,7 @@ author:
 
 We awake to darkness and our alarm. As we got ourselves out of bed and ready for the day we heard a knock on the door. Dadi and Diali were there and dropped off breakfast they had made us hard-boiled eggs, toast with jam, and coffee in a mocha pot (A treat from the instant coffee we had other mornings). We ate as quickly as we could, got Paka into her carrier and loaded everything into the car. 
 
-{% include image-gallery.html folder="/assets/images/2022-07-09-zanzibar-to-dar-es-salaam/01-breakfast" %}
+![breakfast](/assets/images/2022-07-09-zanzibar-to-dar-es-salaam/01-breakfast/IMG_20220709_045750.jpg)
 
 As we drove the ~2 hours to the ferry we watched the island come to life. First, we noticed the occasional car or person walking along the road. Then we started to notice men praying at the temple. After that, we started seeing parents walking their children to school.
 
