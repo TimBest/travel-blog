@@ -103,5 +103,5 @@ We get to the customs agent. Scan our digital entry code and wait as he is typin
 
 ## 6:00 PM
 
-We pick up our bags. Walk through the final customs check point and they again don't care about cats. We couldn't be more relieved to be back in the states with Paka in hand. It has been a really difficult experience getting her back into the states. We are looking forward to giving her the best life possible. For now, she will stay with my parents until our travels are over. 
+We pick up our bags. Walk through the final customs checkpoint and they again don't care about cats. We couldn't be more relieved to be back in the states with Paka in hand. It has been a really difficult experience getting her back into the states. We are looking forward to giving her the best life possible. For now, she will stay with my parents until our travels are over. 
 
