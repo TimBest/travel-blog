@@ -7,14 +7,18 @@ author:
 
 *Note: Many of the posts from Tanzania were written after we left. However, this post was written while in Dar es Salaam, before we knew that Paka would successfully get into the U.S., receive customs approval, and become our cat.*
 
-
 We had planned this as our “pre-pets and pre-kids” trip – which we’ve been planning for the last two years.
 
 Yet, two months in, we’ve fallen in love with a kitten. In Zanzibar. And now we are taking her home to New York. I’m sitting in a café in Dar es Salaam, writing this post two days after we were supposed to be home. My daydreaming of pizza and bagels was delayed by 10 days as we get everything squared away and prep the cat for a 21-hour plane trip. 
 
 Last week on Tuesday, we were waiting for the wife of a couple we were hanging out with, just standing in the loading area of a nearby hotel. Suddenly, we hear insistent meowing nearby and it took a second to identify the culprit: a very small, dirty kitten staring at us. The three of us tried to ignore her until Ananete showed up and immediately scooped her up. Frankly, I’m so grateful for each of them and their boldness. The kitten’s boldness to walk up to a bunch of adult humans and not quit meowing, her saying “I am here, I matter, and I want you to care”. Annette's high empathy towards animals led her to pick up a cute but very dirty cat in a foreign country and bring her back to our hotel, ensuring that we would nurse the kitten back to health during our time there.
 
+![looking down at a small kitten near a mans feet](/assets/images/2022-07-13-paka/feet.jpg)
+{% include caption.html text="Paka begging at our feet" %}
+
 Over the week, the kitten became our 4-person joint project: figuring out what she would eat, giving her a bath to get the poop and dirt off her back legs, picking off 3 very large ticks, and figuring out how to care for her. By Thursday night, she was clean and cute, and cuddly. On top of that, I was extremely dehydrated from a day in the sun on a snorkeling boat, feeling dizzy, and leaving dinner early to rest in bed feeling tired and frustrated. Tim brought the kitten into our room to lift my spirits (again, the Best boyfriend ever….) and she just cuddled and played. Between Thursday and Friday, we were just swooning. 
+
+![collage of paka cuddling with Tim and Katie](/assets/images/2022-07-13-paka/cuddle.jpg)
 
 You see, we are both softies inside. And we love cats. And we jump into caretaker mode when we see someone we love in need. 
 
@@ -29,11 +33,19 @@ You might have guessed that adopting a cat from a foreign country and bringing i
 
 In a couple of hours, we found an airline that would fly cats between 10 and 12 weeks (Turkish Airlines), exactly what documentation she needed to be accepted in the US (and the process), and a veterinarian that would see her the next day. The vet also confirmed that she was old enough that with a week or so, she’d be 10 weeks old – just old enough to fly. 
 
+![Katie on her phone sitting up on a bed](/assets/images/2022-07-13-paka/phone.jpg)
+{% include caption.html text="Katie calling all the vets in a 6 hours transit radius" %}
+
 Now we needed to buy a cat carrier on a tourist island in a country where most people don’t have pets, book a ferry to get to Dar es Salaam (which we weren’t planning on visiting), get all of us to the vet, and find a place to stay that accepts pets. It was 5 pm. And we did it with the help of the hotel owner (Daeli) and manager (Dadi). 
 
 The next morning, our little family woke up at 4:30 am to load everyone into the car. The kitten was in the newly acquired cat carrier, we drove 2 hours to the ferry. Took the ferry for 2 hours, and then got to the vet for her first exam. He concluded that she was generally healthy and would be able to travel after we gave her some time to grow and strengthen her body.  
 
+![collage of the ferry trip](/assets/images/2022-07-13-paka/ferry.jpg)
+
 Now, 5 days later, the kitten has a name: Paka. Paka means “cat” in Swahili, the national language in Tanzania. It felt fitting to have her name be part of where she’s from. We do get laughs from folks here about it, "yeah, but what's her actual name", which is great. Paka is everyone’s favorite kitten. We also call her “tuna face”, as she launches her face and two front paws into her food dish when eating, walking away with a lot of tuna juice and smell on her nose. (When she had a cold with a runny nose we switched to “snotty tuna face”.) She’s pooping solid – which was a milestone. She’s playing like a hyper kitten. She’s still incredibly under the weight the internet says (she’s 1 lb., the internet says a kitten her age should be 2-3 lbs.), and probably small for her age, but she’s a force to be reckoned with. 
+
+![A ginger and white kitten sitting on a womans lap. The womans is wearing black and blue patterned pants](/assets/images/2022-07-13-paka/tuna.jpg)
+{% include caption.html text="Her face is normally completely white" %}
 
 Sometimes, it is clear to me that she is just happy to have a warm creature to cuddle up to as Mom and Dad. There are moments where I feel her being nervous that we will leave her, or that she won’t get fed (which she has become a vocal brat about, but who isn’t in the toddler phase). She is the most trusting cat either of us has ever known. She is playful and hyper. She likes play biting our hands more than the handful of toys we have. She prefers crumpled-up receipts and rocks from the hotel over the one small ball we could find for her. 
 
