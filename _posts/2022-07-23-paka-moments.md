@@ -9,7 +9,6 @@ author:
 
 This post is a collection of moments we had with Paka, ranging from Zanzibar to Dar es Salaam to the flight to New York. It is a series of moments, in loose chronological order. 
 
-
 ## A Decision to Adopt
 
 She made a strong impression with how trusting she was of us, and how she immediately adopted us as her parents several days before we adopted her. The kitten clearly wanted parents, when she found us then she latched on. We had to decide what we would do. 
@@ -27,6 +26,8 @@ After lots of research, between airlines and US regulations and vets, we realize
 The next day we took her to Dar es Salaam to get her looked at. She was healthy besides worms, and with food and nutrition would grow back to a more normal size. It was incredible news
 
 
+{% include image-gallery.html folder="/assets/images/2022-07-23-paka-moments/zanzibar" %}
+
 ## Sleeping in the Bathroom
 
 Paka slept in the bathroom at night, next to our bedroom. She was so obedient and quiet there. The first night we did this was in Zanzibar, and it felt just like she knew we were taking care of her. Giving her a home and a space. For that reason, she was totally content to stay in the bathroom, knowing we were nearby. 
@@ -37,6 +38,8 @@ Later, when we started letting her sleep with us, she would eventually end up in
 
 In the morning, when we opened the door, she'd come running out and around the bedroom - meowing and bothering us for food. We made a small pile of pillows on the floor so that she could independently get onto the bed, as she wasn’t big enough to jump up on the bed. Over the 10 days in Dar es Salaam, she developed amazing climbing skills. Using her claws and body to get up onto the bed and the backs of chairs. 
 
+{% include image-gallery.html folder="/assets/images/2022-07-23-paka-moments/bathroom" %}
+
 
 ## Paka's Bath & Drying Out in an Armpit
 
@@ -46,10 +49,14 @@ Afterward, we wanted her to groom herself to dry her off - which is what cats no
 
 I laid down on the bed with her coming over to me. I put her inside my shirt next to my body to help her be warm. Paka immediately crawled up into my armpit, in my t-shirt, and just sat there for an hour drying off. After she was dry, she was substantially more soft to touch and no longer smelled. She seemed to know that she was a bit better off - her cleaner and unmatted fur creating more warmth. Within a couple of hours, she also had more energy - which we think came from removing the ticks. It was incredible to see her happy and moving around so quickly. 
 
+{% include image-gallery.html folder="/assets/images/2022-07-23-paka-moments/bathtime" %}
+
 
 ## Books & Cuddles
 
 During many days in Dar es Salaam, I wanted quiet time and solo time - not only on a computer. I bought two books from a local store and would lay in bed reading. Paka would snuggle up into my stomach or armpit and sleep there for 1-2 hours while I read. She quickly learned and specifically sought out the warmest parts of my body to nestle against. She would be playing on the bed with me. One of us would slow down - either her getting tired or me getting bored. When she gets tired, she sits on me and attempts to continue playing from my lap but not actually getting up to chase the toy. When I got bored, I'd start setting up to read, with her following me around. Then I'd sit down and put her on my lap, playing with the toy from there. She'd slowly go into chilling-mode, and then sleep there. 
+
+{% include image-gallery.html folder="/assets/images/2022-07-23-paka-moments/cuddles" %}
 
 
 ## Walking, Cooking & The Cat Carrier
@@ -79,6 +86,8 @@ We went to a home goods store with the cat carrier and found some drawer organiz
 
 We started having her cat carrier in the bathroom at night, and she opted to sleep in it - a small space that she found comfort in. We also had her in the cat carrier walking to the vet and back, and periodically when cooking. She came to know it as both familiar and frustrating (when it was zipped up). 
 
+{% include image-gallery.html folder="/assets/images/2022-07-23-paka-moments/carrier" %}
+
 
 ## Paka & Playing in Tanzania 
 
@@ -95,6 +104,8 @@ We would play with her in the bedroom, then both the bedroom and the living room
 We also noticed something - she would randomly have a new way to play that we didn't teach her. At first, she directly went for our hands with the toys in them. Then she hid behind our knee or foot to jump at the thing. A couple of days later she was hiding behind the bedpost to jump over our foot and finally attack the toy. Essentially, she was setting up more complex obstacle courses for herself. Paka made this playing more complex and elaborate for a variety of jumping and talking when playing with us and tops. It was incredible to watch. 
 
 One night we set up an obstacle course in the hallway. Tim on the bedroom side and me on the kitchen side. It included my foam roller, the cardboard scratcher, two balls, several crumpled-up paper receipts (which she loved), and a string with a paper tied to the end. One of us held the string and the other held the bracelet. She spent the next 20 minutes running back and forth, setting up her own obstacle course through the middle of it. She would back up behind one of us beyond the door frame, staying there for 10-15 seconds quietly stalking forward to the edge to see us, then spring into action. It was incredible to watch her play grow into this elaborate, self-created exploration of play. We just sat there, playing with her and soaking in the moment. 
+
+{% include image-gallery.html folder="/assets/images/2022-07-23-paka-moments/play" %}
 
 
 ## Turkish Airlines, U.S. Customs & Our Kitten
@@ -124,3 +135,5 @@ We wait for 45-minutes in the customs line at JFK - more nervous than I've ever 
 We just looked at each other, in surprise and total glee. We now, officially, have a cat. This baby kitten we had grown to love but knew it wouldn't be real until we were on the other side of JFK customs. And now we were. We were both so relieved. With the sense of relief, we were just incredibly teary-eyed. 
 
 We got our bags, took a Lyft home, and relaxed. With our kitten. 
+
+{% include image-gallery.html folder="/assets/images/2022-07-23-paka-moments/travel" %}
