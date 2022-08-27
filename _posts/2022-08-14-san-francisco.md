@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "San Francisco"
+title: "42 hours in San Francisco"
 author:
   - Timothy Best
 ---
