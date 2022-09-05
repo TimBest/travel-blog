@@ -3,6 +3,7 @@ layout: post
 title: "16 hours in Singapore"
 author:
   - Timothy Best
+  - Katherine Nammacher
 ---
 
 ## To the airport
