@@ -187,7 +187,7 @@ When we got to Base camp we sat at the sign, Katherine cried again with relief a
 
 When we arrived at our campsite, the team surprised us with a song! It was an amazing celebration of this journey made. Reminding us to stop and reflect on what we had accomplished. 
 
-{% include youtube.html link="https://www.youtube.com/embed/3BaJDCd2Pb4" %}
+{% include youtube.html code="3BaJDCd2Pb4" %}
 
 We took a few hours to rest at camp and have lunch. We took a longer amount of time here than planned due to Katherine's altitude sickness. After resting, we had to decide how much longer we would hike today. We planned to hike another 4 hours to Mweka camp to get to a much lower altitude. However, High camp (a higher altitude camp, as its name implies) was only 2 hours away. I advocated for the closer camp to give ourselves more time to rest, which ended up being the right decision for everyone. 
 
