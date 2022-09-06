@@ -21,9 +21,9 @@ Beyond this, Venice footwear reminded Katherine of New York City - where everyon
 
 ## The Biennale
 
-Now for the reason we showed up to Venice: the Biennale, a contemporary art exhibition that happens every 2 years with artists from around the world. There's a central art exhibit, countries have selected artists also representing them (shown in smaller buildings), and then there are the satellite exhibits throughout the city. It's a lot of visual art throughout the city. 
+Now for the reason, we showed up to Venice: the Biennale, a contemporary art exhibition that happens every 2 years with artists from around the world. There's a central art exhibit, countries have selected artists also representing them (shown in smaller buildings), and then there are the satellite exhibits throughout the city. It's a lot of visual art throughout the city. 
 
-For me, the most exciting part of the Biennale was being able to experience it with Katherine. She has talked about the previous Biennales as an example of the art that she loves and art that inspires her. Having experienced it together feels like taking something from her past experiences before we met (and excited descriptions) and grounding it into our experience together.
+For me, the most exciting part of the Biennale was being able to experience it with Katherine. She has talked about the previous Biennales as an example of the art that she loves and the art that inspires her. Having experienced it together feels like taking something from her past experiences before we met (and excited descriptions) and grounding it into our experience together.
 
 {% include image-gallery.html folder="/assets/images/2022-06-01-venice-biennale/katherine" %}
 
@@ -34,7 +34,7 @@ For me, the most exciting part of the Biennale was being able to experience it w
 
 Additionally, The pavilion featured large glass windows that gave a view into lush gardens and the Venetian Lagoon. These backgrounds provided an interesting juxtaposition to the heavy use of technology within the sculptures inside. The contrast between the two was beautiful. It felt like me: a techie who is in love with the natural world. 
 
-{% include youtube.html link="https://www.youtube.com/embed/nwkGVBZTxiM" %}
+{% include youtube.html code="nwkGVBZTxiM" %}
 {% include image-gallery.html folder="/assets/images/2022-06-01-venice-biennale/Korea" %}
 
 ### Veronica Green
@@ -51,7 +51,7 @@ The artwork resonated with both of us. It managed to convey a playful wonder. An
 
 When I entered this exhibition I had thought that it was a single floor and by the time I had gone through the rooms on all three floors, I was enthralled. I had so much fun exploring the gardens, viewing the private canal access through an old *garage?*, and the art itself.
 
-![door to the cannel](/assets/images/2022-06-01-venice-biennale/garage.jpg)
+![door to the canal](/assets/images/2022-06-01-venice-biennale/garage.jpg)
 {% include caption.html text="Garage in question" %}
 
 However, the exhibition only continued to get better as we ascended the mansion. The art filled with more and more color and filled me with more excitement. It was a joy to explore the space. Young's work complimented the history and intricacy of the mansion that housed it and was a delight to view. There was also a 15-minute video about the artist and his process, which added another dimension of complexity. He was also extremely pragmatic in explaining "why triangles?": they fit together well to create any shape. After watching the video about the exhibit, we went back through the exhibit with that new layer of context about the artist, his process, the sculptures, and even his wife's involvement and support. 
