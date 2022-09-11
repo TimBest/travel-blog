@@ -5,6 +5,10 @@ author:
   - Katherine Nammacher
 ---
 
+# TIM: THIS IS STILL NOT DONE. DO NOT PUBLISH YET. 
+
+
+
 ## The General Plan - Places & People
 As you may know, Tim and I are focused on visiting all seven continents during our trip. Including North America, one of the seven. We are also deeply familiar with North America, at least the USA since it is our home. So there was the original question of how to travel to it.
 
@@ -73,27 +77,28 @@ Moments:
 
 
 ## Wisconsin – Best Friend John (and Kaitlin)’s Wedding
-* The rehearsal run through
-* welcome dinner
-* groomsparty hang out & photos
-* driving a side-by-side with Kaitlin's dad as the navigator
-* ceremony itself
-* Chatting with John while walking up the hill
-* Seeing John and Kaitlin dance, and Tim immediately saying "we should to take dance lessons"
-* stopping at a bar between the ceremony and reception
-* seeing several good friends at the reception with mutual friends, and having them meet Tim
-* after party at the bar, then pizza in the hotel conference room
-* Tim and I (mostly Tim) smoking cigars with John and his family
+The wedding took place on Kaitlin's family's farm in Wisconsin - a working farm. It was a dairy farm until recently, when Katilin's parents switched to growing grains instead. The ceremony was outside on a hill overlooking their fields. This meant that the rehearsal, groomsparty hang out, and ceremony happened at the house. It was very cool to meet Kaitlin's family and see their space.
+* The rehearsal was done with a bright blue sky, a perfect setting. The pastor was really funny about breaking up any nerves we had about the ceremony.
+* The welcome dinner happened in Menomonie, the large nearby college town. One thing that I had forgotten about weddings of long-term friends is that you end up seeing all the people that person is connected to - whom I've met and really enjoyed getting to know. I also was able to hang out with the good friends who we had in common, including Daria, Danny, and Katherine - all living in California now. Plus the folks I connected with when staying with John in grad school and beyond. It was just super fun to see this community, as we had been missing ours when traveling. 
+* As part of the groomsparty, I had met many folks at the bachelor party in Montana - both John's brothers and his good friends. Of course, the morning of the wedding we got back together. We took side-by-sides, essentially four-wheelers, and drove them to a bar for drinks and tabs. You pay $1 for a cardboard sheet with tabs that you pull open - hoping to win $1-$500. One of the guys there immediately won $500!
+* I drove down and back with Kaitlin's dad, which was great. It meant we were navigating there. On the way back, I drove the car. With him in the passenger seat, he told me how fast to go (including how fast I could go...) which was really fun. It started raining and so I was slightly slipping as we went around corners. Looking at him nervously, he just said "that is what this vehicle is made for. You are doing great!" It was a good connection!
+* Micah (John's childhood best friend), John, and I ended up walking up the hill together to the ceremony - after all the guests arrived and were seated. The wedding party procession to get there, it was happening. And the three of us were chatting. I do not even remember what we were chatting about, just thinking "wow, this is happening. John is getting married." John has been super excited to marry Kaitlin, and it felt as natural as anything. Yet, it still felt surreal that we were all growing up. Adults get married, adults own houses and have pets. I'd known John and Micah since I moved to the Bay - all of us single and before we were really adults, just 23. Now Micah is married, John is about to get married (in the next 30 minutes), and I am doing an 8-month trip with my life partner. It was such a reality shift, that we'd all grown up. And that was just incredible to think about - how it was so long ago and just yesterday. 
+* John and Kaitlin did an incredible first dance. They have been taking dance lessions and you can really tell in their style and connection. Afterwards, as other people filtered onto the floor, Tim says immediately to me "we should take dance lessons!" 
+* In Wisconsin, between the ceremony and reception, the wedding party stops at a bar. Totally unplanned and spontaneous. Gets beers and cheese curds. Drops in for 20 minutes or so. Then goes to the reception. It's tradition. And we did it. It was so fun and just also really chill to have this incredible midway stop for everyone there. Really quite cool.
+* Again, the fun of your best friend getting married is that you know a fair amount of people at the wedding to celebrate with. Dancing, eating, chatting, and being merry. It was so fun to celebrate this momentus occasion with them - the energy and fun was palatable. 
+* Tim and I (mostly Tim) smoked cigars with John and his family - brothers and parents - on the back deck. It was a celebration and needed a cigar. 
+* The reception ended with a sparkler train for the bride and groom. Then we piled into the bus to the first after party - at a bar. By this time, everyone in the bus felt like family. There was a polaroid camera there too. John's sister-in-law, Kate, arrived at my table with a cider for me. It was just really nice and felt like a good moment. 
 
 
 ## Texas – Cousin Kristin (and Will)’s Wedding 
+* Fri night welcome dinner - packing advice from Kristin's Aunt Diane, Kristin's grandfather Chris stays young by keeping life exciting (including going skydiving with his grandkids)
 * Sat morning with Rukshana
 * Getting pitched on eloping abroad
-* Fri night welcome dinner
-* Saturday evening ceremony
+* Saturday evening ceremony - prayers for the relationship
 * SE Asia recommendations from Jake's girlfriend Sanjay
 * Photos with the family
 * Goofy photos with my parents and Tim
+* Walking home with Aunt Sue and Uncle Bob
 
 
 ## San Francisco, California – A quick layover
