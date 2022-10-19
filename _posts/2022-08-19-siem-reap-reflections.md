@@ -20,7 +20,7 @@ Within the first 12 hours of being in Cambodia, all of my concerns were washed a
 - We showed up at our hotel to the most welcoming staff
 - In our hotel room, everything worked and felt incredibly clean, including consistent hot water
 - The first meal we ate was dinner at our hotel. I got beef Lok Lak. It was delicious! I even was adventurous and ate the fresh lettuce and tomato on my plate. After the meal, my body felt amazing. I had no problems with the digestion
-- The next morning we were up before sunrise and decided to go for a walk. One thing we noticed immediately. Was how unnoticed we were. Tuk-tuk drivers would stop to ask to offer us a ride and business owners would ask us to look in their shops. However, most folks were just going about their day with other things on their mind
+- The next morning we were up before sunrise and decided to go for a walk. One thing we noticed immediately was how unnoticed we were. Tuk-tuk drivers would stop to ask to offer us a ride and business owners would ask us to look in their shops. However, most folks were just going about their day with other things on their mind
 - For breakfast, we found a french cafe with cheap high-quality pastries and coffee.
 - At a grocery store, we were able to get great-looking produce and even the imported food was fairly priced
 
