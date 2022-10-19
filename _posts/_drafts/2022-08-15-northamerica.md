@@ -120,7 +120,7 @@ We had 4 days to repack for our next segment: Asia and New Zealand. We would be 
 {% include image-gallery.html folder="/assets/images/2022-08-15-northamerica/Kristin-wedding" %}
 * My parents, Tim, and I took a collection of photographs together - both goofy and serious. It was so much fun to do that all dressed up. So we loved it!
 * At the reception, we chatted and danced with our family. Sanjay, my cousin Jake's girlfriend, gave us lots of SE Asia recommendations, which was so kind! It was also great to meet her at the memorial, and connect again at the wedding. 
-* My dad, a family friend, and an uncle were outside smoking cigars, which I took a couple of puffs of (with plenty of coughing involved!)
+* My dad, a family friend, and Uncle Mike were outside smoking cigars, which I took a couple of puffs of (with plenty of coughing involved!)
 * At the end of the night, I walked home with Aunt Sue and Uncle Bob, the parents of the bride, cousin Kristin. Tim had left earlier when he did not feel well, and I was going to walk home solo. Another aunt insisted that I walk with other folks, so they volunteered. Even in those 10-15 minutes, it was lovely to catch up after all this and just chat in the summer evening. 
 * The next morning was MY PARENTS' 40th WEDDING ANNIVERSARY. We went out to breakfast with them at a place in town and chatted with them. They shared a couple of pieces of advice for what they attributed to helping them stay together: 
   * Continue to have fun together
