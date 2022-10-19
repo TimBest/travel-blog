@@ -63,6 +63,7 @@ Moments:
 
 
 ## Minnesota – Grandpa Tom’s Memorial & All the Family
+{% include image-gallery.html folder="/assets/images/2022-08-15-northamerica/memorial-allNammachers" %}
 * Friday night, Saturday afternoon and Sunday morning were all family events. 
 * Friday night included the folks staying at Loring Green - the apartment building my grand aunt and uncle currently live and in the same building I grew up visiting my grandmother. It felt deeply familiar in some lovely ways. 
 * On Friday night, we saw my Grand Aunt Emily, the person who had inspired my interest in Tanzania. In Dar Es Salaam, we had gotten her, my dad, and me all matching aprons made from Kitenge fabric. It was incredible to watch her open it and get excited. She lived in Tanzania for 3 years in the 1960s through a teaching exchange program after college. Her stories inspired me to want to visit and hike Kilimanjaro. It was incredible to connect with her again now that we share the context of Tanzania. 
@@ -71,7 +72,6 @@ Moments:
 * Saturday afternoon was a whirlwind of my extended family at the memorial. We gathered at the Lake of the Isles, outside of the house my grandfather had raised my dad and his siblings in. It was a nice day. My dad and his siblings each shared memories of my grandfather. 
 {% include image-gallery.html folder="/assets/images/2022-08-15-northamerica/Memorial" %}
 * After the memorial at the lake, we went to Loring Green. We took a huge group photo of all the Nammachers present, which was quite fun! 
-{% include image-gallery.html folder="/assets/images/2022-08-15-northamerica/memorial-allNammachers" %}
 * Saturday evening was quiet, as we wound down with dinner with my cousins Greg and Liz at a Tapas place. It was nice to catch up more deeply with them in the middle of everything.
 * Sunday was brunch with family, along with a walk around Lake Harriet. 
 {% include image-gallery.html folder="/assets/images/2022-08-15-northamerica/MN_Walk" %}
@@ -108,6 +108,7 @@ We had 4 days to repack for our next segment: Asia and New Zealand. We would be 
 
 
 ## Texas – Cousin Kristin (and Will)’s Wedding 
+{% include image-gallery.html folder="/assets/images/2022-08-15-northamerica/Nammacher_KristinWedding.jpg" %}
 * We flew down with my parents on Friday afternoon - with our 2-hour flight delayed by 2 hours. We almost missed the welcome dinner and frantically changed at my cousin Matt's house nearby.
 * Friday night was a welcome dinner for everyone and wedding festivities. Many aunts and uncles were very curious about our trip - as we had been gone for two months. Cousins mentioned they were following along on Instagram. We talked about Paka, of course, and Kilimanjaro and the safari. It was crazy to tell people what we'd done, as it did not feel real in those moments either. 
 * We reconnected with my cousin Kristin's other side, the Kulpinskis, who are a group of adventurous travelers themselves. Her dad's dad, Chris, gave us some great life advice to keep yourself feeling young and excited through what you do and how you do it. He has gone skydiving with his grandkids, showing them that aging is a fact but does not have to be a drab thing. Diane, Kristin's aunt, had been to New Zealand several years before and reminded us of the benefits of traveling light and buying everything there - especially given the wool industry in New Zealand. 
