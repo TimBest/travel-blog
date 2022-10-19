@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Siem Reap - Reflections on the first day"
+date: '28.10.2022 10:48'
 author:
   - Timothy Best
 ---
@@ -13,7 +14,7 @@ This line of thinking also led me to overpack for this leg of the trip. Two exam
 
 1. For our first leg, we only brought 1 container of floss and for this leg, we brought 4 containers. The context is: We realized we were running low on our last day in Amsterdam. And forgot to get more when we made a trip to the Pharmacy that day. This led us to run out of floss when we were at [Rivertrees](/2022/06/24/rivertrees.html). We then made an excursion to a pharmacy that had no floss. So we asked our guide to pick some up in the city center. We were gratuitous to have the floss but it was different and not as effective as the one we use in the States. Katie is using aligners to straighten her teeth, so she needs to floss every day to help with gum inflammation. We made sure we had plenty on this leg of the trip.
 
-2. We only brought a handful of Tums for the first leg of the trip and on this leg, we brought two full bottles. The context is: After every meal in Tanzania our stomach would feel a little off. At the best of times, mine felt like it was a knott. Our limited tums and inability to buy more lead us to ration our usage. Often only using one when we would have preferred two.
+2. We only brought a handful of Tums for the first leg of the trip and on this leg, we brought two full bottles. The context is: After every meal in Tanzania our stomach would feel a little off. At the best of times, mine felt like it was a knot. Our limited tums and inability to buy more lead us to ration our usage. Often only using one when we would have preferred two.
 
 Within the first 12 hours of being in Cambodia, all of my concerns were washed away.
 - We showed up at our hotel to the most welcoming staff
@@ -40,6 +41,5 @@ For our second night in Siem Reap, we looked for a restaurant outside of the hot
 Half of their menu was vegan and we tried 3 of the dishes from the vegan menu. They were delicious. Our favorite was a wheat noodle with sesame coconut sauce, spinach, tofu, and pumpkin topped with basil oil.
 
 For this trip, I have decided to forgo any self-imposed dietary restrictions. The main one is how much meat I consume. At home, we tend to eat meat 1-2 a week. When traveling in Italy and Tanzania we were eating meat 2-3 times a day! I am grateful to have access to such fresh, delicious vegetable-focused meals.
-
 
 {% include image-gallery.html folder="/assets/images/2022-08-19-siem-reap" %}
