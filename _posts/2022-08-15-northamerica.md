@@ -57,9 +57,7 @@ Moments:
 * When getting to Tim's parent's house, Tim's dad Ray immediately started playing with Paka. And he really played with Paka - more so than we were doing, given our energy from traveling. She quickly realized that her playful "attack mode" was best with Ray! Tim's mom Mary became a solid napping spot for Paka also. We helped coax Paka onto Mary's lap for the first time for her to sleep, and by the time we left Paka would find her way there independently!
 {% include image-gallery.html folder="/assets/images/2022-08-15-northamerica/cp-paka" %}
 * Tim's parents hosted my parents for dinner, allowing them to meet one another for the first time! (My parent's lake house is 45 minutes away from Tim's parents, but with COVID we had not felt comfortable before this summer pulling everyone together.) We shared a bit about our trip with everyone, chatted, and also watched Paka do her thing. Tim's parents cooked an amazing meal for us and we had a great time.
-{% include image-gallery.html folder="/assets/images/2022-08-15-northamerica/cp-dinner" %}
-
-
+![the rents](/assets/images/2022-08-15-northamerica/cp-dinner/IMG_9431.jpg)
 
 
 ## Minnesota – Grandpa Tom’s Memorial & All the Family
@@ -108,7 +106,7 @@ We had 4 days to repack for our next segment: Asia and New Zealand. We would be 
 
 
 ## Texas – Cousin Kristin (and Will)’s Wedding 
-{% include image-gallery.html folder="/assets/images/2022-08-15-northamerica/Nammacher_KristinWedding.jpg" %}
+![the Nammachers](/assets/images/2022-08-15-northamerica/Nammacher_KristinWedding.jpg)
 * We flew down with my parents on Friday afternoon - with our 2-hour flight delayed by 2 hours. We almost missed the welcome dinner and frantically changed at my cousin Matt's house nearby.
 * Friday night was a welcome dinner for everyone and wedding festivities. Many aunts and uncles were very curious about our trip - as we had been gone for two months. Cousins mentioned they were following along on Instagram. We talked about Paka, of course, and Kilimanjaro and the safari. It was crazy to tell people what we'd done, as it did not feel real in those moments either. 
 * We reconnected with my cousin Kristin's other side, the Kulpinskis, who are a group of adventurous travelers themselves. Her dad's dad, Chris, gave us some great life advice to keep yourself feeling young and excited through what you do and how you do it. He has gone skydiving with his grandkids, showing them that aging is a fact but does not have to be a drab thing. Diane, Kristin's aunt, had been to New Zealand several years before and reminded us of the benefits of traveling light and buying everything there - especially given the wool industry in New Zealand. 
