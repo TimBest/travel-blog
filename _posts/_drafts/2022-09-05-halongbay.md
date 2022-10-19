@@ -4,7 +4,7 @@ title: "Ha Long Bay: A Cruise of Wonder"
 author:
   - Katherine Nammacher
 ---
-I write this sitting atop the back of a boat, made in the style of Indochina Junks, made by a company with the same name. It is 6:43 am. I have watched the sunset, gone swimming, and soaked in the scenery generally. By myself, atop this unique boat in this unique place. 
+I write this sitting atop the back of a boat, made in the style of Indochina Junks, made by a company with the same name. It is 6:43 am. I have watched the sunset, gone swimming, and soaked in the scenery generally. By myself, atop this unique boat in this unique place.
 
 Ha Long Bay is a UNESCO World Heritage Site and one of Vietnam's natural jewels. It is a bay filled with small limestone islands, mostly small enough to kayak around in about 10 minutes. And there are 2,000+ of them here. They are sharp limestone jutting up from the bay, with low-lying green brush atop. 
 
@@ -14,15 +14,15 @@ Periodically there is a sandy beach sticking out that appears, but it is frequen
 
 Eagles and large birds sit atop, swooping with grandeur as they hunt for mice and fish from their circles. Herons sit along the shore, hunting fish in the greenish-blue water. There is not much else wildlife seen from the boat.
 
-Beyond the islands, boats. Small fishing boats which entire families live on. The white multi-level tourist boats that roam. In the distance shipping boats and tug boats. 
+Beyond the islands, boats. Small fishing boats which entire families live on. The white multi-level tourist boats roam. In the distance shipping boats and tug boats. 
 
-Due to COVID, many of the places we have visited feel serene and quiet. Tourism hasn't fully kicked back, and people are not going to Africa and Southeast Asia as their first trips abroad. China also is not letting its people travel, which is responsible for a huge portion of the travelers in Asia. When we look at photos from 2019 and hear stories from people and guides, we feel lucky to be here at this unique time because hoards of people return to appreciate the same beauty that we are seeing. That said, these places are amazing and everyone should come to see them.
+Due to COVID, many of the places we have visited feel serene and quiet. Tourism hasn't fully kicked back, and people are not going to Africa and Southeast Asia as their first trips abroad. China also is not letting its people travel, which is responsible for a huge portion of travelers in Asia. When we look at photos from 2019 and hear stories from people and guides, we feel lucky to be here at this unique time because hoards of people return to appreciate the same beauty that we are seeing. That said, these places are amazing and everyone should come to see them.
 
-We feel the quiet tranquility of this place. The quiet humming of the boat and cool sea breeze as we slowly boat past countless islands. Beyond the islands we can see, there are more just popping out on the horizon. Spotted islands with water in the middle, on the horizon line, for as long as we can see. 
+We feel the quiet tranquility of this place. The quiet humming of the boat and the cool sea breeze as we slowly boat past countless islands. Beyond the islands we can see, there are more just popping out on the horizon. Spotted islands with water in the middle, on the horizon line, for as long as we can see. 
 
 We are on this cruise for 3 days and 2 nights, which really means 48 hours in this beautiful place. During this time we've seen a variety of weather: bright sun with clear blue skies, a purple fog/haze, rain, and dark clouds overhead. We watched two sunsets and I admired one sunrise. 
 
-My favorite time is the sunny but hazy view. The landscape is bright and crisp, yet islands in the distance fall into purple silhouettes of themselves, with islands behind creating layer after layer of horizon lines with fading purples. The island in front of you is a bright gray with a deep green and numerous plants with an eagle flying around. Ones nearby take on a slight blue hue, those further away slightly purple. Those that are a mile away take on a dark purple with some rock detail differentiated in the purple, then those beyond appear as layers of light purple and less distance as you look out. It is honestly quite extraordinary. Something surprising and wonderous and comforting to look at. 
+My favorite time is the sunny but hazy view. The landscape is bright and crisp, yet islands in the distance fall into purple silhouettes of themselves, with islands behind creating layer after layer of horizon lines with fading purples. The island in front of you is a bright gray with a deep green and numerous plants with an eagle flying around. Ones nearby take on a slight blue hue, those further away slightly purple. Those that are a mile away take on a dark purple with some rock detail differentiated in the purple, then those beyond appearing as layers of light purple and less distance as you look out. It is honestly quite extraordinary. Something surprising and wonderous and comforting to look at. 
 
 I've only seen horizons that take on this layering of distance purple horizon lines in a handful of places: the Grand Canyon and Smoky Mountain National Park to name two that come to mind. 
 
