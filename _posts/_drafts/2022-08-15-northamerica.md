@@ -12,7 +12,7 @@ When planning this spring, we knew that we needed to be back for two weddings, b
 
 And then our beautiful plan started to evolve. (Stay flexible, right?!) My grandfather's memorial was rescheduled for the weekend between the two original weddings. Then the first wedding got moved, freeing up time for us to hang out in Tanzania – but then having another event to come back to the US later in the Fall. Then my cousin got engaged and booked her venue the week after the second wedding. 
 
-Suddenly we had two weddings and one memorial service – on back-to-back weekends. Then we adopted this adorable kitten Paka and stayed in Tanzania 10 days after our intended return date. We'd done the research for travel in Japan, which changed to the Indochina Peninsula (Vietnam and Cambodia). And suddenly we were on a tight schedule of arriving, transitioning Tim's parent's house (as new people and environment), unpacking, going to these events, repacking, and flying to Cambodia. All in less than a month. Sound crazy? It was!
+Suddenly we had two weddings and one memorial service – on back-to-back weekends. Then we adopted this adorable kitten Paka and stayed in Tanzania 10 days after our intended return date. We'd done the research for travel in Japan, which changed to the Indochina Peninsula (Vietnam and Cambodia). And suddenly we were on a tight schedule of arriving, transitioning to Tim's parent's house (as new people and environment), unpacking, going to these events, repacking, and flying to Cambodia. All in less than a month. Sound crazy? It was!
 
 What we ended up doing:
 -	Friday: Arrive at night from Tanzania to NY
@@ -27,7 +27,7 @@ What we ended up doing:
 -	Friday – Sunday: Attend cousin's wedding in Austin, TX
 -	Monday: Quick layover in San Francisco
 -	Tues: Fly to Cambodia
--	Wednesday: Got word that a family friend died on Tuesday night in California
+-	Wednesday: I got word that a family friend died on Tuesday night in California
 
 
 It was hectic. Tim met 40+ people from my life between family and friends – he's such a good trooper! It was fun and a whirlwind. There were so many people we were originally going to see before our schedule shifted and we acquired the kitten. A road trip was in the works, along with connecting with folks in SF, NY, and the Southwest. All that fell through in our hectic month. We are grateful for what we did, and I was incredibly glad to show Tim all my family in Minnesota – a second home for me. He got to meet family and friends that I had been telling him about for years. 
@@ -99,12 +99,12 @@ The wedding took place on Kaitlin's family's farm in Wisconsin - a working farm.
 * Many aunts and uncles pitched us on eloping abroad! One even said, "a zoom wedding from South America would be fun!" (We aren't going to elope abroad, but it was hilarious!)
 * It felt good to see my cousins and family two different weekends in a row. It felt like a more continuous hangout - seeing them twice in two weeks, something that I'd literally never done because of the distance between NY and Minnesota. We got to pick up conversations left off from the short memorial and dive into one another's lives a bit more. It was lovely. 
 * Saturday morning brought another exciting visit - one with Rukshana, one of my best friends in high school. As soon as I got a driver's license, I spent most days after school at her house. She has two older brothers and two stepsisters (one younger and one older), along with her dad and stepmother. They all felt like my extended family, and it was truly a second home. Now she's married with two kids, and we had not seen each other in 8 years. It was so lovely to connect again for the morning and just hang out. She also married her older brother's best friend, whom I know from when they were all in a band. So it felt like a little White Plains reunion. She got to meet Tim and I got to meet her kids. It was great. 
-* The wedding itself was lovely. The officiant spoke of knowing both Kristin and Will very well, and had co-founded a church with Will. He shared prayers they each had for their marriage, which they each wrote. The wedding felt very much like theirs, which was great.
+* The wedding itself was lovely. The officiant spoke of knowing both Kristin and Will very well and had co-founded a church with Will. He shared prayers they each had for their marriage, which they each wrote. The wedding felt very much like theirs, which was great.
 * Afterward, the wedding party took photos, and our family (the Nammachers with the Kulpinskis also around) got lots of photos of our family with the wedding photographers. In fact, several people had to come to ask our family to go inside and sit down for the next bunch of wedding activities. When you get Nammachers in a room, both lots of laughs and lots of herding cats happen!
 * My parents, Tim, and I took a collection of photographs together - both goofy and serious. It was so much fun to do that all dressed up. So we loved it!
 * At the reception, we chatted and danced with our family. Sanjay, my cousin Jake's girlfriend, gave us lots of SE Asia recommendations, which was so kind! It was also great to meet her at the memorial, and connect again at the wedding. 
 * My dad, a family friend, and an uncle were outside smoking cigars, which I took a couple of puffs of (with plenty of coughing involved!)
-* At the end of the night, I walked home with Aunt Sue and Uncle Bob, the parents of the bride cousin Kristin. Tim had left earlier when he did not feel well, and I was going to walk home solo. Another aunt insisted that I walk with other folks, so they volunteered. Even in those 10-15 minutes, it was lovely to catch up after all this and just chat in the summer evening. 
+* At the end of the night, I walked home with Aunt Sue and Uncle Bob, the parents of the bride, cousin Kristin. Tim had left earlier when he did not feel well, and I was going to walk home solo. Another aunt insisted that I walk with other folks, so they volunteered. Even in those 10-15 minutes, it was lovely to catch up after all this and just chat in the summer evening. 
 * The next morning was MY PARENTS' 40th WEDDING ANNIVERSARY. We went out to breakfast with them at a place in town and chatted with them. They shared a couple of pieces of advice for what they attributed to helping them stay together: 
   * Continue to have fun together
   * Forgive each other, or as my mother says "don't serve last night's argument up for this morning's breakfast"
