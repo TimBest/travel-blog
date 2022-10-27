@@ -12,7 +12,7 @@ When planning this spring, we knew that we needed to be back for two weddings, b
 
 And then our beautiful plan started to evolve. (Stay flexible, right?!) My grandfather's memorial was rescheduled for the weekend between the two original weddings. Then the first wedding got moved, freeing up time for us to hang out in Tanzania – but then having another event to come back to the US later in the Fall. Then my cousin got engaged and booked her venue the week after the second wedding. 
 
-Suddenly we had two weddings and one memorial service – on back-to-back weekends. Then we adopted this adorable kitten Paka and stayed in Tanzania 10 days after our intended return date. We'd done the research for travel in Japan, which changed to the Indochina Peninsula (Vietnam and Cambodia). And suddenly we were on a tight schedule of arriving, transitioning to Tim's parent's house (as new people and environment), unpacking, going to these events, repacking, and flying to Cambodia. All in less than a month. Sound crazy? It was!
+Suddenly we had two weddings and one memorial service – on back-to-back weekends. Then we adopted this adorable kitten Paka and stayed in Tanzania 10 days after our intended return date. We'd done the research for travel in Japan, which changed to the Indochina Peninsula (Vietnam and Cambodia). And suddenly we were on a tight schedule of arriving, transitioning Paka to live at  Tim's parent's house (as new people and environment), unpacking, going to these events, repacking for 4 months of travel, and flying to Cambodia. All in less than a month. Sound crazy? It was!
 
 What we ended up doing:
 -	Friday: Arrive at night from Tanzania to NY
