@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Bali - amed scuba"
+title: "Solo Travel"
 author:
-  - Timothy Best
   - Katherine Nammacher
 ---

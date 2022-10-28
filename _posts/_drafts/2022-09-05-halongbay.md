@@ -4,6 +4,7 @@ title: "Ha Long Bay: A Cruise of Wonder"
 author:
   - Katherine Nammacher
 ---
+
 I write this sitting atop the back of a boat, made in the style of Indochina Junks, made by a company with the same name. It is 6:43 am. I have watched the sunset, gone swimming, and soaked in the scenery generally. By myself, atop this unique boat in this unique place.
 
 Ha Long Bay is a UNESCO World Heritage Site and one of Vietnam's natural jewels. It is a bay filled with small limestone islands, mostly small enough to kayak around in about 10 minutes. And there are 2,000+ of them here. They are sharp limestone jutting up from the bay, with low-lying green brush atop. 
@@ -40,7 +41,7 @@ The weather was also amazing. Generally being in the area in September is not re
 
 As for the route of our cruise, it was also unique and truly a highlight. In Ha Long Bay, it is common to take a typical tourist route within Ha Long Bay's center. The cruise we are on has a special permit to go along both Ha Long Bay and Bai Tu Long Bay. When I was researching the UNESCO World Heritage site boundaries, I realized that this cruise actually explored the middle of the site uniquely from other cruises. The focus was also being active: swimming and kayaking multiple times. The company, Indochina Junk, even published a map of where they go so you see the route and the activities. The reviews of the food and experience were very positive. All in all, we definitely made the right decision for this tour company, all for a reasonable price. 
 
-###The Last Morning
+### The Last Morning
 
 It is now 13:28, and I sit in the airport near Ha Long Bay with Tim, waiting for our flight to the next adventure in Vietnam. After I finished writing the above, we had a quick breakfast and then did a tour of the local fishing village. It is the village of Vung Vieng. It has been a center for safe harbor for boats during typhoons since the early 19th century, and over time became the permanent residence of families. There are now 80 families living there (just over 200 people). With the help of government organizations and NGOs, including USAID. Additionally, it is now a model for sustainable aquaculture and tourism. The families send their kids to a boarding school on the main shore, ensuring everyone is educated and literate. Many live on their boats, and some live in houses atop floating structures. We even saw several pet dogs and one pet cat when going through the village. 
 

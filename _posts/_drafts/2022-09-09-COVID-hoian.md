@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Seoul"
+title: "COVID in Hoi An"
 author:
   - Timothy Best
-  - Katherine Nammacher
 ---
+
+
