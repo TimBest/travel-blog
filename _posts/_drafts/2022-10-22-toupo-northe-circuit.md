@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Tupo northen circuit"
+title: "Tongariro Northern Circuit"
 author:
   - Timothy Best
-  - Katherine Nammacher
 ---
 
+## Taupo
 
-Taupo
   - shopping for gear
   - excahnge rate
   - Dinner at Bistor
@@ -16,7 +15,7 @@ Taupo
   - Craters of the moon
   - the other park
 
-Northen Circuit
+# Northern Circuit
 - washed out trail
 - fancy fresh dinner
 - up and over the ridges
