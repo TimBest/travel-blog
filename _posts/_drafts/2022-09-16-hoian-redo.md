@@ -8,3 +8,11 @@ author:
 
 - village
 - motor bike
+- cooking class
+- lantern date night
+- beech routine
+- home cooked dinner a with chou
+  - chicken rice night
+- extra luggage
+- cooking class
+- transit to bali
