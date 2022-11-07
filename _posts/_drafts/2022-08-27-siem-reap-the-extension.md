@@ -22,7 +22,7 @@ On Sunday we took a tuk-tuk to the temple that sits high on a hill to watch the 
 
 For Monday, we went back to a temple we had taken photos of but did not get a chance to explore, the Baphuon Temple. 
 
-It was quite steep, even with the stair modification for current populations. I have a slight nervousness around heights, so I sung the ABCs going up and down the temple steps. At the top I found a beautiful view of the top of a pilar that I drew. Tim took LOTS of doorway photos for his Instagram. 
+Climbing up the side to the top of the temple was quite steep, even with the stair modifications for current populations. I have a slight nervousness around heights, so I sung the ABCs going up and down the temple steps. At the top I found a beautiful view of the top of a pilar that I drew. Tim took LOTS of doorway photos for his Instagram. 
 
 We then went to Bayon Temple, as I wanted to see the amazing faces again. It was late in the day and I remarked that I kind of wanted to draw them. Even though Tim was tired and we were both hungry, he encouraged me to do a drawing and really commit to drawing in the time I needed (which is usually about 30 minutes or so). It was really generous, given I knew how tired and hungry he was. I did a second drawing and felt really glad that we had slowed down to take in the temple again. He ran around with the camera taking photos. I drew. It was great.
 

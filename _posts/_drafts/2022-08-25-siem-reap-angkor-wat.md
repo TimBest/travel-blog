@@ -8,7 +8,7 @@ Angkor Wat is an extremely special place - similar to Machu Picchu or Teotihuaca
 
 Angkor Wat is a Buddhist temple, and historically it was the temple in the capital city of the Khmer Empire, Cambodia's historical empire. It was founded in the 12th century and at its height was home to over 1 million people. At the time, was the most populated city in the world. 
 
-I found it absolutely incredible and learned a ton about the space before going, continued to listen to podcasts while there, and we went on a historical tour. As a history and museum nerd, I was all in! 
+I found it absolutely incredible and learned a ton about the site before going, continued to listen to podcasts while there, and we went on a historical tour. As a history and museum nerd, I was all in! 
 
 
 ## A Rise and Fall Through Water Infrastructure
