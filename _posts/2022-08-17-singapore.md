@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "16 hours in Singapore"
-date: '25.10.2022 10:48'
 author:
   - Timothy Best
 ---

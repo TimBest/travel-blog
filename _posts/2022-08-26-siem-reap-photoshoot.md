@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Angkor Wat: The Photoshoot"
+date: '09.11.2022 10:48'
 author:
   - Katherine Nammacher
 ---

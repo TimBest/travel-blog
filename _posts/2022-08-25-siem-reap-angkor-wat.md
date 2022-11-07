@@ -8,6 +8,9 @@ Angkor Wat is an extremely special place - similar to Machu Picchu or Teotihuaca
 
 Angkor Wat is a Buddhist temple, and historically it was the temple in the capital city of the Khmer Empire, Cambodia's historical empire. It was founded in the 12th century and at its height was home to over 1 million people. At the time, was the most populated city in the world. 
 
+{% include image-gallery.html folder="assets/images/2022-08-25-angkorwat/AngkorWat-photos1" %}
+
+
 I found it absolutely incredible and learned a ton about the site before going, continued to listen to podcasts while there, and we went on a historical tour. As a history and museum nerd, I was all in! 
 
 
@@ -15,9 +18,9 @@ I found it absolutely incredible and learned a ton about the site before going, 
 
 The Khmer Empire's society was based on a selection of ties between different social classes. It was a structure of duty. Everyone - even the king - had a duty or tie to someone. The king had a duty to rule and provide their people with a living, to serve them. This included feeding them, protecting them, and taking care of them generally. 
 
-The king who built Angkor Wat was King Suryavarman II, from 1122 - 1150 CE. He was a Hindu king, ruling a Buddhist population. He built Angkor Wat as a Hindu temple. Special prayer areas were reserved for the royals and religious elite, others for the normal people. Most areas had three staircases: with the central one reserved for the elites. Everyone else had to use the side staircases with lower doors (forcing them to literally bow to the gods and kings as they ascended and descended).
+The king who built Angkor Wat was King Suryavarman II, from 1122 - 1150 CE. He was a Hindu king, ruling a Buddhist population. He built Angkor Wat as a Hindu temple. Special prayer areas were reserved for the royals and religious elite, others for the normal people. Most areas had three staircases: with the central one reserved for the elites. Everyone else had to use the side staircases with lower doors (forcing them to literally bow to the gods and kings as they ascended and descended the stairs).
 
-[photos section 1]
+{% include image-gallery.html folder="assets/images/2022-08-25-angkorwat/angkorwat-photos6" %}
 
 When building Angkor Wat, he also moved the capital city of the emerging Khmer Empire to the area. Over time, the entire area developed into an urban complex. A major component of this was well-engineered water reservoirs, collecting vast amounts of water during the wet season to irrigate crops and provide drinking water during the dry season. With the city neighborhoods, which grew organically, fields were set up that were fully connected to these reservoirs, meaning food growth and access for the dry seasons. These were well maintained and expanded at the beginning of the empire and the city's growth. 
 
@@ -37,13 +40,14 @@ As you walk around the Angkor Wat Archeological Complex on a weekend, you see lo
 
 There is a palatable sense of national pride surrounding the Angkor Wat complex, even with Angkor Wat itself as the major symbol on the Cambodian flag. Locals use it as a place to gather and picnic. Multi-generational Cambodian families will arrive in matching outfits, from the 3-year-old to grandma, and take family photos with a photographer. You see engagement photos and people just walking around and taking in their own history with pride. It is incredible and so fun to watch. 
 
-[photos #2] 
+{% include image-gallery.html folder="assets/images/2022-08-25-angkorwat/AngkorWat-photos2" %}
 
 It was one of the few places that I've been where a large archeological site is actually filled with the people who are ancestors of those who built it - and that they are enjoying it (not just guiding or selling or working there). You don't see that in many places, but Cambodia has that. There are plenty of other freedoms that Cambodians do not have - especially right now as an authoritarian one-party government - but they do ensure their citizens can visit this place. 
 
 It was incredible to watch and heartwarming to see these families taking photos. It actually inspired us to do a photo session in matching clothes ourselves - and we will share those photos in a separate post!
 
-[two photos from our photoshoot]
+![AngkorWat_Katie_Tim](/assets/images/2022-08-25-angkorwat/AngkorWatPhotoshoot/IMG_1776.jpg)
+
 
 
 ## Angkor Wat - Some Misnomers
@@ -56,11 +60,14 @@ This misnomer caused Western scholars to drastically underestimate the populatio
 
 The entire area covers 400+ acres and feels like a massive park with these stone buildings emerging. It includes huge water reservoirs, gateways, walkways, relief panels, and all these amazing structures. This tricks your eye into thinking "this is where the 'city' ends and the country begins."
 
-[photos number 3]
+{% include image-gallery.html folder="assets/images/2022-08-25-angkorwat/angkorwat-photos3" %}
 
 A key factor in understanding this area is a relatively new technology: Lidar. Lidar, a type of light scanner, is used by archeologists to map the subtle grooves in the land. Our human eyes would look at these with little thought as random. You use this light scanner to scan the area from either a plane, sensor, or other devices. Upload that information into a lidar map on the computer and suddenly those random grooves are street grids, building foundations, and a city invisible to your eyes. Archeologists have been using this technology all over the world for the last 30-40 years - at Pompeii, Machu Picchu, and at Angkor Wat. It's unearthed a new understanding of the complexity of cities buried under something. It tracks the density of how light is reflected, as stone reflects light differently than a vine/plant canopy. 
 
 This has completely changed how we understand Angkor Wat and other urban areas around the world. However, a huge amount of it is still not understood by modern-day archeologists - which is the cool thing about archeology! 
+
+![Big_tree](/assets/images/2022-08-25-angkorwat/IMG_0995.jpg)
+
 
 
 ## Restoration and the Remaining Burden from Colonialism
@@ -71,7 +78,7 @@ Essentially, the city was abandoned, with just monks visiting for their own reli
 
 The French rebuilt some temples and left other temples with meticulously labeled blocks using a numbering system. Then they sorted these blocks by the numbers. However, when the French colonial rule ended, they left Cambodia quickly. They left with the documentation of what the numbering system meant, which is now lost in discarded paper records and the memories of deceased archeologists. At this point, Cambodia now has piles and piles of renumbered stones stacked in a different order than how they are found, without any map or knowledge of how to reconstruct them. 
 
-[photos of buildings in different repairs]
+{% include image-gallery.html folder="assets/images/2022-08-25-angkorwat/angkorwat-photos-blockpiles" %}
 
 There are additional sites that were never touched by the French which are also spread around. With sites left in their natural state of half-remaining temple walls or entire stone piles, the stones fall relatively close to where they were. These stones fit together well so you also know where a frieze goes and what the height might be or where an archway is. However, with the French-touched sites, these stones are literally just in piles that don't show any of this. It is completely reorganized by other attributes, so you have a monochrome puzzle without edges to put together. The sites with French intervention (or intrusion) are literally left in a worse state with the numbered sites than the ones that were not organized. It is a mess.
 
@@ -89,4 +96,4 @@ We have also been very impressed with the UNESCO World Heritage Site list, and h
 
 I think that if you can get there, you should. It is the largest religious monument on the planet. Siem Reap is very friendly to tourists and families, with most people speaking English due to tourism. And it is huge. We visited 5 different days over the 10-day stay we had in Siem Reap, yet we never were bored. I did several drawings. We did a photo shoot. We took a history tour. We explored temples less visited on the beaten path. We learned and soaked it in. And I am so glad we did. 
 
-[photos 5?]
+{% include image-gallery.html folder="assets/images/2022-08-25-angkorwat/angkorwat-photos5" %}

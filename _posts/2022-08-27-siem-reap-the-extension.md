@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Siem Reap - The Extension"
+date: '10.11.2022 10:48'
 author:
   - Katherine Nammacher
 ---
@@ -14,11 +15,14 @@ We ended up finding a visa service and deciding to do a 30-day expedited visa, w
 ## An Extra Weekend in Siem Reap
 The first day, Saturday, we took off - both of us were exhausted and we were going to take a rest day anyway. I watched Netflix, got takeout, and fought a small cold I had.
 
+{% include image-gallery.html folder="assets/images/2022-08-25-angkorwat/siemreap-exteaweekend" %}
+
+
 On Sunday and Monday, we revisited Angkor Wat again - our 4th and 5th visits. 
 
 On Sunday we took a tuk-tuk to the temple that sits high on a hill to watch the sunset. It was the first time that we were able to see the larger Angkor Wat Archeological Complex from above - and really take in the vastness. There are two huge reservoirs that supported the city, oriented east and west. We could see the West Baray, the western reservoir, filled with water. It is huge, larger than many airplane runways, and it was impressive. We could see Angkor Wat and the five pillars that define its architecture. We could see far to other temples and the town nearby. It was incredible!
 
-[sunset photos]
+{% include image-gallery.html folder="assets/images/2022-08-25-angkorwat/Extraweekend-sunset" %}
 
 For Monday, we went back to a temple we had taken photos of but did not get a chance to explore, the Baphuon Temple. 
 
@@ -28,4 +32,4 @@ We then went to Bayon Temple, as I wanted to see the amazing faces again. It was
 
 We took the tuk-tuk back, packed, and were ready for our flight out of Cambodia! 
 
-[drawing photos]
+{% include image-gallery.html folder="assets/images/2022-08-25-angkorwat/extraweekend-drawing" %}

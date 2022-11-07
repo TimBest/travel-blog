@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Siem Reap - Reflections on the first day"
-date: '28.10.2022 10:48'
 author:
   - Timothy Best
 ---
