@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Siem Reap - The Extension"
-date: '10.11.2022 10:48'
 author:
   - Katherine Nammacher
 ---
