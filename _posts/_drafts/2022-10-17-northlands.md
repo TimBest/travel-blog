@@ -13,7 +13,7 @@ author:
   - green and blue giant mussles
   - view of the bay
 - Tane Mauhtu
-  - meeting Tarisa
+  - meeting Teresa 
   - meeting the aussie couple]
   - sketch
   - walkto father of the forest
