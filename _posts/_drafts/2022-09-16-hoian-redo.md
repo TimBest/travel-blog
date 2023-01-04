@@ -10,9 +10,10 @@ author:
 - motor bike
 - cooking class
 - lantern date night
-- beech routine
+- beach routine
 - home cooked dinner a with chou
   - chicken rice night
 - extra luggage
 - cooking class
 - transit to bali
+- custom dresses
