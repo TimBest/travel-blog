@@ -17,3 +17,5 @@ author:
 - cooking class
 - transit to bali
 - custom dresses
+
+{% include image-gallery.html folder="/assets/images/2022-09-16-hoian-redo" %}

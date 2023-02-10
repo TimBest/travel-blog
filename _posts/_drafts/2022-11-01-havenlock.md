@@ -88,3 +88,5 @@ author:
   - climbing up a steap utility access "road"
   - seeing sheep 
   - getting a bit of wool from a fence
+
+  {% include image-gallery.html folder="/assets/images/2022-11-01-havenlock" %}

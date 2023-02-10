@@ -23,3 +23,6 @@ The next day our goal was to recover and say hi to our dive instructor. We slept
 We then went to a mexican resraunt Laura recomended and met the owner Jhonoton. It was the best Mexican food we have had aboad o n our trip and mad us both feel a bit at home. we then  walked back home, napped, and got ready for the week of diving.
 
 ## Day 1
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed" %}
+

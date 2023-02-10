@@ -18,3 +18,5 @@ author:
   - sketch
   - walkto father of the forest
  ' 
+
+ {% include image-gallery.html folder="/assets/images/2022-10-17-northlands" %}

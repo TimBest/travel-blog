@@ -28,3 +28,6 @@ author:
   - asparagus
 - fireworks after sunset
 - whare house stop for extreme warm socks
+
+{% include image-gallery.html folder="/assets/images/2022-11-11-bleinheim" %}
+

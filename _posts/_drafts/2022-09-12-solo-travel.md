@@ -86,3 +86,4 @@ Hoi Van Pass
 	- Stopping at dragon bridge in Da Nang
 	- Arriving at vegetable village to see Tim
 
+{% include image-gallery.html folder="/assets/images/2022-09-12-solo-travel" %}

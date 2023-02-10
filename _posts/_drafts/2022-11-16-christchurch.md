@@ -19,3 +19,5 @@ Dosa
 
 ## botanical gardens?
 ## Tram?
+
+{% include image-gallery.html folder="/assets/images/2022-11-16-christchurch" %}

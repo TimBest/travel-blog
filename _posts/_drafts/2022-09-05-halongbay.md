@@ -52,3 +52,6 @@ We had the chance yesterday to see a group of local families having their own ba
 All in all, this was an incredible experience for us. It was new and exciting, while also relaxing. I got in some writing (including this blog post) and sketches. We both took hundreds of photos just trying to capture the atmosphere of this unique place.
 
 The company we booked with was Indochina Junk, for their 3-day/2-night cruise through Ha Long and Bai Tu Long Bay. It goes through the center of the UNESCO World Heritage area for Ha Long Bay. The staff, food, journey, and excursions were incredible. We were on the Dragon Pearl, a boat with 10 cabins total - ensuring a small and intimate group and crew. We would highly recommend this to folks in the future! Lam on!
+
+{% include image-gallery.html folder="/assets/images/2022-09-05-halongbay" %}
+

@@ -53,3 +53,6 @@ Our first stop was at Torpedo7 where we were able to make the first pass at our 
   - misting
   - water fall
   - Giant burgers
+
+
+{% include image-gallery.html folder="/assets/images/2022-10-22-taupo" %}
