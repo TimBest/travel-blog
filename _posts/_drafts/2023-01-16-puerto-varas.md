@@ -55,4 +55,11 @@ author:
   - they were all super nice and welcomeing
   - Ifelt bad not havingconverstation spanish but they were all happy to chat in english and hear about our travel and tell us about there experiances inthe states
 
+### other
+
+- the dogs on our street always barkking
+  - even the wienner dogs and the fancy toy dog at the grocery store would bark at us as we walkked by
+- the kids playing soccor in the street and the dogs going nuts
+- makking french toast with the bread katie got from the breakkfast place in punto arenus
+
 {% include image-gallery.html folder="/assets/images/2023-01-16-puerto-varas" %}

@@ -71,7 +71,7 @@ author:
 ## 9/6
 
 - we woke up and chatted with Stewart and Graceabout traveling to Seoul
-  - we chattedabout eddie and our travels so far
+  - we chatted about eddie and our travels so far
   - I told them I was feeling a little under the weather
   - we assured them we were down to travel with the new born if they were willing
 - I was convinced Ihad a cold

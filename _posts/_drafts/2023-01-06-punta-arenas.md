@@ -81,4 +81,10 @@ the hotles breakfast wasamzing it consisted of
 - wecouldeatabowlofceral, make a melt and hard boil the eggs to takefor lunch
 - we could cookk the eggs and take the melt for a snack
 
+- there were some really good breakkfast spot so one day we went to ???
+  - theyhad really cool illistration of native animals
+  - katie shared about the process of drawing something really large and then shrinking it
+  - that way you can sell more at a reasonable price
+  - and the smaller version is super detailed
+
 {% include image-gallery.html folder="/assets/images/2023-01-06-punta-arenas/other" %}
