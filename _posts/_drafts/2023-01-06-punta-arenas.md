@@ -52,6 +52,8 @@ author:
 
 ### tall ships
 
+{% include image-gallery.html folder="/assets/images/2023-01-06-punta-arenas/ships" %}
+
 ### food poisoning
 
 - bad parmasan scallops
