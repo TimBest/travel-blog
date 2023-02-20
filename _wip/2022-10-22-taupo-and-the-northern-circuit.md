@@ -7,7 +7,7 @@ author:
 
 ## Taupo
 
-Our first step was to get ready for the Tongariro Northern Circuit trek. I had some anxiety about how much we needed to accomplish in our timeframe. Having only 2 days to get everything we needed to head into the backcountry. To add to my anxiety the forecast was showing below-freezing temperatures at night, little to no visibility at the ridgeline, and a high probability of freezing rain with a chance of snow. 
+Our first step was to get ready for the Tongariro Northern Circuit trek. I had some anxiety about how much we needed to accomplish in our timeframe. Having only 2 days to get everything we needed to head into the backcountry. To add to my anxiety the forecast was showing below-freezing temperatures at night, little to no visibility at the ridgeline, and a high probability of freezing rain with a chance of snow.
 
 ### Shopping for Gear
 
@@ -15,44 +15,42 @@ Thankfully, we were in the right place, at the right time of year. Taupo is a po
 
 Our first stop was at Torpedo7 where we were able to make the first pass at our necessities. A stove, gas, water filter, and wool base layers. Next, we went to Gordons, a ski shop where we were able to get winter coats. I was able to find a spider jacket that I was debating purchasing in Amsterdam
 
+- shopping for gear
+- exchange rate
 
-
-  - shopping for gear
-  - excahnge rate
 ### The Bistro
 
 ### Craters of the Moon
 
 ### That Other Park
 
-  - Dinner at Bistor
-    - take one
-    - tasting menu
-
+- Dinner at Bisto
+  - take one
+  - tasting menu
 
 # Northern Circuit
+
 - washed out trail
 - fancy fresh dinner
 - up and over the ridges
-- running into the couple fram Tane Mahuto
+- running into the couple from Tane Mahuto
 - lava shoot
-- emeral lakes
+- emerald lakes
 - MT DOOM
-- entering mordor
+- entering Mordor
 - tiny hut
 - rest day
   - short hike
-  - walk with out packs
+  - walk without packs
   - hot lunch
   - walk to the spring
   - 8.5/10 sunset
   - clouds
-- walk out
-  - waking up to mt doom
-  - lazyh morning
+- walkout
+  - waking up to Mt doom
+  - lazy morning
   - misting
-  - water fall
+  - waterfall
   - Giant burgers
-
 
 {% include image-gallery.html folder="/assets/images/2022-10-22-taupo" %}

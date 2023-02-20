@@ -8,15 +8,15 @@ author:
 
 - watching lord of the rings
 - treaty museum
-  - cultural cerimony
+  - cultural ceremony
 - seafood dinner
   - green and blue giant mussles
   - view of the bay
 - Tane Mauhtu
-  - meeting Teresa 
+  - meeting Teresa
   - meeting the aussie couple]
   - sketch
-  - walkto father of the forest
- ' 
+  - walk to father of the forest
+    '
 
- {% include image-gallery.html folder="/assets/images/2022-10-17-northlands" %}
+{% include image-gallery.html folder="/assets/images/2022-10-17-northlands" %}

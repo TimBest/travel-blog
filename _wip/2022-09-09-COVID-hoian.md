@@ -32,7 +32,7 @@ author:
 
 - striking out on getting tailored clothes we walked along the Thu Bõn River and stopped at [The Hoianian- wine bar & restaurant ](https://goo.gl/maps/2r5LYtRQ9ZJFH6oq7) for dinner
   - we sat inside on the upper floor but before we got our food one of the tables on the balcony freed up and we were able to sit there
-  - it was a beautiful view with a long arm of red lanterns starting from our balcony out stretched over the street
+  - it was a beautiful view with a long arm of red lanterns starting from our balcony outstretched over the street
 
 ### Kimmy's take 1
 
@@ -63,22 +63,22 @@ author:
 
 ### ceramics store
 
-- one the way back we stoppedina super cute cermaicsstore that Iwantedto checkout thefirst day
-- we bought two bowels we liked as suveniers and so we could eat cereal in somethingother than our emergancy tupperware that we purchased in cambodia during our extension
-- wefound outthe store opened in ???
+- one the way back we stopped in a super cute ceramics store that I wanted to checkout the first day
+- we bought two bowels we liked as souvenirs and so we could eat cereal in something other than our emergancy Tupperware that we purchased in Cambodia during our extension
+- we found out the store opened in ???
 - the owner was super nice
 
 ## 9/6
 
 - we woke up and chatted with Stewart and Grace about traveling to Seoul
-  - we chatted about eddie and our travels so far
+  - we chatted about Eddie and our travels so far
   - I told them I was feeling a little under the weather
   - we assured them we were down to travel with the newborn if they were willing
 - I was convinced I had a cold
 - Katie was instant that I test for COVID
 - I didn't want to since my symptoms didn't seem consistent with the disease
 - I tested positive for COVID-19 the first positive was super super faint so I did a second test to confirm and instantly as the sample ran through the test the second line showed up super bold
-- katie was still testing negative so she went to reception and got a second room
+  Katie was still testing negative so she went to reception and got a second room
 
 - zooming from separate rooms in the same hotel
 - dropping off food at my door
