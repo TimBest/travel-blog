@@ -48,7 +48,7 @@ author:
 
 ### Departure (1/29)
 
-- {% include image-gallery.html folder="/assets/images/2023-01-31-antarctica/0-departure" %}
+{% include image-gallery.html folder="/assets/images/2023-01-31-antarctica/0-departure" %}
 
 ### The Drake Shake (1/30)
 
@@ -80,6 +80,9 @@ author:
 - Massimo told us not to touch the bones because they have anthrax
   - later sean pilled up a penguin skull to rearrange it for a better leading lines photo
 
+{% include image-gallery.html folder="/assets/images/2023-01-31-antarctica/3-tay-head-joinville-island" %}
+
+
 ### Tabular icebergs (2/1)
 
 - the largest one we cruised by was 4 nautical miles/ 8 kilometers/5miles long
@@ -109,6 +112,9 @@ author:
 - took a shot of patron with liz?&Kevin? after
 - 4 of us sat in the hot tub then the sauna
   had a buffet-style lunch on the top deck
+
+{% include image-gallery.html folder="/assets/images/2023-01-31-antarctica/4-polar-plung" %}
+
 
 ### transit (2/2)
 
@@ -273,6 +279,9 @@ author:
   - the stabilizers don't work in the ice fields because the ice could easily destroy them
 - we invited the sugarmen's to join us
 
+{% include image-gallery.html folder="/assets/images/2023-01-31-antarctica/7.1-engine-room" %}
+
+
 ### mainland in Paradise harbor (2/5)
 
 - the excursion was sold to us as a 10 minute stop
@@ -336,4 +345,4 @@ author:
   - we found the cooks apron in the gift shop
 - we then walked to town
 - we loved all the maps that had Argentinian land claims to the horn of Antarctica, the falcon islands and the Georgian islands
--
+
