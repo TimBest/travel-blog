@@ -84,7 +84,7 @@ We then went a third time on our last night in Hanoi as a send-off to the city. 
 
 ## Bún chả Hương Liên
 
-Bún chả Hương Liên was an experience! For one it was Katie and I's first time eating Bún chả - caramelized pork meatballs. We got them in soup making it our first time having a Vietnamese soup other than Pho.
+[Bún chả Hương Liên](https://www.facebook.com/bunchahuonglienobama) was an Experience! For one it was Katie and I's first time eating Bún chả - caramelized pork meatballs. We got them in soup making it our first time having a Vietnamese soup other than Pho.
 
 Looking around the restaurant everything was branded with the fact that Obama and Anthony Bourdain had eaten there. They even encased the table where they sat in plexiglass. It felt like it had all the hallmarks of a tourist trap but had somehow managed to hold on to its local customer base. The food was amazing 10/10
 
