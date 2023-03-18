@@ -1,20 +1,22 @@
 ---
 layout: post
-title: "Hanoi & Vietnam's National Day"
+title: "Hanoi: Arrival & Walking Tour"
 author:
   - Timothy Best
 ---
 
-Continuing with the getting out of Cambodia problems. We waited to buy our flight until we had our Vietnam visa in hand. So once we got our visa we ended up paying more than we would have liked for a flight. However, when we got to the airport the attendant wouldn't honor our tickets because the payment was still pending on our card. After much negotiation, we ended up having to pay even more for tickets 2 hours before the departure. We were left with a bad taste in our mouths and vowed to never fly Cambodia airways again.
+## Arrival
+
+The getting out of Cambodia problems continue. We waited to buy our flight until we had our Vietnam visa in hand. So once we got our visa we ended up paying more than we would have liked for a flight. However, when we got to the airport the attendant wouldn't honor our tickets because the payment was still pending on our card. After much negotiation, we ended up having to pay even more for tickets 2 hours before the departure. We were left with a bad taste in our mouths and vowed to never fly Cambodia airways again.
 
 When we landed in Ho Chi Minh, Vietnam, we found out that our connection flight we reserved also had not been booked correctly. Thankfully Vietnam Airlines' customer support was amazing. The check-in attendant stayed by our side through the entire process. Even walking us over to another counter and then ensuring that we got the plane for the same price we booked it at. And even though economy was booked they upgraded us to business class for no extra cost.
 In business class, we got talking to a couple from the US who worked for the world bank and had just gotten assigned to work in Hanoi. We ended up exchanging numbers with them and later got Bun Cha at [Bun Cha Huong Lien](https://www.facebook.com/bunchahuonglienobama/) where Obama and Anthony Bourdain ate.
 
 We arrived at Hanoi in the dark and completely exhausted from the day of travel we both dropped our bags and immediately collapsed in the bed for a night's sleep. The next morning we awoke to a beautiful view of the city. We had booked a private room with a balcony at a hostel. From the balcony, we could observe all the action on the street from a calm and peaceful vantage point.
 
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/bun-cha" %}
+{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/arrival" %}
 
-## Walking Tour
+## The Walking Tour
 
 We headed off to meet our guide for a walking tour of Hanoi. We first went to an ATM to get some Vietnamese Dong so that we could pay our guide. This was our first experience walking in a Vietnamese city. Something we heard a lot of warnings about from travelers we met in Siem Reap. Our impression is that it was actually a fairly walkable city. The fact that there are no real sidewalks and the traffic feels chaotic. But the traffic is relatively slow and the motorbike drivers seem very aware of everything going on. By the end of the day, I was joking that you could walk anywhere in Hanoi with your eyes closed and be safe.
 
@@ -63,92 +65,3 @@ We took a quick detour to the Long Bien Bridge and stopped for a sugar cane boba
 We ended our tour on Train street which is a number of cafes on an active train line. here we tried dragon eye's (a fruit similar to Lychee) and split an egg coffee. Apparently, egg coffee was invented due to a milk shortage caused by the Vietnam war. It consists of a shot of espresso topped with egg yolks that are whipped to soft peaks and often include condensed milk. It was delicious and seriously filling.
 
 {% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/free-walking-tour/train-street" %}
-
-## Food tour
-
-We have been wanting to try more street food and get exposure to more Vietnamese dishes. However, after my experience with food poisoning in Tanzania, we were feeling a bit reticent. We decided to book a food tour to kick-start our curiosity. We tried:
-
-### 1. Sticky Rice at Xôi Yến
-
-At [Xôi Yến](https://www.google.com/maps/place/X%C3%B4i+Y%E1%BA%BFn/@21.0337304,105.8501426,16z/data=!4m7!3m6!1s0x3135abf54e9751af:0x9720e5f2f8f19320!8m2!3d21.0337304!4d105.85452!15sCgd4b2kgeWVuWgkiB3hvaSB5ZW6SARV2aWV0bmFtZXNlX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11b75hq4m5?coh=164777&entry=tt) we got a classic sticky rice called Xôi Xéo that is traditionally eaten for breakfast. The sticky rice is topped with mung bean and fried shallots
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/food-tour/1-sticky-rice" %}
-
-### 2. Snails at Ốc nóng Ngao hấp
-
-At [Ốc nóng Ngao hấp](https://goo.gl/maps/dauhfZ8R4bEGo4o86) we tried Ốc Luộc Steamed ?freshwater? snails harvested from rice patties. these snails are often eaten as a snack. They were our favorite dish on the tour.
-
-To eat we first had to pry off a hardcover to then be able to stab the snail meat. From there we had to twist the shell off of the meat with the correct pressure so as not to tear the meat and lose the tasty snack. They had a meaty texture reminiscent of some seafood with a much fresher and earthy taste. Some even had a slight crunch and tongue-numbing effect.
-
-We also got to try Ngao hấp steamed white clams with lemongrass, ginger, and pineapple. Which were delicious. But not nearly as exciting as the snails
-
-Our tour guide mentioned how Hanoi made it very easy for people to start businesses. So many folks will pay a landlord or shop owner to use the sidewalk space in front of their building as a restaurant.
-
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/food-tour/2-snails" %}
-
-### 3. Hoan iem Street
-
-Nom Thit Bo Kho a dried beef salad, banh bot loc - dumplings, and nem chua ran - fried fermented porkk rolls
-
-forgot to take photos of this before we were done. The street was absolutely packed at this point
-
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/food-tour/3-dinner" %}
-
-### 4.Ly Quoc Su Street
-
-Banh goi - pillow pancake and Banh tom - shrimp pancake
-
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/food-tour/4-seafood" %}
-
-### 5. 1 phu doan
-
-Luon xao - stir fried noodle with eel
-
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/food-tour/5-eel" %}
-
-### 6. to tich street
-
-Hoa qua dam - mixed tropical fruit with crushed ice and cream
-
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/food-tour/6-dessert-1" %}
-
-### 7. 95hang bac
-
-em xoi - sticky rice with coconut ice cream
-
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/food-tour/7-dessert-2" %}
-
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/food-tour/way-home" %}
-
-- seafood snacks in the alley
-- crispy eel on rice on the loft that was exactly Tim's height
-- sticky rice ice cream
-
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/food-tour" %}
-
-## Woman's Museum
-
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/womans-museum" %}
-
-## National Day
-
-National day did not live up to our expectations of the holiday. In our Lonely Planet guidebook, it talked about a similar level of celebration as with the 4th of July in the States. And they emphasized that if you are going to be in Vietnam for it Hoian was the city to be in. For this reason, we decided to fly all the way to Hoian and travel the country from north to south. Even though our Ho chi min city was closer and our flight to Hoian connected through.
-
-Since arriving in the city we had been asking around about the national day celebration. And had been getting many mixed signals. Some folks told us that National day is a holiday spent with your family and because of that most people won't be in the city they are in the country celebrating. Others mentioned that due to COVID the celebrations would be less/non existent. On others still, mentioned that there would still be fireworks and celebrations down by the lake.
-
-That morning we got up and met a
-
-- ho chi min plaza
-- botanical garden
-- tofu street vendor
-  chat outside the convenience store
-- ban mi
-
-{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/national-day" %}
-
-## Hanoi Food Culture
-
-practicing English with the guy busting the tables
-
-- the date on the balcony
-
-  {% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/date-night" %}
