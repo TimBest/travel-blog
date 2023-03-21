@@ -36,11 +36,11 @@ We then went to a Mexican restaurant Laura recommended and met the owner Jhonoto
 
 ### Junkyard?
 
-{% include image-gallery.html folder="/assets/images/2022-09-24-amed/25-dives/day-1-dive-1-junyard?" %}
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/25-dives/day-1-dive-1-junyard" %}
 
 ### Wall ?
 
-{% include image-gallery.html folder="/assets/images/2022-09-24-amed/25-dives/day-1-dive-2-wall?" %}
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/25-dives/day-1-dive-2-wall" %}
 
 ## Sep 26
 
