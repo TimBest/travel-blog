@@ -84,6 +84,12 @@ We then went a third time on our last night in Hanoi as a send-off to the city. 
 
 ## Bún chả Hương Liên
 
+On our way to get Bún chả we stopped at the woman's museum. We wish we had more time here. Looking online we thought it would be a quick visit to see everything. The museum was much bigger than expected. Everything was beautifully curated and the audio guides were great. We were hoping to go back but the availability of the Halong bay tours and the timing of the mid-autumn festival didn't allow for it. Guess we will have to go back next time we are in Vietnam. ;)
+
+I enjoyed the exhibits on marriage traditions and the textiles.
+
+{% include image-gallery.html folder="/assets/images/2022-08-30-hanoi/womans-museum" %}
+
 [Bún chả Hương Liên](https://www.facebook.com/bunchahuonglienobama) was an Experience! For one it was Katie and I's first time eating Bún chả - caramelized pork meatballs. We got them in soup making it our first time having a Vietnamese soup other than Pho.
 
 Looking around the restaurant everything was branded with the fact that Obama and Anthony Bourdain had eaten there. They even encased the table where they sat in plexiglass. It felt like it had all the hallmarks of a tourist trap but had somehow managed to hold on to its local customer base. The food was amazing 10/10
