@@ -11,8 +11,8 @@ for i in `find $IMG_DIR -name "*.jpg" -type f`; do
       echo "tumbnail for $i does not exist"
       # ensure the path exists
       mkdir -p `dirname $LOOKUP`
-      # create a tumbnail with 100k pixels
-      magick $i -resize 100000@ $LOOKUP 
+      # create a tumbnail 800x400 is roughly twice the display size in the image grid
+      magick $i -resize 800x400 $LOOKUP 
       echo "created new tumbnail: $LOOKUP"
     fi
 done
