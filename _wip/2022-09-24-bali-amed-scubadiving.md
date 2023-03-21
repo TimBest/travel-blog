@@ -22,6 +22,58 @@ The next day our goal was to recover and say hi to our dive instructor. We slept
 
 We then went to a Mexican restaurant Laura recommended and met the owner Jhonoton. It was the best Mexican food we have had abroad on our trip and made us both feel a bit at home. we then walked back home, napped, and got ready for the week of diving.
 
-## Day 1
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/22-arrival" %}
 
-{% include image-gallery.html folder="/assets/images/2022-09-24-amed" %}
+## Chill - day off
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/23-chill" %}
+
+## First day in the water
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/24-training" %}
+
+## Sep 25
+
+### Junkyard?
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/25-dives/day-1-dive-1-junyard?" %}
+
+### Wall ?
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/25-dives/day-1-dive-2-wall?" %}
+
+## Sep 26
+
+### Liberty Wreck
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/sep-26-liberty/day-2-dive-1" %}
+
+### Coral garden?
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/sep-26-liberty/day-2-dive-2" %}
+
+## Sep 27 - sick day? night dive?
+
+## Sep 28
+
+### dive 1
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/sep-28/day-3-dive-1-sep-28" %}
+
+### dive 2 - drift dive?
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/sep-28/day-3-dive-2-sep-28" %}
+
+## Sep 29?
+
+## Boga Wreck
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/day-4-dive-1-kubu-boga-wreck" %}
+
+## Kubu reef
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/day-4-dive-2-kubu-reef" %}
+
+## Other stuff
+
+{% include image-gallery.html folder="/assets/images/2022-09-24-amed/25-dives/other" %}
