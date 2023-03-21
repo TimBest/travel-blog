@@ -12,3 +12,8 @@
 
 - `brew install imagemagick`
 - `./camera-to-web.sh`
+
+## Creating tumbnails for image-gallery.html
+
+- `brew install imagemagick`
+- `./create-tumbnails.sh`
