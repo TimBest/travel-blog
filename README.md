@@ -8,12 +8,21 @@
 - `bundle install`
 - `bundle exec jekyll serve`
 
-## Cleaning up images from camera
+## Cleaning up images from the camera
 
 - `brew install imagemagick`
 - `./camera-to-web.sh`
 
-## Creating tumbnails for image-gallery.html
+### Find images that might not have been compressed
+
+finds the top ten large files in dir including sub dirs
+
+```
+cd assests/images
+find . -type f -exec stat -f '%z %N' {} + | sort -nr | head -10
+```
+
+## Creating thumbnails for image-gallery.html
 
 - `brew install imagemagick`
-- `./create-tumbnails.sh`
+- `./create-thumbnails.sh`

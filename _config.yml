@@ -26,6 +26,8 @@ collections:
     output: true
     permalink: /wip/:title.html
 
+incremental: true
+
 header_pages:
   - our-trip.md
   - posts.md
