@@ -3,8 +3,8 @@
   {% assign filenameparts = file.path | split: "/" %} {% assign filename =
   filenameparts | last | replace: file.extname,"" %} {% assign image_path =
   file.path %} {% assign thumbnail_path = image_path | replace: 'images',
-  'thumbnails' %} {% capture thumbnail_path_exists %}{% file_exists {{
-  thumbnail_path }} %}{% endcapture %}
+  'thumbnails' %} {% assign thumbnail_path_exists = file_exists {{
+  thumbnail_path }} %}
   <div class="gallery-item">
     <a
       href="{{ image_path }}"
@@ -12,7 +12,8 @@
       data-image-alt="{{ filename }}"
     >
       <img
-        src="{% if thumbnail_path_exists %}{{ thumbnail_path }} {% else %}{{ image_path }}{% endif %}"
+        src="{% if thumbnail_path_exists == 'true' %}{{ thumbnail_path }} {%
+      else %}{{ image_path }}{% endif %}"
         alt="{{ filename }}"
         loading="lazy"
         class="thumbnail"
