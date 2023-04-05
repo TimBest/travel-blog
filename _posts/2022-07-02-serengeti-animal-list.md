@@ -3,6 +3,8 @@ layout: post
 title: "The Serengeti: Daily Animal Sightings"
 author:
   - Katherine Nammacher
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-06-29-serengeti-best-photos/6-29/IMG_5160.jpg
 ---
 ## The Epic Animals List
 This is a list of all the animals we saw on the safari in chronological order. It is very exciting and completely surreal. This also includes a list of highlights for some activities on certain days, from our notebook!

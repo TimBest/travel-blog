@@ -3,6 +3,8 @@ layout: post
 title: "Flight home"
 author:
   - Timothy Best
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-07-21-flight-home/touch-down/IMG_20220722_113325.jpg
 ---
 
 ## July 21

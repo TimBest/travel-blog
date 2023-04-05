@@ -2,59 +2,32 @@
 layout: default
 ---
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-    <header class="post-header">
-        <h1 class="post-title p-name" itemprop="name headline">
-            {{ page.title | escape }}
-        </h1>
-        <div class="post-meta">
-            {% for author in page.author %}
-            <div class="profile-picture-container">
-                {%- if author == "Timothy Best" %}
-                <image src="{{ "/assets/images/tim.jpg" | relative_url }}" alt="Tim" /> {% endif -%} {%-
-                if author == "Katherine Nammacher" %}
-                <image src="{{ "/assets/images/katie.jpg" | relative_url }}" alt="Katie" /> {% endif -%}
-                {%- if author == "Buzzfeed" %}
-                <svg viewBox="0 0 1024 1024" role="img">
-                    <title>Lol</title>
-                    <path fill="#fe0" d="M955.3 256C814 11.2 500.9-72.7 256 68.7 11.2 210-72.7 523.1 68.7 768 210 1012.8 523.1 1096.7 768 955.3 1012.8 814 1096.7 500.9 955.3 256z"></path>
-                    <path id="LOL" class="svg-gray" d="M416 640.9l33.3 57.6-148.9 86-126.1-218.4 66.1-38.2 92.8 160.7 82.8-47.7zm212.5-191.3c38.7 67.1 13.2 143-54.3 181.9-67.4 38.9-145.9 23.2-184.7-43.9s-13.2-143 54.3-181.9c67.5-38.9 146-23.2 184.7 43.9zm-67.1 38.8c-17.6-30.4-52.2-42.8-83.9-24.4-31.8 18.3-38.4 54.5-20.8 84.9 17.6 30.4 52.2 42.8 83.9 24.4s38.4-54.5 20.8-84.9zm182.8-37l-92.8-160.7-66.1 38.2 126.1 218.3 148.9-86-33.3-57.6-82.8 47.8z"></path>
-                  </svg>
-                {% endif -%}
+<article
+  class="post h-entry"
+  itemscope
+  itemtype="http://schema.org/BlogPosting"
+>
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ page.title | escape }}
+    </h1>
+    {% include post-meta.html authors=page.author date=page.date flag=page.flag %}
+  </header>
 
+  <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
 
-            </div>
-            {% endfor %}
-            <div>
-                <div>
-                    {% for author in page.author %}
-                    <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                        <span class="p-author h-card" itemprop="name">{{ author }}</span>
-                    </span>
-                    {%- if forloop.last == false %} + {% endif -%}
-                    {% endfor %}
-                </div>
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                    {{ page.date | date: date_format }}
-                </time>
+  {%- if site.disqus.shortname -%} {%- include disqus_comments.html -%} {%-
+  endif -%}
 
-            </div>
-        </div>
-    </header>
-
-    <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
-
-    {%- if site.disqus.shortname -%} {%- include disqus_comments.html -%} {%-
-    endif -%}
-
-    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
 <div class="PageNavigation">
-    {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-    {% endif %} {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-    {% endif %}
+  {% if page.previous.url %}
+  <a class="prev" href="{{page.previous.url}}"
+    >&laquo; {{page.previous.title}}</a
+  >
+  {% endif %} {% if page.next.url %}
+  <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
 </div>

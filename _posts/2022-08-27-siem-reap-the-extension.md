@@ -3,6 +3,8 @@ layout: post
 title: "Siem Reap - The Extension"
 author:
   - Katherine Nammacher
+flag: 🇰🇭
+thumbnail: /assets/thumbnails/2022-08-25-angkorwat/extraweekend-drawing/IMG_2999.jpg
 ---
 
 We had planned to leave Siem Reap, and Cambodia, on a Friday - starting a 6-week journey through Vietnam. Vietnam offers visas on arrival, and the easiest is your typical 30-day visa (on an American passport). Of course, you can also get a 60-day visa. We have generally seen "visa on arrival" as you literally get the visa when you are entering through a major international airport. Vietnam is not this. You need written approval to get on a plane going to Vietnam - which we did not know until we showed up at the Cambodian airport ready to board the plane. We got turned away from the plane. (We learned later that Vietnam would have been annoyed if we had arrived, but there was a high likelihood they would have let us into the country after a lecture.)

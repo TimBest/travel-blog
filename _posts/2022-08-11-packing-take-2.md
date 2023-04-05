@@ -3,6 +3,8 @@ layout: post
 title: "Packing: take 2"
 author:
   - Timothy Best
+flag: 🇺🇸
+thumbnail: /assets/thumbnails/packing2.jpg
 ---
 
 ## Pre-packing

@@ -3,7 +3,8 @@ layout: post
 title: "8 Unknown Animals From The Serengeti — Let's See How Many You Know"
 author:
   - Buzzfeed
-
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-06-30-unexpected/dik-dik.jpg
 ---
 
 The day before we headed out on our safari our guide stopped by our hotel so we could get to know him. It was a wonderful conversation over a cup of coffee. We talked about the famous "big game" that we were excited to see. The classics like the giraffe, elephants, lions, etc.

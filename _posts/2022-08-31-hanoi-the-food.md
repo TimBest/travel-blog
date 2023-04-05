@@ -3,6 +3,8 @@ layout: post
 title: "Hanoi: The Food"
 author:
   - Timothy Best
+flag: 🇻🇳
+thumbnail: /assets/thumbnails/2022-08-30-hanoi/food-tour/2-snails/PXL_20220901_113541870.jpg
 ---
 
 ## Street Food Tour

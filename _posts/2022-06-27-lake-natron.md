@@ -3,6 +3,8 @@ layout: post
 title: "Lake Natron"
 author:
   - Timothy Best
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-06-27-lake-natron/lake/IMG_4428.jpg
 ---
 
 ## The Drive

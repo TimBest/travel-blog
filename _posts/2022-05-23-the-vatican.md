@@ -2,6 +2,8 @@
 layout: post
 title: "The Vatican"
 author: Katherine Nammacher
+flag: 🇮🇹
+thumbnail: /assets/thumbnails/01_Vatican_WebsiteCopies/IMG_0296-21.jpg
 ---
 
 _Note: Photos are below!_

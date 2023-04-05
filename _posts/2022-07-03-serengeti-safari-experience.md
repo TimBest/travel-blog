@@ -3,6 +3,9 @@ layout: post
 title: "The Serengeti: The Safari Experience"
 author:
   - Katherine Nammacher
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-07-03-serengeti-safari-experience/sun/PXL_20220703_035214437.MP.jpg
+thumbnail_position: right
 ---
 
 ## Elements of the Serengeti

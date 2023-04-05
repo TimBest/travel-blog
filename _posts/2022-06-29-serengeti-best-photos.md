@@ -4,6 +4,8 @@ title: "The Serengeti: Our Top Photos"
 author:
   - Katherine Nammacher
   - Timothy Best
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-06-29-serengeti-best-photos/7-03/IMG_7900.jpg
 ---
 
 Here is a collection of our top photos from the Serengeti portion of our safari. It was 7 days of magic. These amazing photos just scratch the surface of the experience we had. Enjoy!

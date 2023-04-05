@@ -3,6 +3,8 @@ layout: post
 title: "From the Serengeti to Zanzibar"
 author:
   - Timothy Best
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-07-04-serengeti-to-zanzibar/lions/IMG_8376.jpg
 ---
 
 # The Sunrise

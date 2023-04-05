@@ -2,6 +2,9 @@
 layout: post
 title: "Venice Biennale"
 author: Timothy Best
+flag: 🇮🇹
+thumbnail: /assets/thumbnails/2022-06-01-venice-biennale/katherine/IMG_20220601_112204-6.jpg
+thumbnail_position: right
 ---
 
 After train hopping from Bonassola to Pisa, Pisa to Florence, Florence to Venice. We had one more leg to go to get to our next stay: a Vaporetto from the train station in Venice to Giudecca, a neighborhood island in Venice. Vaporettos are water taxis, transporting locals and tourists alike across the water.

@@ -3,6 +3,8 @@ layout: post
 title: "Ngorongoro Crater"
 author:
   - Timothy Best
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-06-25-ngorongoro/lion/IMG_4258.jpg
 ---
 
 Ngorongoro Crater was a spectacular way to start our safari, our first day of a 10-day safari adventure. Honest, our guide, picked us up bright and early at Rivertrees on Saturday, June 25. We made the drive to Arusha town (downtown) in the huge Toyota land cruiser. At the time, it felt silly having such a big vehicle for just the two of us. However, as the safari progressed we loved having the space. We would actively jump between seats to get a better angle in pursuit of the best view or photo. 

@@ -2,6 +2,8 @@
 layout: post
 title: "Finishing Europe - Our First Continent"
 author: Katherine Nammacher
+flag: 🇳🇱
+thumbnail: /assets/thumbnails/goodbye.jpg
 ---
 
 We have spent the last five days in Amsterdam, and I am writing this from the plane to Tanzania. 

@@ -3,6 +3,10 @@ layout: post
 title: "Moments with Paka"
 author:
   - Katherine Nammacher
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-07-23-paka-moments/play/PXL_20220721_191744288.MP.jpg
+thumbnail_position: left
+
 ---
 
 ## Intro

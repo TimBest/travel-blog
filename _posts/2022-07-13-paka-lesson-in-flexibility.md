@@ -3,6 +3,8 @@ layout: post
 title: "Paka: A Lesson in Being Flexible for Your Future"
 author:
   - Katherine Nammacher
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-07-13-paka/tuna.jpg
 ---
 
 *Note: Many of the posts from Tanzania were written after we left. However, this post was written while in Dar es Salaam, before we knew that Paka would successfully get into the U.S., receive customs approval, and become our cat.*

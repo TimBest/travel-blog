@@ -2,6 +2,9 @@
 layout: post
 title: "Amsterdam - Museums and Gardens"
 author: Katherine Nammacher
+flag: 🇳🇱
+thumbnail: /assets/thumbnails/2022-06-13-amsterdam-art/peggy/IMG_2758.jpg
+thumbnail_position: right
 ---
 
 This is my third time in Amsterdam, and Tim's first. And it was exciting to discover it anew with Tim. (Tim will write a blog post about Amsterdam's public transit!)

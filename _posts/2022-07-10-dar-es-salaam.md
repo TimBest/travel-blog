@@ -3,6 +3,8 @@ layout: post
 title: "13 days in Dar Es Salaam"
 author:
   - Timothy Best
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-07-10-dar-es-salaam/7-10/IMG_9042.jpg
 ---
 
 In our original itinerary, we had no intention to stop in Dar Es Salaam. We are grateful that Paka brought us to the city. The experience of getting Paka ready to fly back to the US forced us outside of the tourist circuit and led us to a number of memorable experiences including:

@@ -3,6 +3,8 @@ layout: post
 title: "North America: One Memorial, Two Weddings, and One Death"
 author:
   - Katherine Nammacher
+flag: 🇺🇸
+thumbnail: /assets/thumbnails/2022-08-15-northamerica/Kristin-wedding/PXL_20220814_010318107.jpg
 ---
 
 ## The General Plan - Places & People

@@ -3,6 +3,8 @@ layout: post
 title: "16 hours in Singapore"
 author:
   - Timothy Best
+flag: 🇸🇬
+thumbnail: /assets/thumbnails/2022-08-17-singapore/airport2/0_IMG_20220818_114210__01.jpg
 ---
 
 ## To the airport

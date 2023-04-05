@@ -3,6 +3,8 @@ layout: post
 title: "Rivertrees Country Inn"
 author:
   - Timothy Best
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-06-24-rivertrees/owls/IMG_3708.jpg
 ---
 
 In our time between Kilimanjaro and the Serengeti, we knew we wanted some “sitting down” days - a time to relax, reflect, and refresh. We wanted somewhere where staying would be easy: good food on the premise, nice rooms, and a quiet environment. One of my coworkers grew up in Tanzania and went had gone on a safari in the Serengeti a couple of years ago. We chatted with him for advice on our safari itinerary, and he happened to recommend the [Rivertrees Country Inn](https://rivertrees.com/), in Usa River (halfway between Kilimanjaro and Arusha). It was 100% the right spot for us. 

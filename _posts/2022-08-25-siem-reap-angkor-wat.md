@@ -3,6 +3,8 @@ layout: post
 title: "Angkor Wat: An International Wonder"
 author:
   - Katherine Nammacher
+flag: 🇰🇭
+thumbnail: /assets/thumbnails/2022-08-25-angkorwat/AngkorWat-photos1/IMG_0660.jpg
 ---
 Angkor Wat is an extremely special place - similar to Machu Picchu or Teotihuacan in how you can feel the history and the sophistication of the society that lived there. However, it is substantially larger than any other complex I've visited. It is still the largest religious monument in the world, sitting on 400+ acres of land - and you need to take tuk-tuks to get between the different sites!  
 

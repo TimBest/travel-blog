@@ -2,6 +2,8 @@
 layout: post
 title: "Our Itinerary!"
 author: Timothy Best
+flag: 🇺🇸
+thumbnail: /assets/thumbnails/uhal.jpg
 ---
 
 ![A picture of the U-Haul](/assets/images/uhal.jpg)
@@ -12,14 +14,16 @@ are in our one-third-life-crisis stage, because why not?? We’ve decided to
 travel the world instead. Before things like pets, house owning, and kids keep us
 rooted. No regrets!
 
+<!--more-->
+
 Here’s our itinerary:
 
 - May 20th - Fly to Rome and explore Italy. Including Venice Biennale & Hiking in the Dolomites
 - Mid-June – Hiking Kilimanjaro (Tanzania)
 - Late June - Going on a Safari to see the Great Migration of 800,000 wildebeests, zebra, and more in Tanzania
 - Mid-July – Some beach days in Zanzibar (Tanzania)
-- Mid-July to Late August – 2 weddings and 1 memorial 
+- Mid-July to Late August – 2 weddings and 1 memorial
 - September to mid-Oct – Japan – Hiking, good food, cultural and historical sites
 - Mid-Oct to mid-Dec – New Zealand – Backpacking and nature exploring galore!!!!! Including backpacking to Mount Doom (the Lord of the Rings trail)
-- January – South America - possible Patagonia area. possible a trip into the amazon
+- January – South America - possibly Patagonia area. possibly a trip into the Amazon
 - Late Jan – Antarctica

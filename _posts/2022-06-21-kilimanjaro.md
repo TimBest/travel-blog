@@ -4,6 +4,8 @@ title: "Kilimanjaro"
 author:
   - Timothy Best
   - Katherine Nammacher
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-06-21-kilimanjaro/day6/IMG_3394.jpg
 ---
 
 {% include tooltip.html text="Jumbo," tip="Hello" %}

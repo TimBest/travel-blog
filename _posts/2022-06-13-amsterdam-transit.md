@@ -2,6 +2,8 @@
 layout: post
 title: "Amsterdam - Bike, Buses, and Trains!"
 author: Timothy Best
+flag: 🇳🇱
+thumbnail: /assets/thumbnails/2022-06-13-amseterdam-transit/IMG_2778.jpg
 ---
 
 I lived for 4 years in mountain view CA without a car. My main forms of transit were walking, biking and the public rail (Cailtrain and Bart). I tried my best to avoid getting into a car often putting up with long and unsafe transit options. The one thing that always frustrated me was the lack of belonging on a bike. 

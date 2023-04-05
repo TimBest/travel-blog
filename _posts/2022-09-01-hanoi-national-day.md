@@ -3,6 +3,8 @@ layout: post
 title: "Hanoi: National Day"
 author:
   - Timothy Best
+flag: 🇻🇳
+thumbnail: /assets/thumbnails/2022-08-30-hanoi/national-day/lunch/PXL_20220902_070919834.MP.jpg
 ---
 
 ## National Day

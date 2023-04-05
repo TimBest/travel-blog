@@ -67,8 +67,8 @@
 .profile-picture-container {
   display: inline-block;
   position: relative;
-  width: 50px;
-  height: 50px;
+  width: 45px;
+  height: 45px;
   overflow: hidden;
   border-radius: 50%;
   margin-right: 10px;
@@ -133,3 +133,44 @@
 
 }
 
+.all-post-page {
+  background-color: #fafafa;
+
+}
+
+.post-card {
+  margin: 20px 0;
+  background-color: #fff;
+  box-shadow: 0px 1px 2px rgba(50, 50, 50, .1), 0px 2px 4px rgba(60, 60, 60, 0.1);
+  border-radius: 5px;
+  display: flex;
+  overflow: hidden
+}
+
+.post-card-img {
+  height: 200px;
+  min-width: 150px;
+  img {
+    object-fit: cover;
+    width: 150px;
+    vertical-align: middle;
+    min-height: 100%;
+  }
+}
+
+.post-card-content {
+  .post-card-header {
+    margin: 0;
+  }
+  display: list-item;
+  margin: 10px 10px 10px 20px;
+}
+@media screen and (max-width: 600px) {
+  .post-card {
+    display: inline-block;
+  }
+  .post-card-img img {
+    width: 100%;
+    height: 200px;
+  }
+}

@@ -3,6 +3,8 @@ layout: post
 title: "Hạ Long Bay: A Cruise of Wonder"
 author:
   - Katherine Nammacher
+flag: 🇻🇳
+thumbnail: /assets/thumbnails/2022-09-05-halongbay/9-4/IMG_4223.jpg
 ---
 
 I write this sitting atop the back of a boat, made in the style of Indochina Junks, made by a company with the same name. It is 6:43 am. I have watched the sunset, gone swimming, and soaked in the scenery generally. By myself, atop this unique boat in this unique place.

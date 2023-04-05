@@ -3,6 +3,8 @@ layout: post
 title: "Hoi An: Lantern Making"
 author:
   - Timothy Best
+flag: 🇻🇳
+thumbnail: /assets/thumbnails/2022-09-06-lantern-making/results/IMG_4796.jpg
 ---
 
 ![the lanterns we made turning on and off in front of A natural edge wooden sign for the lantern-making class sign hanging on a bamboo fence](/assets/images/2022-09-06-lantern-making/IMG_4792-ANIMATION.gif)
@@ -33,7 +35,7 @@ The thread is added to ensure that each stake is evenly spaced. Something I woul
 
 #### Picking a color (or two)
 
-Picking the right colors was a real challenge. We went through a number of them. Debating between all of one color. or doing a half and half. After much deliberation, we both went with our favorite colors. Realizing that they both paired with orange we put a single accent panel of orange in each.
+Picking the right colors was a real challenge. We went through a number of them. Debating between all of one color. or doing a half-and-half. After much deliberation, we both went with our favorite colors. Realizing that they both paired with orange we put a single accent panel of orange in each.
 
 {% include image-gallery.html folder="/assets/images/2022-09-06-lantern-making/step-6" %}
 
@@ -43,7 +45,7 @@ Attaching the silk to the bamboo seems simple enough:
 
 1. Apply some glue
 2. Add the silk
-3. Stretch the fabric to remove any wrinkle
+3. Stretch the fabric to remove any wrinkles
 4. Trim the edges
 5. Repeat for each side
 
@@ -61,6 +63,6 @@ We backed two strips of silk in our primary color with cardboard. Then wrapped i
 
 #### Results
 
-Overall, This class was super fun. We really enjoyed the folks that we made our lanterns with. The instructor was funny, patient and incredibly nice. Being project people the class was right up our alley. It scratched the crafting/DIY hobby itch. And along with a great experience, we also have two souvenirs! If you are ever in Hoi anI highly recommend taking a few hours of your day to try [the lantern making class](http://hoianhandicraft.com/lantern-making-class-2/)
+Overall, This class was super fun. We really enjoyed the folks that we made our lanterns with. The instructor was funny, patient and incredibly nice. Being project people the class was right up our alley. It scratched the crafting/DIY hobby itch. And along with a great experience, we also have two souvenirs! If you are ever in Hoi anI highly recommend taking a few hours of your day to try [the lantern-making class](http://hoianhandicraft.com/lantern-making-class-2/)
 
 {% include image-gallery.html folder="/assets/images/2022-09-06-lantern-making/results" %}

@@ -3,6 +3,8 @@ layout: post
 title: "FAME Hospital"
 author:
  - Timothy Best
+flag: 🇹🇿
+thumbnail: /assets/thumbnails/2022-06-26-FAME/iv.jpg
 ---
 
 [The Rhino lodge](https://rhino.co.tz/) was on top of the Ngorongoro Crater, which is where we stayed on the first night of the safari. At this altitude, it would often drop below freezing at night. To keep warm, the room was equipped with a small wood stove that the lodge had provided with an equally small basket of dried dung to burn in the stove (Thankfully there was no smell). This stove was capable of keeping the room at about 40-45°F. For additional warmth, the bed was equipped with many thick blankets. Going to sleep with these accommodations was more rustic than we were expecting but overall pleasant.
