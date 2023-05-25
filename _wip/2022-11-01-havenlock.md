@@ -26,7 +26,7 @@ author:
     - lights that wouldn't turn off
   - hot tub and swimming pool
 
-# Auckland
+# Wellington
 
 - the stay
   - baby lamb
