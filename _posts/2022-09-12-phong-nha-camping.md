@@ -4,7 +4,7 @@ title: "Solo Travel: Phong Nha - Camping in a Cave"
 author:
   - Katherine Nammacher
 flag: 🇻🇳
-thumbnail: /assets/thumbnails/2022-09-08-hoian/lanterns/IMG_4843.jpg
+thumbnail: /assets/thumbnails/2022-09-12-Phong-Nha/006-Morning-hike-tour/PXL_20220913_014512478.jpg
 ---
 
 Tim had COVID and, of course, stopped traveling and focused on allowing his body to rest and get well again. With that, I continuously tested negative for COVID and felt fine - apart from being tired from traveling. We had scheduled a cave camping overnight for the next week, and by the weekend it looked like Tim was feeling better. He encouraged me to travel solo to enjoy the cave adventure, so I did.

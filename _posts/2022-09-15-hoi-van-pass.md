@@ -3,6 +3,8 @@ layout: post
 title: "Solo Travel: Hoi Van Pass on a Motorcycle"
 author:
   - Katherine Nammacher
+flag: 🇻🇳
+thumbnail: /assets/thumbnails/2022-09-15-Hoi-Van-Pass/006-Da-Nang-Bridge/IMG_5679.JPG
 ---
 
 ## Hoi Van Pass on a Motorcycle
