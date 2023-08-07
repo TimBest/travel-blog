@@ -1,17 +1,25 @@
 ---
 layout: post
-title: "COVID in Hoi An"
+title: "COVID in Hội An"
 author:
   - Timothy Best
+flag: 🇻🇳
+thumbnail: /assets/thumbnails/2022-09-09-COVID-hoian/IMG-20220908-WA0000.jpg
 ---
 
-## 9/7
+I awoke feeling fatigued and concluded that I was traveled out. So I ate a bowl of cereal and decided to take the morning off to relax, catch up on some TV, and then met up with Katie in the afternoon. 
 
-### first symptoms
+Feeling more energetic and quite hungry I ventured out. I met Katie at a tailor's looking at some fabrics. She really wanted to get something custom made but non of the fabrics were right for her.
 
-- I awoke feeling fatigued
-  I thought I was just tired from all the travel and needed a day off
-- I took the morning off to watch TV
+So we headed off to grab some food before being interrupted. First, by a shop owner that Katherine had befriended and he took us on a tour of the new building he was moving his shop into. Which was still very actively being built. With sparks flying this way and that!
+
+Then secondly, when passing a well-rated tailor for men's suits. We popped in to look for a suit for me! 
+
+
+
+{% include image-gallery.html folder="/assets/images/2022-09-09-COVID-hoian/fabric" %}
+
+
 
 ### meeting up with Katie
 
@@ -93,5 +101,8 @@ author:
 - had to cancel our food-making class
   I downplayed my symptoms to Katie so she would still do the cave tour and stop at hue
 - I knew I would be fine quarantining on my own and there was
+
+
+{% include image-gallery.html folder="/assets/images/2022-09-09-COVID-hoian/fitting" %}
 
 {% include image-gallery.html folder="/assets/images/2022-09-09-COVID-hoian" %}
