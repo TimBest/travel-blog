@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hoi An: Lantern Making"
+title: "Hội An: Lantern Making"
 author:
   - Timothy Best
 flag: 🇻🇳

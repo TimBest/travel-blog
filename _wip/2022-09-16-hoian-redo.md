@@ -4,6 +4,8 @@ title: "Hoi An Redo"
 author:
   - Timothy Best
   - Katherine Nammacher
+flag: 🇻🇳
+thumbnail: /assets/thumbnails/2022-09-08-hoian/lanterns/IMG_4843.jpg
 ---
 
 - village
