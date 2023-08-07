@@ -13,7 +13,7 @@ thumbnail: /assets/thumbnails/2022-09-08-hoian/lanterns/IMG_4843.jpg
 - cooking class
 - lantern date night
 - beach routine
-- home-cooked dinner with chou
+- home-cooked dinner with chau & jonathan
   - chicken rice night
 - extra luggage
 - cooking class
