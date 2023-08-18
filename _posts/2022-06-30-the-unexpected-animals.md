@@ -4,6 +4,7 @@ title: "8 Unknown Animals From The Serengeti — Let's See How Many You Know"
 author:
   - Buzzfeed
 flag: 🇹🇿
+tag: Africa
 thumbnail: /assets/thumbnails/2022-06-30-unexpected/dik-dik.jpg
 ---
 

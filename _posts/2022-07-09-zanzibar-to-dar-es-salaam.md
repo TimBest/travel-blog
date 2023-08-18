@@ -4,6 +4,7 @@ title: "Zanzibar to Dar Es Salaam"
 author:
   - Timothy Best
 flag: 🇹🇿
+tag: Africa
 thumbnail: /assets/thumbnails/2022-07-09-zanzibar-to-dar-es-salaam/02-ferry/PXL_20220709_041410174.jpg
 ---
 

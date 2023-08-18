@@ -3,6 +3,7 @@ layout: post
 title: "Amsterdam - Museums and Gardens"
 author: Katherine Nammacher
 flag: 🇳🇱
+tag: Europe
 thumbnail: /assets/thumbnails/2022-06-13-amsterdam-art/peggy/IMG_2758.jpg
 thumbnail_position: right
 ---

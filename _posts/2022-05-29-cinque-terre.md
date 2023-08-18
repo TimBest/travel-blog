@@ -3,6 +3,7 @@ layout: post
 title: "The Italian Riviera & Cinque Terre"
 author: Katherine Nammacher
 flag: 🇮🇹
+tag: Europe
 thumbnail: /assets/thumbnails/04b_CinqueTerre_WebsiteCopies/IMG_0833-9.jpg
 thumbnail_position: right
 ---

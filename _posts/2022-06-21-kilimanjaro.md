@@ -5,6 +5,7 @@ author:
   - Timothy Best
   - Katherine Nammacher
 flag: 🇹🇿
+tag: Africa
 thumbnail: /assets/thumbnails/2022-06-21-kilimanjaro/day6/IMG_3394.jpg
 ---
 

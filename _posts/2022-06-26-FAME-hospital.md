@@ -4,6 +4,7 @@ title: "FAME Hospital"
 author:
  - Timothy Best
 flag: 🇹🇿
+tag: Africa
 thumbnail: /assets/thumbnails/2022-06-26-FAME/iv.jpg
 ---
 

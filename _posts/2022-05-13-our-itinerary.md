@@ -3,6 +3,7 @@ layout: post
 title: "Our Itinerary!"
 author: Timothy Best
 flag: 🇺🇸
+tag: Pre-Trip
 thumbnail: /assets/thumbnails/uhal.jpg
 ---
 

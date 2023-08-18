@@ -4,6 +4,7 @@ title: "Ngorongoro Crater"
 author:
   - Timothy Best
 flag: 🇹🇿
+tag: Africa
 thumbnail: /assets/thumbnails/2022-06-25-ngorongoro/lion/IMG_4258.jpg
 ---
 

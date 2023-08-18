@@ -4,6 +4,7 @@ title: "Siem Reap - Reflections on the first day"
 author:
   - Timothy Best
 flag: 🇰🇭
+tag: Asia
 thumbnail: /assets/thumbnails/2022-08-19-siem-reap/PXL_20220819_120252338.MP.jpg
 ---
 

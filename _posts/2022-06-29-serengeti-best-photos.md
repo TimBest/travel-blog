@@ -5,6 +5,7 @@ author:
   - Katherine Nammacher
   - Timothy Best
 flag: 🇹🇿
+tag: Africa
 thumbnail: /assets/thumbnails/2022-06-29-serengeti-best-photos/7-03/IMG_7900.jpg
 ---
 

@@ -4,6 +4,7 @@ title: "The Serengeti: The Animals and Place"
 author:
   - Katherine Nammacher
 flag: 🇹🇿
+tag: Africa
 thumbnail: /assets/thumbnails/2022-06-28-serengeti-animals-experience-photos/GreatMigration/PXL_20220701_112556957.jpg
 ---
 
