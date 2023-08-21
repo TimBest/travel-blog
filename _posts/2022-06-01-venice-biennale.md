@@ -7,7 +7,7 @@ thumbnail: /assets/thumbnails/2022-06-01-venice-biennale/katherine/IMG_20220601_
 thumbnail_position: right
 ---
 
-After train hopping from Bonassola to Pisa, Pisa to Florence, Florence to Venice. We had one more leg to go to get to our next stay: a Vaporetto from the train station in Venice to Giudecca, a neighborhood island in Venice. Vaporettos are water taxis, transporting locals and tourists alike across the water.
+After train hopping from Bonassola to Pisa, Pisa to Florence, Florence to Venice. We had one more leg to go to get to our next stay: a Vaporetto from the train station in Venice to Giudecca, a neighborhood island in Venice. Vaporettos are water taxis, transport locals and tourists alike across the water.
 
 ![route](/assets/images/2022-06-01-venice-biennale/route.png)
 
@@ -15,7 +15,7 @@ After train hopping from Bonassola to Pisa, Pisa to Florence, Florence to Venice
 
 As my first time in Venice, it was magical. The city is beautiful and centered around people - and people walking! It satisfies my desire for a city free of cars and with first-class pedestrian transit. Not having to deal with the noise of cars and the constant fear of being hit by a car allowed us to meander and enjoy the wanderlust of the city. Additionally, we enjoyed watching the food delivery and trash pickups by boat in the early morning. When transporting goods, the final legs of the journey - no matter the value of it - is by boat and then small carts easily able to do stairs, adding the city's magic.
 
-The first-class pedestrian transit, canals, beautiful architecture and a city focused on tourism also added up to a place that felt more like Disney world than an operational city. Due to this, Katherine and I were happy with our choice to stay in Giudecca - where many locals opt to live. Only one Vaporetto stop away from the core area of Venice, it was quick and easy for us to get to the attractions of the main island while still being quieter. It also lead us to a unique experience of seeing a local artist 5 times on the same day, as well as a waitress the served us every day we were there, and a retired couple from San Diego multiple times. Since we were all taking the same public transit and enjoying first-class pedestrian transit, we were able to strike up conversations and enjoy the moments of continuing to bump into each other.
+The first-class pedestrian transit, canals, beautiful architecture and a city focused on tourism also added up to a place that felt more like Disney World than an operational city. Due to this, Katherine and I were happy with our choice to stay in Giudecca - where many locals opt to live. Only one Vaporetto stop away from the core area of Venice, it was quick and easy for us to get to the attractions of the main island while still being quieter. It also lead us to a unique experience of seeing a local artist 5 times on the same day, as well as a waitress the served us every day we were there, and a retired couple from San Diego multiple times. Since we were all taking the same public transit and enjoying first-class pedestrian transit, we were able to strike up conversations and enjoy the moments of continuing to bump into each other.
 
 Beyond this, Venice footwear reminded Katherine of New York City - where everyone wears comfortable shoes because of the amount of walking required daily. Given the amount of inherent exercise in the walking that you do daily, everyone was in decent shape. It was clear that folks were used to being on their feet and wouldn't bat an eye at walking a couple of miles. We already are traveling with our hiking shoes in prep for Tanzania, so we fit right in with our comfortable shoes - which was great.
 
@@ -42,7 +42,7 @@ Additionally, The pavilion featured large glass windows that gave a view into lu
 
 [Veronica Green's](https://www.veronicagreen.com/) gallery was one of the last that we visited on our first day. We happened to walk by after leaving the Arsenale, part of the main Biennale grounds. We were both exhausted from a full day of experiences. However, we both perked up at her gallery. The gallery was made into an immersive experience with the use of light. The viewing was roughly a 10-minute show where you first see the pieces in natural daylight, then UV (or black light) and then the darkness.
 
-The artwork resonated with both of us. It managed to convey a playful wonder. And explicitly stated several statements that our experiences have lead us to find true in our own lives.
+The artwork resonated with both of us. It managed to convey a playful wonder. And explicitly stated several statements that our experiences have led us to find truth in our own lives.
 
 {% include image-gallery.html folder="/assets/images/2022-06-01-venice-biennale/Veronica-Green" %}
 
