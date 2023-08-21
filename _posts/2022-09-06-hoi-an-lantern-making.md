@@ -4,6 +4,7 @@ title: "Hội An: Lantern Making"
 author:
   - Timothy Best
 flag: 🇻🇳
+tag: Asia
 thumbnail: /assets/thumbnails/2022-09-06-lantern-making/results/IMG_4796.jpg
 ---
 

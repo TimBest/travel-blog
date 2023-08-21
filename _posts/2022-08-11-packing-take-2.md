@@ -4,6 +4,7 @@ title: "Packing: take 2"
 author:
   - Timothy Best
 flag: 🇺🇸
+tag: North America - summer
 thumbnail: /assets/thumbnails/packing2.jpg
 ---
 

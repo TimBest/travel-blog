@@ -3,6 +3,7 @@ layout: post
 title: "The Vatican"
 author: Katherine Nammacher
 flag: 🇮🇹
+tag: Europe
 thumbnail: /assets/thumbnails/01_Vatican_WebsiteCopies/IMG_0296-21.jpg
 ---
 

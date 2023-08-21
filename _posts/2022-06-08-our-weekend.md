@@ -3,6 +3,7 @@ layout: post
 title: "Our Weekend in the Dolomites"
 author: Katherine Nammacher
 flag: 🇮🇹
+tag: Europe
 thumbnail: /assets/thumbnails/2022-06-08-our-weekend/meal/IMG_2296.jpg
 ---
 

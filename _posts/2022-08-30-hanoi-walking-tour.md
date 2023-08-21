@@ -4,6 +4,7 @@ title: "Hanoi: Arrival & Walking Tour"
 author:
   - Timothy Best
 flag: 🇻🇳
+tag: Asia
 thumbnail: /assets/thumbnails/2022-08-30-hanoi/free-walking-tour/markets/lantern/PXL_20220831_044906250.jpg
 ---
 

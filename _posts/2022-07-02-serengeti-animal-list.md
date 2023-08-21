@@ -4,6 +4,7 @@ title: "The Serengeti: Daily Animal Sightings"
 author:
   - Katherine Nammacher
 flag: 🇹🇿
+tag: Africa
 thumbnail: /assets/thumbnails/2022-06-29-serengeti-best-photos/6-29/IMG_5160.jpg
 ---
 ## The Epic Animals List

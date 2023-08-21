@@ -5,6 +5,7 @@ author:
   - Timothy Best
   - Katherine Nammacher
 flag: 🇮🇹
+tag: Europe
 thumbnail: /assets/thumbnails/2022-06-05-passo-giau/gusela/IMG_1212.jpg
 ---
 

@@ -4,6 +4,7 @@ title: "Solo Travel: Phong Nha - Camping in a Cave"
 author:
   - Katherine Nammacher
 flag: 🇻🇳
+tag: Asia
 thumbnail: /assets/thumbnails/2022-09-12-Phong-Nha/006-Morning-hike-tour/PXL_20220913_014512478.jpg
 ---
 

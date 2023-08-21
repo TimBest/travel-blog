@@ -4,6 +4,7 @@ title: "Paka: A Lesson in Being Flexible for Your Future"
 author:
   - Katherine Nammacher
 flag: 🇹🇿
+tag: Africa
 thumbnail: /assets/thumbnails/2022-07-13-paka/tuna.jpg
 ---
 

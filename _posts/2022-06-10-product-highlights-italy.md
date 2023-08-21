@@ -4,6 +4,7 @@ title: "Product Highlights - Italy"
 author:
   - Timothy Best
 flag: 🇮🇹
+tag: Europe
 thumbnail: /assets/thumbnails/2022-06-10-product-highlights-italy/IMG_0678.jpg
 ---
 

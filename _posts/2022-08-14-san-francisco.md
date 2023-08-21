@@ -4,6 +4,7 @@ title: "42 hours in San Francisco"
 author:
   - Timothy Best
 flag: 🇺🇸
+tag: North America - summer
 thumbnail: /assets/thumbnails/2022-08-14-san-fran/tourist/0_PXL_20220816_005132181.MP.jpg
 ---
 

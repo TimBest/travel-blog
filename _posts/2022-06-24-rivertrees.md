@@ -4,6 +4,7 @@ title: "Rivertrees Country Inn"
 author:
   - Timothy Best
 flag: 🇹🇿
+tag: Africa
 thumbnail: /assets/thumbnails/2022-06-24-rivertrees/owls/IMG_3708.jpg
 ---
 

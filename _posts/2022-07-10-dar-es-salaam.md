@@ -4,6 +4,7 @@ title: "13 days in Dar Es Salaam"
 author:
   - Timothy Best
 flag: 🇹🇿
+tag: Africa
 thumbnail: /assets/thumbnails/2022-07-10-dar-es-salaam/7-10/IMG_9042.jpg
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "Venice Biennale"
 author: Timothy Best
 flag: 🇮🇹
+tag: Europe
 thumbnail: /assets/thumbnails/2022-06-01-venice-biennale/katherine/IMG_20220601_112204-6.jpg
 thumbnail_position: right
 ---

@@ -129,8 +129,10 @@
     left: 50%;
     margin-left: -($tooltip-width/2);
   }
+}
 
-
+summary {
+  cursor: pointer;
 }
 
 .all-post-page {
