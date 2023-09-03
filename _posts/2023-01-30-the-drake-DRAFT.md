@@ -27,8 +27,9 @@ author:
   - each day the view is so different and so spectacular
 - we didn't pay for the internet which is really nice to help us stay present
   - especially given how full the days are it is nice not to have other distractions
-    without the internet, we can still access the portal and whats app - which is nice to chat with my parents and Jae&John
+    without the internet, we can still access the portal and whats app - which is nice to chat with my parents and Jake&John
 - the slippers I got in Punta Aranes were so perfect for the boat
+  - I got many complements
 - being out on the deck for whale watching I lost feeling in my trigger finger 3 or 4 times
 - every time there was an animal sighting we would head to the 5/6 th floor observation deck and start to recognize the others who showed us. Katie dubbed us the 5th-floor observation deck crew
 
