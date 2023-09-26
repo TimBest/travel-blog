@@ -3,15 +3,13 @@ layout: post
 title: "DRAFT: Seoul"
 flag: 🇰🇷
 tag: Asia
-thumbnail: assets/images/2022-10-04-seoul/PXL_20221009_083701676.jpg
+thumbnail: assets/thumbnails/2022-10-04-seoul/blue-house/IMG_6886.jpg
 author:
   - Timothy Best
   - Katherine Nammacher
 ---
 
-- proposal
-  - DDP
-  - redevelopment zone
+
 - electronics mall
 - blue house
   North Korean cold soup
@@ -50,7 +48,7 @@ author:
   - US moving an aircraft carrier in
 - PCR test requirement dropped right before we got there
   - wasn't sure what would happen due to my recent recovery
-    {% include image-gallery.html folder="/assets/images/2022-10-04-Seoul" %}
+
 
 ## Blue House
 
@@ -69,3 +67,78 @@ author:
 - the meat course which we would think of as the main was one of the first ones
   the main course was a soup
 - we were served a sweet plum tea for dessert to help with digestion
+
+{% include image-gallery.html folder="/assets/images/2022-10-04-seoul/hanilkwan" %}
+
+## Cold Soup
+
+{% include image-gallery.html folder="/assets/images/2022-10-04-seoul/cold-soup" %}
+
+## Electronics
+- purchased some LEDs with battery
+- stewart& grace getting keyboard
+{% include image-gallery.html folder="/assets/images/2022-10-04-seoul/electronics" %}
+
+## Vegetable place
+- Stewart serving us and teaching us the ways
+{% include image-gallery.html folder="/assets/images/2022-10-04-seoul/eww-vegtibles-house" %}
+
+
+## Old Village
+- All the doors
+- fun exploring
+- tea house sun set
+- finding artist
+- finding socks
+- finding concert with inflatable moons
+- TV camera man filing in concert square
+{% include image-gallery.html folder="/assets/images/2022-10-04-seoul/old-village" %}
+
+
+## Plaza
+- upsdie down american flags
+- emperor that made the new language
+{% include image-gallery.html folder="/assets/images/2022-10-04-seoul/plaza" %}
+
+
+## Proposal
+- DDP
+- redevelopment zone
+- missing dinner
+- rain
+- High expectations for COVID lunch box exibt
+- strandid under the bridge
+- Tim spending all day writing the card to the point we missed lunch
+- getting a burger on the way to the train
+- eating cereal in the hotl
+- katie's proposal
+- the shirt the book
+- Stewar/Grace helping me book the restraunt
+- green michalen star
+- wearing the shirt the next day
+- the four cards
+{% include image-gallery.html folder="/assets/images/2022-10-04-seoul/proposal" %}
+
+
+## Sacred Garden
+- all the cool doors
+- tour guide keeping all the no mask people in check
+- getting in trouble for eatting a banana
+  - "Im shocked"
+- breaking away due to stroller
+- emperor walk
+- emperor fishing area
+- gate way of youth
+
+{% include image-gallery.html folder="/assets/images/2022-10-04-seoul/sacred-garden" %}
+
+# Stay
+- cargo planes going everhead all the time
+- nice to go for a walk
+- Tim enjoying the cold
+- The mall
+  - Kodak, Panam, Nat Geo, ...
+  - Muji store
+- dinner date at the tap and pour beer garden place
+- lunch at the tempora place
+{% include image-gallery.html folder="/assets/images/2022-10-04-seoul/stay" %}
