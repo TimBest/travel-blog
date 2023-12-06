@@ -58,7 +58,7 @@ Moments:
 {% include youtube.html code="9ZlT6HwTpVQ" %}
 * While in White Plains, we hired a teenager down the street to watch Paka while we were in NYC. Paka hadn't been alone for more than a handful of hours since we started taking care of her, and was in a new place. We wanted to make sure she was not scared by herself. The neighbor ended up playing with her very well, and Paka slept on her lap. This neighbor also got Paka to enjoy playing with the pop-up tunnel. By the time we got back, Paka was running through it!
 * When getting to Tim's parent's house, Tim's dad Ray immediately started playing with Paka. And he really played with Paka - more so than we were doing, given our energy from traveling. She quickly realized that her playful "attack mode" was best with Ray! Tim's mom Mary became a solid napping spot for Paka also. We helped coax Paka onto Mary's lap for the first time for her to sleep, and by the time we left Paka would find her way there independently!
-{% include image-gallery.html folder="/assets/images/2022-08-15-northamerica/cp-paka" %}
+{% include image-gallery.html folder="/assets/images/2022-08-15-northamerica/cp_paka" %}
 * Tim's parents hosted my parents for dinner, allowing them to meet one another for the first time! (My parent's lake house is 45 minutes away from Tim's parents, but with COVID we had not felt comfortable before this summer pulling everyone together.) We shared a bit about our trip with everyone, chatted, and also watched Paka do her thing. Tim's parents cooked an amazing meal for us and we had a great time.
 ![the rents](/assets/images/2022-08-15-northamerica/cp-dinner/IMG_9431.jpg)
 
