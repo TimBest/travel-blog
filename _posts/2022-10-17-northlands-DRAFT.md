@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Northlands"
 flag: 🇳🇿
 tag: Australia
-thumbnail: assets/thumbnails/2022-10-17-northlands/IMG_7466.jpg
+thumbnail: assets/thumbnails/2022-10-17-northlands/tane/IMG_7466.jpg
 author:
   - Timothy Best
   - Katherine Nammacher
@@ -22,4 +22,27 @@ author:
   - walk to father of the forest
     '
 
-{% include image-gallery.html folder="/assets/images/2022-10-17-northlands" %}
+# signage
+{% include image-gallery.html folder="/assets/images/2022-10-17-northlands/signage" %}
+
+# drive north
+{% include image-gallery.html folder="/assets/images/2022-10-17-northlands/drive-north" %}
+
+# treaty grounds
+{% include image-gallery.html folder="/assets/images/2022-10-17-northlands/treaty-grounds" %}
+
+# Dinner2
+{% include image-gallery.html folder="/assets/images/2022-10-17-northlands/dinner2" %}
+
+# Drive to Tane
+{% include image-gallery.html folder="/assets/images/2022-10-17-northlands/to-tane" %}
+
+# Tane
+{% include image-gallery.html folder="/assets/images/2022-10-17-northlands/tane" %}
+
+# Te Matua
+{% include image-gallery.html folder="/assets/images/2022-10-17-northlands/te-matua" %}
+
+
+# To hobbiton
+{% include image-gallery.html folder="/assets/images/2022-10-17-northlands/to-hobbiton" %}
