@@ -5,7 +5,7 @@ title: Our Trip
 
 ![Map of the countries/states/provinces that we plan to visit](/assets/images/The_Great_Migration_v04.png)
 
-**The Great Migration** is an opportunity for us to explore the world, take a break from working to reflect on our lives, and understand one another in a deeper way by traveling together. We are traveling for ~10 months, attempting to visit at least one country per continent (including Antarctica). This where we plan to be, which might change. Here's to adventure!
+**The Great Migration** is an opportunity for us to explore the world, take a break from working to reflect on our lives and understand one another in a deeper way by traveling together. We are traveling for ~10 months, attempting to visit at least one country per continent (including Antarctica). This was our itinerary. Here's to adventure!
 
 **May - July 2022: Europe & Africa**
 
@@ -18,8 +18,8 @@ title: Our Trip
 
 **September - December 2022: Asia & Australia**
 
-- Singapore: A layover and quick look at the city
-- Cambodia: Ankor Wat, and more
+- Singapore: A layover and a quick look at the city
+- Cambodia: Angkor Wat, and more
 - Vietnam: Hanoi, Halong bay, Hoi An, and more
 - South Korea: Seoul
 - New Zealand: Backpacking to Mount Doom (Lord of the Rings), Great Walks, and beyond
@@ -27,7 +27,7 @@ title: Our Trip
 **January - February 2023: South America & Antarctica**
 
 - Chile: Punta Arenas, Puerto Varas, Santiago
-- Argentina: Stop over in Ushuaia
+- Argentina: Stopover in Ushuaia
 - Antarctica: Taking a cruise with Katherine's parents to explore the great snowy continent
 
 We are incredibly excited and grateful to be traveling. Thank you for following our adventures!
