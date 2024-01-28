@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Kaikoura"
 flag: 🇳🇿
 tag: Australia 
-thumbnail: assets/thumbnails/2022-11-13-kaikoura/IMG_2318.jpg
+thumbnail: /assets/thumbnails/2022-11-13-kaikoura/IMG_2318.jpg
 author:
   - Katherine Nammacher
 ---

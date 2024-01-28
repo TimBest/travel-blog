@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Christchurch"
 flag: 🇳🇿
 tag: Australia
-thumbnail: assets/thumbnails/2022-11-16-christchurch/IMG_2814.jpg
+thumbnail: /assets/thumbnails/2022-11-16-christchurch/IMG_2814.jpg
 author:
   - Katherine Nammacher
 ---

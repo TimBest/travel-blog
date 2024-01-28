@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Crossing The Drake"
 flag: 🇦🇶
 tag: Antarctica
-thumbnail: assets/thumbnails/2023-01-31-antarctica/1-drake-shake/IMG_9523.jpg
+thumbnail: /assets/thumbnails/2023-01-31-antarctica/1-drake-shake/IMG_9523.jpg
 author:
   - Timothy Best
 ---

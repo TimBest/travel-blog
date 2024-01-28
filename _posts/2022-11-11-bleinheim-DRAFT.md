@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Bleinheim"
 flag: 🇳🇿
 tag: Australia
-thumbnail: assets/thumbnails/2022-11-11-bleinheim/IMG_1734.jpg
+thumbnail: /assets/thumbnails/2022-11-11-bleinheim/IMG_1734.jpg
 author:
   - Katherine Nammacher
 ---

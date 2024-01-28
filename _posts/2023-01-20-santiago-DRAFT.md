@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Santiago"
 flag: 🇨🇱
 tag: South America
-thumbnail: assets/thumbnails/2023-01-20-santiago/history-and-library/IMG_8790.jpg
+thumbnail: /assets/thumbnails/2023-01-20-santiago/history-and-library/IMG_8790.jpg
 author:
   - Timothy Best
 ---

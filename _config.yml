@@ -30,13 +30,16 @@ collections:
 
 header_pages:
   - our-trip.md
-  - posts.md
+  - posts/index.html
 # Build settings
 # theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
+paginate: 15
+paginate_path: "/posts/page:num/"
 excerpt_separator: <!--more-->
 # Exclude from processing.
 # The following items will not be processed, by default.

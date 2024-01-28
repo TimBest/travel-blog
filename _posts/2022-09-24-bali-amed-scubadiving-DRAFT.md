@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Bali - amed scuba"
 flag: 🇮🇩
 tag: Asia
-thumbnail: assets/thumbnails/2022-09-24-amed/day-4-dive-1-kubu-boga-wreck/GH017648-1.jpg
+thumbnail: /assets/thumbnails/2022-09-24-amed/day-4-dive-1-kubu-boga-wreck/GH017648-1.jpg
 author:
   - Timothy Best
 ---

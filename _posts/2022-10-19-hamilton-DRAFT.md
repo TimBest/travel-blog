@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Hamilton"
 flag: 🇳🇿
 tag: Australia
-thumbnail: assets/thumbnails/2022-10-19-hamilton/IMG_7649.jpg
+thumbnail: /assets/thumbnails/2022-10-19-hamilton/IMG_7649.jpg
 author:
   - Timothy Best
   - Katherine Nammacher

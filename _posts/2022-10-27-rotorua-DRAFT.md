@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Rotorua"
 flag: 🇳🇿
 tag: Australia
-thumbnail: assets/thumbnails/2022-10-27-rotorua/IMG_9431.jpg
+thumbnail: /assets/thumbnails/2022-10-27-rotorua/IMG_9431.jpg
 author:
   - Katherine Nammacher
 ---

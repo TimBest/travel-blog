@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Northlands"
 flag: 🇳🇿
 tag: Australia
-thumbnail: assets/thumbnails/2022-10-17-northlands/tane/IMG_7466.jpg
+thumbnail: /assets/thumbnails/2022-10-17-northlands/tane/IMG_7466.jpg
 author:
   - Timothy Best
   - Katherine Nammacher

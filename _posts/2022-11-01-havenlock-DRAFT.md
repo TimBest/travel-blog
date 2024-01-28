@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Wrapping up the north island"
 flag: 🇳🇿
 tag: Australia
-thumbnail: assets/thumbnails/2022-11-01-havenlock/IMG_9859.jpg
+thumbnail: /assets/thumbnails/2022-11-01-havenlock/IMG_9859.jpg
 author:
   - Katherine Nammacher
 ---

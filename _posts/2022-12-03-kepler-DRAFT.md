@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Kepler"
 flag: 🇳🇿
 tag: Australia
-thumbnail: assets/thumbnails/2022-12-03-kepler/IMG_9169.jpg
+thumbnail: /assets/thumbnails/2022-12-03-kepler/IMG_9169.jpg
 author:
   - Timothy Best
 ---

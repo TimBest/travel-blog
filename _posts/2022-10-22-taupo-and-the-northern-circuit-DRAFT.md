@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Tongariro Northern Circuit"
 flag: 🇳🇿
 tag: Australia
-thumbnail: assets/thumbnails/2022-10-22-taupo/IMG_8344.jpg
+thumbnail: /assets/thumbnails/2022-10-22-taupo/IMG_8344.jpg
 author:
   - Timothy Best
 ---

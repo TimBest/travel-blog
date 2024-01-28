@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Seoul"
 flag: 🇰🇷
 tag: Asia
-thumbnail: assets/thumbnails/2022-10-04-seoul/blue-house/IMG_6886.jpg
+thumbnail: /assets/thumbnails/2022-10-04-seoul/blue-house/IMG_6886.jpg
 author:
   - Timothy Best
   - Katherine Nammacher

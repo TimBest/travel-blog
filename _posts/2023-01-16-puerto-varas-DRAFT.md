@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Puerto Varas"
 flag: 🇨🇱
 tag: South America
-thumbnail: assets/thumbnails/2023-01-16-puerto-varas/IMG_8477.jpg
+thumbnail: /assets/thumbnails/2023-01-16-puerto-varas/IMG_8477.jpg
 author:
   - Timothy Best
 ---

@@ -5,7 +5,7 @@ author:
   - Timothy Best
 flag: 🇻🇳
 tag: Asia
-thumbnail: assets/thumbnails/2022-09-09-COVID-hoian/testing/IMG-20220908-WA0000.jpg
+thumbnail: /assets/thumbnails/2022-09-09-COVID-hoian/testing/IMG-20220908-WA0000.jpg
 ---
 
 I awoke feeling fatigued and concluded that I was traveled out. So I ate a bowl of cereal and decided to take the morning off to relax, catch up on some TV, and then met up with Katie in the afternoon. 

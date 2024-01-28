@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Channel, Peterman, Engine Room"
 flag: 🇦🇶
 tag: Antarctica
-thumbnail: assets/thumbnails/2023-01-31-antarctica/7.1-channel/IMG_8081.jpg
+thumbnail: /assets/thumbnails/2023-01-31-antarctica/7.1-channel/IMG_8081.jpg
 author:
   - Timothy Best
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Punta Arenas"
 flag: 🇨🇱
 tag: South America
-thumbnail: assets/thumbnails/2023-01-06-punta-arenas/penguin/IMG_4692.jpg
+thumbnail: /assets/thumbnails/2023-01-06-punta-arenas/penguin/IMG_4692.jpg
 author:
   - Timothy Best
 ---

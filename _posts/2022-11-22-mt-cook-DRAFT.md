@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Mt cook"
 flag: 🇳🇿
 tag: Australia
-thumbnail: assets/thumbnails/2022-11-22-mt-cook/IMG_3462.jpg
+thumbnail: /assets/thumbnails/2022-11-22-mt-cook/IMG_3462.jpg
 author:
   - Katherine Nammacher
 ---

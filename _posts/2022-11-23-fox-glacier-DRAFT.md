@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Fox Glaicer"
 flag: 🇳🇿
 tag: Australia
-thumbnail: assets/thumbnails/2022-11-23-fox-glacier/IMG_4377.jpg
+thumbnail: /assets/thumbnails/2022-11-23-fox-glacier/IMG_4377.jpg
 author:
   - Katherine Nammacher
 ---

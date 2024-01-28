@@ -3,7 +3,7 @@ layout: post
 title: "DRAFT: Barrientos and Tay head Island"
 flag: 🇦🇶
 tag: Antarctica
-thumbnail: assets/thumbnails/2023-01-31-antarctica/3-tay-head-joinville-island/IMG_0734.jpg
+thumbnail: /assets/thumbnails/2023-01-31-antarctica/3-tay-head-joinville-island/IMG_0734.jpg
 author:
   - Timothy Best
 ---
