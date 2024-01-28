@@ -1,5 +1,5 @@
 ---
-layout: post_list
+layout: default
 ---
 
 ![The great migration](/assets/images/2022-06-29-serengeti-best-photos/6-29/IMG_5177.jpg)
@@ -10,4 +10,4 @@ layout: post_list
 
 {% include codepel-gallery.html %}
 
-# All Posts
+{% include timeline.html %}

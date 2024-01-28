@@ -5,13 +5,13 @@
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-  p {
-    img {
-      margin: auto;
-      display: block;
-   }
+p {
+  img {
+    margin: auto;
+    display: block;
   }
-  
+}
+
 
 .thumbnail {
   min-width: 100%;
@@ -27,6 +27,7 @@
 .gallery {
   display: flex;
   flex-wrap: wrap;
+
   .gallery-item {
     flex-grow: 1;
     height: 200px;
@@ -46,12 +47,14 @@
   display: block;
   width: auto;
   overflow: hidden;
+
   a {
     display: block;
     width: 50%;
     float: left;
     margin: 1em 0;
   }
+
   .next {
     text-align: right;
   }
@@ -59,11 +62,13 @@
 
 .post-meta {
   display: flex;
+
   .p-author {
     color: #111111;
     font-size: 16px;
   }
 }
+
 .profile-picture-container {
   display: inline-block;
   position: relative;
@@ -72,6 +77,7 @@
   overflow: hidden;
   border-radius: 50%;
   margin-right: 10px;
+
   img {
     width: auto;
     height: 100%;
@@ -81,7 +87,7 @@
 
 .caption {
   color: #555;
-  font-size: 12px; 
+  font-size: 12px;
   text-align: center;
   margin-bottom: 15px;
 }
@@ -95,7 +101,8 @@
   display: inline-block;
   border-bottom: 1px dotted $tooltip-bg;
 
-  &:hover, &:focus {
+  &:hover,
+  &:focus {
     .tooltiptext {
       visibility: visible;
     }
@@ -113,6 +120,7 @@
 
     position: absolute;
     z-index: 1;
+
     &:after {
       content: " ";
       position: absolute;
@@ -124,8 +132,9 @@
       border-color: transparent transparent $tooltip-bg transparent;
     }
   }
+
   .bottom {
-    top:100%;
+    top: 100%;
     left: 50%;
     margin-left: -($tooltip-width/2);
   }
@@ -152,6 +161,7 @@ summary {
 .post-card-img {
   height: 200px;
   min-width: 150px;
+
   img {
     object-fit: cover;
     width: 150px;
@@ -164,13 +174,16 @@ summary {
   .post-card-header {
     margin: 0;
   }
+
   display: list-item;
   margin: 10px 10px 10px 20px;
 }
+
 @media screen and (max-width: 600px) {
   .post-card {
     display: inline-block;
   }
+
   .post-card-img img {
     width: 100%;
     height: 200px;
@@ -281,8 +294,174 @@ summary {
   .card_text {
     font-size: 0.875rem;
     line-height: 1.5;
-    margin-bottom: 1.25rem;    
+    margin-bottom: 1.25rem;
     font-weight: 400;
   }
 
+}
+
+.simple-responsive-timeline {
+  $primary-color: #6f42c1;
+  $primary-color-hover: scale-color($primary-color, $lightness: 32%);
+
+  .container-fluid {
+    .row {
+      padding: 0 0 4em 0;
+
+      &:nth-child(even) {
+        background: #F1F4F5;
+      }
+    }
+  }
+
+  /*==================================
+    TIMELINE
+==================================*/
+
+  /*-- GENERAL STYLES
+    ------------------------------*/
+  .timeline {
+    line-height: 1.4em;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+
+  .timeline-item {
+    padding-left: 40px;
+    position: relative;
+
+    &:last-child {
+      padding-bottom: 0;
+    }
+  }
+
+  .timeline-info {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin: 0 0 .5em 0;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .timeline-marker {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 15px;
+
+    &:before {
+      background: $primary-color;
+      border: 3px solid transparent;
+      border-radius: 100%;
+      content: "";
+      display: block;
+      height: 15px;
+      position: absolute;
+      top: 2px;
+      left: -3px;
+      width: 15px;
+      transition: background 0.3s ease-in-out,
+        border 0.3s ease-in-out;
+    }
+
+
+    &:after {
+      content: "";
+      width: 3px;
+      background: #CCD5DB;
+      display: block;
+      position: absolute;
+      top: 24px;
+      bottom: 0;
+      left: 6px;
+    }
+
+    .timeline-item:last-child &:after {
+      content: none;
+    }
+  }
+
+  .timeline-item:not(.period):hover .timeline-marker:before {
+    background: transparent;
+    border: 3px solid $primary-color;
+  }
+
+  .timeline-content {
+    padding-bottom: 40px;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  /*----- TIMELINE PERIOD -----*/
+
+  .period {
+    padding: 0;
+
+    .timeline-info {
+      display: none;
+    }
+
+
+    .timeline-marker.title:before {
+      border-top: none;
+    }
+
+    .timeline-marker.end:before {
+      border-bottom: none;
+    }
+
+    .timeline-marker {
+      &:before {
+        background: transparent;
+        content: "";
+        width: 15px;
+        height: auto;
+        border: none;
+        border-radius: 0;
+        top: 0;
+        bottom: 30px;
+        left: 0px;
+        position: absolute;
+        border-top: 3px solid #CCD5DB;
+        border-bottom: 3px solid #CCD5DB;
+      }
+
+      &:after {
+        content: "";
+        height: 32px;
+        top: auto;
+      }
+    }
+
+    .timeline-content {
+      padding: 40px 0 70px;
+    }
+
+    .timeline-title {
+      margin: 0;
+    }
+  }
+
+  /*----------------------------------------------
+        MOD: MARKER OUTLINE
+    ----------------------------------------------*/
+
+  .marker-outline {
+    .timeline-marker {
+      &:before {
+        background: transparent;
+        border-color: $primary-color;
+      }
+    }
+
+    .timeline-item:hover .timeline-marker:before {
+      background: $primary-color;
+    }
+  }
 }
