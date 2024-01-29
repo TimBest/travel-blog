@@ -2,7 +2,7 @@
 layout: post
 title: "DRAFT: Snow Hill Hut and Blue Whales"
 flag: 🇦🇶
-tag: Antarctica
+tag: antarctica
 thumbnail: /assets/thumbnails/2023-01-31-antarctica/5.1-blue-whale/IMG_4156.jpg
 author:
   - Timothy Best

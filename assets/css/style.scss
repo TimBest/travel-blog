@@ -301,7 +301,7 @@ summary {
 }
 
 .simple-responsive-timeline {
-  $primary-color: #6f42c1;
+  $primary-color: #CCD5DB;
   $primary-color-hover: scale-color($primary-color, $lightness: 32%);
 
   .container-fluid {
@@ -338,12 +338,12 @@ summary {
   }
 
   .timeline-info {
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: 3px;
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 1px;
     margin: 0 0 .5em 0;
-    text-transform: uppercase;
     white-space: nowrap;
+    color: #828282;
   }
 
   .timeline-marker {

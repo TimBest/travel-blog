@@ -2,7 +2,7 @@
 layout: post
 title: "DRAFT: Drake Again"
 flag: 🇦🇶
-tag: Antarctica
+tag: antarctica
 thumbnail: /assets/thumbnails/2023-01-31-antarctica/4.1-sunset/IMG_3592.jpg
 author:
   - Timothy Best

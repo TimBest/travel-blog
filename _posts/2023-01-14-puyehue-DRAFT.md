@@ -2,7 +2,7 @@
 layout: post
 title: "DRAFT: Puyehue"
 flag: 🇨🇱
-tag: South America
+tag: chile
 thumbnail: /assets/thumbnails/2023-01-14-puyehue/national-park/IMG_8356.jpg
 author:
   - Timothy Best

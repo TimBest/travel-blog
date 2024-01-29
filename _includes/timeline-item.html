@@ -4,7 +4,7 @@
   </div>
   <div class="timeline-marker"></div>
   <div class="timeline-content">
-    <h3 class="timeline-title">{{ include.title }}</h3>
+    <h3 class="timeline-title">{{ include.title | markdownify }}</h3>
     <p>{{ include.description | markdownify }}</p>
   </div>
 </li>

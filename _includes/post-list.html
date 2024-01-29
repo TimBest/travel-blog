@@ -1,0 +1,49 @@
+<main class="page-content all-post-page" aria-label="Content">
+  <div class="wrapper">
+    <div class="home">
+      <h1 class="page-heading">{{ page.title }}</h1>
+      <ul class="post-list">
+        {%- for post in include.posts reversed -%}
+        <li class="post-card">
+          <div class="post-card-img">
+            <a href="{{ post.url | relative_url }}">
+              <img
+                src="{{ post.thumbnail }}"
+                alt="{{ post.title }}"
+                loading="lazy"
+                style="object-position: {{ post.thumbnail_position }}"
+              />
+            </a>
+          </div>
+          <div class="post-card-content">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              <h3 class="post-card-header">{{ post.title | escape }}</h3>
+            </a>
+            <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+            {% include post-meta.html authors=post.author date=post.date flag=post.flag %}
+          </div>
+        </li>
+        {%- endfor -%}
+      </ul>
+
+      {% if include.is_paginated %}
+      <div class="pager">
+        <!-- Pagination links -->
+        <div class="pagination">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="previous">
+              Previous ·
+            </a>
+          {% endif %}
+          <span class="page_number ">
+            {{ paginator.page }} of {{ paginator.total_pages }}
+          </span>
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="next">· Next</a>
+          {% endif %}
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</main>

@@ -2,7 +2,7 @@
 layout: post
 title: "DRAFT: All the things"
 flag: 🇦🇶
-tag: Antarctica
+tag: antarctica
 thumbnail: /assets/thumbnails/2023-01-31-antarctica/6-gentoo/IMG_5280.jpg
 author:
   - Timothy Best
