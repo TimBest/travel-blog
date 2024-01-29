@@ -4,7 +4,7 @@ title: "Solo Travel: Hoi Van Pass on a Motorcycle"
 author:
   - Katherine Nammacher
 flag: 🇻🇳
-tag: Asia
+tag: vietnam
 thumbnail: /assets/thumbnails/2022-09-15-Hoi-Van-Pass/006-Da-Nang-Bridge/IMG_5679.JPG
 ---
 

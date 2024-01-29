@@ -5,7 +5,7 @@ author:
   - Timothy Best
   - Katherine Nammacher
 flag: 🇻🇳
-tag: Asia
+tag: vietnam
 thumbnail: /assets/thumbnails/2022-09-16-hoian-redo/village/IMG_5860.jpg
 ---
 

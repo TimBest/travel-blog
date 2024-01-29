@@ -4,7 +4,7 @@ title: "Hanoi: The Food"
 author:
   - Timothy Best
 flag: 🇻🇳
-tag: Asia
+tag: vietnam
 thumbnail: /assets/thumbnails/2022-08-30-hanoi/food-tour/2-snails/PXL_20220901_113541870.jpg
 ---
 

@@ -4,7 +4,7 @@ title: "DRAFT: COVID in Hội An: Suits & Quarantine"
 author:
   - Timothy Best
 flag: 🇻🇳
-tag: Asia
+tag: vietnam
 thumbnail: /assets/thumbnails/2022-09-09-COVID-hoian/testing/IMG-20220908-WA0000.jpg
 ---
 

@@ -4,7 +4,7 @@ title: "Siem Reap - The Extension"
 author:
   - Katherine Nammacher
 flag: 🇰🇭
-tag: Asia
+tag: siem-reap
 thumbnail: /assets/thumbnails/2022-08-25-angkorwat/extraweekend-drawing/IMG_2999.jpg
 ---
 

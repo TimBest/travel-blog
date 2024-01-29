@@ -4,7 +4,7 @@ title: "Angkor Wat: The Photoshoot"
 author:
   - Katherine Nammacher
 flag: 🇰🇭
-tag: Asia
+tag: siem-reap
 thumbnail: /assets/thumbnails/2022-08-25-angkorwat/AngkorWat-Photoshoot/IMG_1964.jpg
 ---
 

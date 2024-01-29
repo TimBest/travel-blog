@@ -3,7 +3,7 @@ layout: post
 title: "Amsterdam - Bike, Buses, and Trains!"
 author: Timothy Best
 flag: 🇳🇱
-tag: Europe
+tag: amsterdam
 thumbnail: /assets/thumbnails/2022-06-13-amseterdam-transit/IMG_2778.jpg
 ---
 

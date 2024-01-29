@@ -4,7 +4,7 @@ title: "Hạ Long Bay: A Cruise of Wonder"
 author:
   - Katherine Nammacher
 flag: 🇻🇳
-tag: Asia
+tag: vietnam
 thumbnail: /assets/thumbnails/2022-09-05-halongbay/9-4/IMG_4223.jpg
 ---
 

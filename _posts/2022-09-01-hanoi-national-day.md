@@ -4,7 +4,7 @@ title: "Hanoi: National Day"
 author:
   - Timothy Best
 flag: 🇻🇳
-tag: Asia
+tag: vietnam
 thumbnail: /assets/thumbnails/2022-08-30-hanoi/national-day/lunch/PXL_20220902_070919834.MP.jpg
 ---
 

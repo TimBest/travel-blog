@@ -3,7 +3,7 @@ layout: post
 title: "Finishing Europe - Our First Continent"
 author: Katherine Nammacher
 flag: 🇳🇱
-tag: Europe
+tag: amsterdam
 thumbnail: /assets/thumbnails/goodbye.jpg
 ---
 
